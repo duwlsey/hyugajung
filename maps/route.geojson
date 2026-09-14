@@ -1,0 +1,3256 @@
+{
+  "type": "Feature",
+  "properties": {
+    "mode": "drive",
+    "waypoints": [
+      {
+        "location": [
+          126.898392,
+          35.181643
+        ],
+        "original_index": 0
+      },
+      {
+        "location": [
+          126.988196,
+          35.321237
+        ],
+        "original_index": 1
+      }
+    ],
+    "units": "metric",
+    "avoid": [
+      {
+        "type": "highways"
+      }
+    ],
+    "details": [
+      "instruction_details",
+      "route_details"
+    ],
+    "distance": 23055,
+    "distance_units": "meters",
+    "time": 1320.213,
+    "legs": [
+      {
+        "distance": 23055,
+        "time": 1320.213,
+        "steps": [
+          {
+            "speed": 50,
+            "speed_limit": 50,
+            "truck_limit": 50,
+            "surface": "paved_smooth",
+            "lane_count": 1,
+            "road_class": "secondary",
+            "name": "설죽로",
+            "toll": false,
+            "tunnel": false,
+            "bridge": false,
+            "roundabout": false,
+            "rightside": true,
+            "traversability": "both",
+            "elevation": 34,
+            "from_index": 0,
+            "to_index": 5,
+            "distance": 336,
+            "time": 25.31773913043478,
+            "instruction": {
+              "text": "Drive north on 설죽로.",
+              "type": "StartAt",
+              "transition_instruction": "Drive north.",
+              "pre_transition_instruction": "Drive north on 설죽로.",
+              "post_transition_instruction": "Continue for 2 kilometers.",
+              "streets": [
+                "설죽로"
+              ]
+            }
+          },
+          {
+            "speed": 50,
+            "speed_limit": 50,
+            "truck_limit": 50,
+            "surface": "paved_smooth",
+            "lane_count": 1,
+            "road_class": "secondary",
+            "name": "설죽로",
+            "toll": false,
+            "tunnel": false,
+            "bridge": false,
+            "roundabout": false,
+            "rightside": true,
+            "traversability": "both",
+            "elevation": 40,
+            "from_index": 5,
+            "to_index": 20,
+            "distance": 301,
+            "time": 22.680474637681158
+          },
+          {
+            "speed": 50,
+            "speed_limit": 50,
+            "truck_limit": 50,
+            "surface": "paved_smooth",
+            "lane_count": 3,
+            "road_class": "secondary",
+            "name": "설죽로",
+            "toll": false,
+            "tunnel": false,
+            "bridge": false,
+            "roundabout": false,
+            "rightside": true,
+            "traversability": "both",
+            "elevation": 40,
+            "from_index": 20,
+            "to_index": 21,
+            "distance": 51,
+            "time": 3.8428711180124226
+          },
+          {
+            "speed": 50,
+            "speed_limit": 50,
+            "truck_limit": 50,
+            "surface": "paved_smooth",
+            "lane_count": 3,
+            "road_class": "secondary",
+            "name": "설죽로",
+            "toll": false,
+            "tunnel": false,
+            "bridge": false,
+            "roundabout": false,
+            "rightside": true,
+            "traversability": "both",
+            "elevation": 44,
+            "from_index": 21,
+            "to_index": 82,
+            "distance": 1241,
+            "time": 93.5098638716356
+          },
+          {
+            "speed": 50,
+            "speed_limit": 50,
+            "truck_limit": 50,
+            "surface": "paved_smooth",
+            "lane_count": 3,
+            "road_class": "secondary",
+            "name": "설죽로",
+            "toll": false,
+            "tunnel": false,
+            "bridge": false,
+            "roundabout": false,
+            "rightside": true,
+            "traversability": "both",
+            "elevation": 48,
+            "from_index": 82,
+            "to_index": 83,
+            "distance": 6,
+            "time": 1.447,
+            "instruction": {
+              "text": "Turn left to stay on 설죽로.",
+              "type": "Left",
+              "transition_instruction": "Turn left. Then Turn right onto 우치로.",
+              "pre_transition_instruction": "Turn left to stay on 설죽로. Then Turn right onto 우치로.",
+              "post_transition_instruction": "Continue for less than 10 meters.",
+              "streets": [
+                "설죽로"
+              ],
+              "contains_next_instruction": true
+            }
+          },
+          {
+            "speed": 63,
+            "speed_limit": 50,
+            "truck_limit": 50,
+            "surface": "paved_smooth",
+            "lane_count": 1,
+            "road_class": "tertiary",
+            "toll": false,
+            "tunnel": false,
+            "bridge": false,
+            "roundabout": false,
+            "rightside": true,
+            "traversability": "forward",
+            "elevation": 48,
+            "from_index": 83,
+            "to_index": 87,
+            "distance": 86,
+            "time": 6.8325963855421685,
+            "instruction": {
+              "text": "Turn right onto 우치로.",
+              "type": "Right",
+              "transition_instruction": "Turn right.",
+              "pre_transition_instruction": "Turn right onto 우치로.",
+              "post_transition_instruction": "Continue for 300 meters.",
+              "streets": [
+                "우치로"
+              ]
+            }
+          },
+          {
+            "speed": 50,
+            "speed_limit": 60,
+            "truck_limit": 60,
+            "surface": "paved_smooth",
+            "lane_count": 1,
+            "road_class": "tertiary",
+            "name": "우치로",
+            "toll": false,
+            "tunnel": false,
+            "bridge": false,
+            "roundabout": false,
+            "rightside": true,
+            "traversability": "forward",
+            "elevation": 48,
+            "from_index": 87,
+            "to_index": 90,
+            "distance": 246,
+            "time": 19.54440361445783
+          },
+          {
+            "speed": 75,
+            "speed_limit": 60,
+            "truck_limit": 60,
+            "surface": "paved_smooth",
+            "lane_count": 1,
+            "road_class": "tertiary",
+            "toll": false,
+            "tunnel": false,
+            "bridge": false,
+            "roundabout": false,
+            "rightside": true,
+            "traversability": "forward",
+            "elevation": 46,
+            "from_index": 90,
+            "to_index": 93,
+            "distance": 37,
+            "time": 1.848,
+            "instruction": {
+              "text": "Bear right.",
+              "type": "SlightRight",
+              "transition_instruction": "Bear right. Then Turn left onto 우치로.",
+              "post_transition_instruction": "Continue for 40 meters.",
+              "contains_next_instruction": true
+            }
+          },
+          {
+            "speed": 60,
+            "speed_limit": 60,
+            "truck_limit": 60,
+            "surface": "paved_smooth",
+            "lane_count": 2,
+            "road_class": "secondary",
+            "name": "우치로",
+            "toll": false,
+            "tunnel": false,
+            "bridge": false,
+            "roundabout": false,
+            "rightside": true,
+            "traversability": "both",
+            "elevation": 47,
+            "from_index": 93,
+            "to_index": 96,
+            "distance": 70,
+            "time": 5.083215434083601,
+            "instruction": {
+              "text": "Turn left onto 우치로.",
+              "type": "Left",
+              "transition_instruction": "Turn left.",
+              "pre_transition_instruction": "Turn left onto 우치로.",
+              "post_transition_instruction": "Continue for 1.5 kilometers.",
+              "streets": [
+                "우치로"
+              ]
+            }
+          },
+          {
+            "speed": 60,
+            "speed_limit": 60,
+            "truck_limit": 60,
+            "surface": "paved_smooth",
+            "lane_count": 3,
+            "road_class": "secondary",
+            "name": "우치로",
+            "toll": false,
+            "tunnel": false,
+            "bridge": false,
+            "roundabout": false,
+            "rightside": true,
+            "traversability": "both",
+            "elevation": 48,
+            "from_index": 96,
+            "to_index": 97,
+            "distance": 105,
+            "time": 7.624823151125403
+          },
+          {
+            "speed": 60,
+            "speed_limit": 60,
+            "truck_limit": 60,
+            "surface": "paved_smooth",
+            "lane_count": 3,
+            "road_class": "secondary",
+            "name": "우치로",
+            "toll": false,
+            "tunnel": false,
+            "bridge": false,
+            "roundabout": false,
+            "rightside": true,
+            "traversability": "both",
+            "elevation": 50,
+            "from_index": 97,
+            "to_index": 99,
+            "distance": 104,
+            "time": 7.552205787781351
+          },
+          {
+            "speed": 60,
+            "speed_limit": 60,
+            "truck_limit": 60,
+            "surface": "paved_smooth",
+            "lane_count": 1,
+            "road_class": "secondary",
+            "name": "우치로",
+            "toll": false,
+            "tunnel": false,
+            "bridge": false,
+            "roundabout": false,
+            "rightside": true,
+            "traversability": "both",
+            "elevation": 52,
+            "from_index": 99,
+            "to_index": 100,
+            "distance": 38,
+            "time": 2.7594598070739553
+          },
+          {
+            "speed": 60,
+            "speed_limit": 60,
+            "truck_limit": 60,
+            "surface": "paved_smooth",
+            "lane_count": 1,
+            "road_class": "secondary",
+            "name": "우치로",
+            "toll": false,
+            "tunnel": false,
+            "bridge": false,
+            "roundabout": false,
+            "rightside": true,
+            "traversability": "both",
+            "elevation": 52,
+            "from_index": 100,
+            "to_index": 101,
+            "distance": 47,
+            "time": 3.4130160771704183
+          },
+          {
+            "speed": 60,
+            "speed_limit": 60,
+            "truck_limit": 60,
+            "surface": "paved_smooth",
+            "lane_count": 3,
+            "road_class": "secondary",
+            "name": "우치로",
+            "toll": false,
+            "tunnel": false,
+            "bridge": false,
+            "roundabout": false,
+            "rightside": true,
+            "traversability": "both",
+            "elevation": 50,
+            "from_index": 101,
+            "to_index": 106,
+            "distance": 131,
+            "time": 9.51287459807074
+          },
+          {
+            "speed": 60,
+            "speed_limit": 60,
+            "truck_limit": 60,
+            "surface": "paved_smooth",
+            "lane_count": 3,
+            "road_class": "secondary",
+            "name": "우치로",
+            "toll": false,
+            "tunnel": false,
+            "bridge": false,
+            "roundabout": false,
+            "rightside": true,
+            "traversability": "both",
+            "elevation": 50,
+            "from_index": 106,
+            "to_index": 108,
+            "distance": 65,
+            "time": 4.720128617363344
+          },
+          {
+            "speed": 60,
+            "speed_limit": 60,
+            "truck_limit": 60,
+            "surface": "paved_smooth",
+            "lane_count": 3,
+            "road_class": "secondary",
+            "name": "우치로",
+            "toll": false,
+            "tunnel": false,
+            "bridge": false,
+            "roundabout": false,
+            "rightside": true,
+            "traversability": "both",
+            "elevation": 55,
+            "from_index": 108,
+            "to_index": 115,
+            "distance": 423,
+            "time": 30.71714469453376
+          },
+          {
+            "speed": 60,
+            "speed_limit": 60,
+            "truck_limit": 60,
+            "surface": "paved_smooth",
+            "lane_count": 3,
+            "road_class": "secondary",
+            "name": "우치로",
+            "toll": false,
+            "tunnel": false,
+            "bridge": false,
+            "roundabout": false,
+            "rightside": true,
+            "traversability": "both",
+            "elevation": 60,
+            "from_index": 115,
+            "to_index": 119,
+            "distance": 265,
+            "time": 19.243601286173632
+          },
+          {
+            "speed": 60,
+            "speed_limit": 60,
+            "truck_limit": 60,
+            "surface": "paved_smooth",
+            "lane_count": 3,
+            "road_class": "secondary",
+            "name": "우치로",
+            "toll": false,
+            "tunnel": false,
+            "bridge": false,
+            "roundabout": false,
+            "rightside": true,
+            "traversability": "both",
+            "elevation": 61,
+            "from_index": 119,
+            "to_index": 127,
+            "distance": 304,
+            "time": 22.075678456591643
+          },
+          {
+            "speed": 75,
+            "speed_limit": 60,
+            "truck_limit": 60,
+            "surface": "paved_smooth",
+            "lane_count": 1,
+            "road_class": "primary",
+            "toll": false,
+            "tunnel": false,
+            "bridge": false,
+            "roundabout": false,
+            "rightside": true,
+            "traversability": "forward",
+            "elevation": 64,
+            "from_index": 127,
+            "to_index": 134,
+            "distance": 238,
+            "time": 14.234817651956703,
+            "instruction": {
+              "text": "Bear right onto 북부순환로.",
+              "type": "SlightRight",
+              "transition_instruction": "Bear right.",
+              "pre_transition_instruction": "Bear right onto 북부순환로.",
+              "post_transition_instruction": "Continue for 4 kilometers.",
+              "streets": [
+                "북부순환로"
+              ]
+            }
+          },
+          {
+            "speed": 60,
+            "speed_limit": 60,
+            "truck_limit": 60,
+            "surface": "paved_smooth",
+            "lane_count": 3,
+            "road_class": "primary",
+            "name": "북부순환로",
+            "toll": false,
+            "tunnel": false,
+            "bridge": false,
+            "roundabout": false,
+            "rightside": true,
+            "traversability": "both",
+            "elevation": 74,
+            "from_index": 134,
+            "to_index": 138,
+            "distance": 348,
+            "time": 20.81393505412157
+          },
+          {
+            "speed": 60,
+            "speed_limit": 60,
+            "truck_limit": 60,
+            "surface": "paved_smooth",
+            "lane_count": 2,
+            "road_class": "primary",
+            "name": "북부순환로",
+            "toll": false,
+            "tunnel": false,
+            "bridge": false,
+            "roundabout": false,
+            "rightside": true,
+            "traversability": "both",
+            "elevation": 84,
+            "from_index": 138,
+            "to_index": 139,
+            "distance": 66,
+            "time": 3.947470441298918
+          },
+          {
+            "speed": 60,
+            "speed_limit": 60,
+            "truck_limit": 60,
+            "surface": "paved_smooth",
+            "lane_count": 2,
+            "road_class": "primary",
+            "name": "북부순환로",
+            "toll": false,
+            "tunnel": false,
+            "bridge": false,
+            "roundabout": false,
+            "rightside": true,
+            "traversability": "forward",
+            "elevation": 104,
+            "from_index": 139,
+            "to_index": 144,
+            "distance": 356,
+            "time": 21.292416319733558
+          },
+          {
+            "speed": 60,
+            "speed_limit": 60,
+            "truck_limit": 60,
+            "surface": "paved_smooth",
+            "lane_count": 2,
+            "road_class": "primary",
+            "name": "북부순환로",
+            "toll": false,
+            "tunnel": true,
+            "bridge": false,
+            "roundabout": false,
+            "rightside": true,
+            "traversability": "forward",
+            "elevation": 122,
+            "from_index": 144,
+            "to_index": 145,
+            "distance": 463,
+            "time": 27.69210324729392
+          },
+          {
+            "speed": 60,
+            "speed_limit": 60,
+            "truck_limit": 60,
+            "surface": "paved_smooth",
+            "lane_count": 1,
+            "road_class": "primary",
+            "name": "북부순환로",
+            "toll": false,
+            "tunnel": false,
+            "bridge": false,
+            "roundabout": false,
+            "rightside": true,
+            "traversability": "forward",
+            "elevation": 117,
+            "from_index": 145,
+            "to_index": 154,
+            "distance": 514,
+            "time": 30.74242131557036
+          },
+          {
+            "speed": 60,
+            "speed_limit": 60,
+            "truck_limit": 60,
+            "surface": "paved_smooth",
+            "lane_count": 1,
+            "road_class": "primary",
+            "toll": false,
+            "tunnel": false,
+            "bridge": true,
+            "roundabout": false,
+            "rightside": true,
+            "traversability": "forward",
+            "elevation": 100,
+            "from_index": 154,
+            "to_index": 155,
+            "distance": 53,
+            "time": 3.169938384679434
+          },
+          {
+            "speed": 60,
+            "speed_limit": 60,
+            "truck_limit": 60,
+            "surface": "paved_smooth",
+            "lane_count": 1,
+            "road_class": "primary",
+            "toll": false,
+            "tunnel": false,
+            "bridge": false,
+            "roundabout": false,
+            "rightside": true,
+            "traversability": "forward",
+            "elevation": 93,
+            "from_index": 155,
+            "to_index": 166,
+            "distance": 382,
+            "time": 22.84748043297252
+          },
+          {
+            "speed": 60,
+            "speed_limit": 60,
+            "truck_limit": 60,
+            "surface": "paved_smooth",
+            "lane_count": 1,
+            "road_class": "primary",
+            "name": "북부순환로",
+            "toll": false,
+            "tunnel": false,
+            "bridge": false,
+            "roundabout": false,
+            "rightside": true,
+            "traversability": "both",
+            "elevation": 77,
+            "from_index": 166,
+            "to_index": 175,
+            "distance": 597,
+            "time": 35.70666444629476
+          },
+          {
+            "speed": 60,
+            "speed_limit": 60,
+            "truck_limit": 60,
+            "surface": "paved_smooth",
+            "lane_count": 2,
+            "road_class": "primary",
+            "name": "북부순환로",
+            "toll": false,
+            "tunnel": false,
+            "bridge": false,
+            "roundabout": false,
+            "rightside": true,
+            "traversability": "both",
+            "elevation": 82,
+            "from_index": 175,
+            "to_index": 180,
+            "distance": 385,
+            "time": 23.02691090757702
+          },
+          {
+            "speed": 60,
+            "speed_limit": 60,
+            "truck_limit": 60,
+            "surface": "paved_smooth",
+            "lane_count": 3,
+            "road_class": "primary",
+            "name": "북부순환로",
+            "toll": false,
+            "tunnel": false,
+            "bridge": false,
+            "roundabout": false,
+            "rightside": true,
+            "traversability": "both",
+            "elevation": 80,
+            "from_index": 180,
+            "to_index": 184,
+            "distance": 126,
+            "time": 7.536079933388843
+          },
+          {
+            "speed": 60,
+            "speed_limit": 60,
+            "truck_limit": 60,
+            "surface": "paved_smooth",
+            "lane_count": 2,
+            "road_class": "primary",
+            "name": "북부순환로",
+            "toll": false,
+            "tunnel": false,
+            "bridge": false,
+            "roundabout": false,
+            "rightside": true,
+            "traversability": "both",
+            "elevation": 89,
+            "from_index": 184,
+            "to_index": 187,
+            "distance": 72,
+            "time": 4.306331390507911
+          },
+          {
+            "speed": 70,
+            "speed_limit": 70,
+            "truck_limit": 60,
+            "surface": "paved_smooth",
+            "lane_count": 4,
+            "road_class": "primary",
+            "name": "동문대로, 29",
+            "toll": false,
+            "tunnel": false,
+            "bridge": false,
+            "roundabout": false,
+            "rightside": true,
+            "traversability": "forward",
+            "elevation": 66,
+            "from_index": 187,
+            "to_index": 216,
+            "distance": 1987,
+            "time": 94.7374001902648,
+            "instruction": {
+              "text": "Turn left onto 동문대로/29. Continue on 29.",
+              "type": "Left",
+              "transition_instruction": "Turn left.",
+              "pre_transition_instruction": "Turn left onto 동문대로, 29.",
+              "post_transition_instruction": "Continue on 29 for 13 kilometers.",
+              "streets": [
+                "29",
+                "동문대로"
+              ]
+            }
+          },
+          {
+            "speed": 80,
+            "speed_limit": 80,
+            "truck_limit": 60,
+            "surface": "paved_smooth",
+            "lane_count": 2,
+            "road_class": "primary",
+            "name": "동문대로, 29",
+            "toll": false,
+            "tunnel": false,
+            "bridge": false,
+            "roundabout": false,
+            "rightside": true,
+            "traversability": "both",
+            "elevation": 54,
+            "from_index": 216,
+            "to_index": 218,
+            "distance": 32,
+            "time": 1.5257155541461869
+          },
+          {
+            "speed": 80,
+            "speed_limit": 80,
+            "truck_limit": 60,
+            "surface": "paved_smooth",
+            "lane_count": 2,
+            "road_class": "primary",
+            "name": "동문대로, 29",
+            "toll": false,
+            "tunnel": false,
+            "bridge": true,
+            "roundabout": false,
+            "rightside": true,
+            "traversability": "both",
+            "elevation": 54,
+            "from_index": 218,
+            "to_index": 219,
+            "distance": 61,
+            "time": 2.9083952750911686
+          },
+          {
+            "speed": 80,
+            "speed_limit": 80,
+            "truck_limit": 60,
+            "surface": "paved_smooth",
+            "lane_count": 2,
+            "road_class": "primary",
+            "name": "죽향대로, 29",
+            "toll": false,
+            "tunnel": false,
+            "bridge": false,
+            "roundabout": false,
+            "rightside": true,
+            "traversability": "both",
+            "elevation": 54,
+            "from_index": 219,
+            "to_index": 220,
+            "distance": 144,
+            "time": 6.865719993657841
+          },
+          {
+            "speed": 80,
+            "speed_limit": 80,
+            "truck_limit": 60,
+            "surface": "paved_smooth",
+            "lane_count": 2,
+            "road_class": "primary",
+            "name": "죽향대로, 29",
+            "toll": false,
+            "tunnel": false,
+            "bridge": false,
+            "roundabout": false,
+            "rightside": true,
+            "traversability": "both",
+            "elevation": 56,
+            "from_index": 220,
+            "to_index": 221,
+            "distance": 256,
+            "time": 12.205724433169495
+          },
+          {
+            "speed": 80,
+            "speed_limit": 80,
+            "truck_limit": 60,
+            "surface": "paved_smooth",
+            "lane_count": 2,
+            "road_class": "primary",
+            "name": "죽향대로, 29",
+            "toll": false,
+            "tunnel": false,
+            "bridge": false,
+            "roundabout": false,
+            "rightside": true,
+            "traversability": "both",
+            "elevation": 61,
+            "from_index": 221,
+            "to_index": 228,
+            "distance": 452,
+            "time": 21.55073220231489
+          },
+          {
+            "speed": 80,
+            "speed_limit": 80,
+            "truck_limit": 60,
+            "surface": "paved_smooth",
+            "lane_count": 2,
+            "road_class": "primary",
+            "name": "29",
+            "toll": false,
+            "tunnel": false,
+            "bridge": true,
+            "roundabout": false,
+            "rightside": true,
+            "traversability": "both",
+            "elevation": 50,
+            "from_index": 228,
+            "to_index": 236,
+            "distance": 393,
+            "time": 18.737694149357857
+          },
+          {
+            "speed": 80,
+            "speed_limit": 80,
+            "truck_limit": 60,
+            "surface": "paved_smooth",
+            "lane_count": 2,
+            "road_class": "primary",
+            "name": "죽향대로, 29",
+            "toll": false,
+            "tunnel": false,
+            "bridge": false,
+            "roundabout": false,
+            "rightside": true,
+            "traversability": "both",
+            "elevation": 47,
+            "from_index": 236,
+            "to_index": 253,
+            "distance": 1852,
+            "time": 88.30078769621056
+          },
+          {
+            "speed": 80,
+            "speed_limit": 80,
+            "truck_limit": 60,
+            "surface": "paved_smooth",
+            "lane_count": 2,
+            "road_class": "primary",
+            "name": "죽향대로, 29",
+            "toll": false,
+            "tunnel": false,
+            "bridge": true,
+            "roundabout": false,
+            "rightside": true,
+            "traversability": "both",
+            "elevation": 38,
+            "from_index": 253,
+            "to_index": 254,
+            "distance": 35,
+            "time": 1.6687513873473918
+          },
+          {
+            "speed": 80,
+            "speed_limit": 80,
+            "truck_limit": 60,
+            "surface": "paved_smooth",
+            "lane_count": 2,
+            "road_class": "primary",
+            "name": "죽향대로, 29",
+            "toll": false,
+            "tunnel": false,
+            "bridge": false,
+            "roundabout": false,
+            "rightside": true,
+            "traversability": "both",
+            "elevation": 36,
+            "from_index": 254,
+            "to_index": 276,
+            "distance": 1045,
+            "time": 49.82414856508641
+          },
+          {
+            "speed": 80,
+            "speed_limit": 80,
+            "truck_limit": 60,
+            "surface": "paved_smooth",
+            "lane_count": 2,
+            "road_class": "primary",
+            "name": "죽향대로, 29",
+            "toll": false,
+            "tunnel": false,
+            "bridge": true,
+            "roundabout": false,
+            "rightside": true,
+            "traversability": "both",
+            "elevation": 34,
+            "from_index": 276,
+            "to_index": 277,
+            "distance": 152,
+            "time": 7.247148882194388
+          },
+          {
+            "speed": 80,
+            "speed_limit": 80,
+            "truck_limit": 60,
+            "surface": "paved_smooth",
+            "lane_count": 2,
+            "road_class": "primary",
+            "name": "죽향대로, 29",
+            "toll": false,
+            "tunnel": false,
+            "bridge": false,
+            "roundabout": false,
+            "rightside": true,
+            "traversability": "both",
+            "elevation": 46,
+            "from_index": 277,
+            "to_index": 358,
+            "distance": 4882,
+            "time": 232.76697922942762
+          },
+          {
+            "speed": 80,
+            "speed_limit": 80,
+            "truck_limit": 60,
+            "surface": "paved_smooth",
+            "lane_count": 2,
+            "road_class": "primary",
+            "name": "죽향대로, 29, 55",
+            "toll": false,
+            "tunnel": false,
+            "bridge": true,
+            "roundabout": false,
+            "rightside": true,
+            "traversability": "both",
+            "elevation": 36,
+            "from_index": 358,
+            "to_index": 359,
+            "distance": 86,
+            "time": 4.100360551767877
+          },
+          {
+            "speed": 80,
+            "speed_limit": 80,
+            "truck_limit": 60,
+            "surface": "paved_smooth",
+            "lane_count": 2,
+            "road_class": "primary",
+            "name": "죽향대로, 29",
+            "toll": false,
+            "tunnel": false,
+            "bridge": false,
+            "roundabout": false,
+            "rightside": true,
+            "traversability": "both",
+            "elevation": 39,
+            "from_index": 359,
+            "to_index": 373,
+            "distance": 1000,
+            "time": 47.67861106706834
+          },
+          {
+            "speed": 60,
+            "speed_limit": 60,
+            "truck_limit": 60,
+            "surface": "paved_smooth",
+            "lane_count": 4,
+            "road_class": "primary",
+            "name": "죽향대로, 29",
+            "toll": false,
+            "tunnel": false,
+            "bridge": false,
+            "roundabout": false,
+            "rightside": true,
+            "traversability": "forward",
+            "elevation": 46,
+            "from_index": 373,
+            "to_index": 380,
+            "distance": 218,
+            "time": 10.393937212620898
+          },
+          {
+            "speed": 30,
+            "speed_limit": 60,
+            "truck_limit": 60,
+            "surface": "paved_smooth",
+            "lane_count": 1,
+            "road_class": "primary",
+            "toll": false,
+            "tunnel": false,
+            "bridge": false,
+            "roundabout": true,
+            "rightside": true,
+            "traversability": "forward",
+            "elevation": 46,
+            "from_index": 380,
+            "to_index": 390,
+            "distance": 60,
+            "time": 8.617627118644068,
+            "instruction": {
+              "text": "Enter the roundabout and take the 3rd exit onto 죽향대로/29.",
+              "type": "Roundabout",
+              "transition_instruction": "Enter the roundabout and take the 3rd exit.",
+              "pre_transition_instruction": "Enter the roundabout and take the 3rd exit onto 죽향대로, 29.",
+              "roundabout_exit": 3
+            }
+          },
+          {
+            "speed": 60,
+            "speed_limit": 60,
+            "truck_limit": 60,
+            "surface": "paved_smooth",
+            "lane_count": 4,
+            "road_class": "primary",
+            "name": "죽향대로, 29",
+            "toll": false,
+            "tunnel": false,
+            "bridge": false,
+            "roundabout": false,
+            "rightside": true,
+            "traversability": "forward",
+            "elevation": 52,
+            "from_index": 390,
+            "to_index": 408,
+            "distance": 1011,
+            "time": 66.52798870056496,
+            "instruction": {
+              "text": "Exit the roundabout onto 죽향대로/29. Continue on 죽향대로.",
+              "type": "Roundabout",
+              "transition_instruction": "Exit the roundabout.",
+              "pre_transition_instruction": "Exit the roundabout onto 죽향대로, 29.",
+              "post_transition_instruction": "Continue on 죽향대로 for 1.5 kilometers.",
+              "streets": [
+                "죽향대로",
+                "29"
+              ]
+            }
+          },
+          {
+            "speed": 50,
+            "speed_limit": 50,
+            "truck_limit": 50,
+            "surface": "paved_smooth",
+            "lane_count": 4,
+            "road_class": "primary",
+            "name": "죽향대로, 13, 15, 24",
+            "toll": false,
+            "tunnel": false,
+            "bridge": false,
+            "roundabout": false,
+            "rightside": true,
+            "traversability": "forward",
+            "elevation": 50,
+            "from_index": 408,
+            "to_index": 426,
+            "distance": 423,
+            "time": 27.835152542372878
+          },
+          {
+            "speed": 50,
+            "speed_limit": 50,
+            "truck_limit": 50,
+            "surface": "paved_smooth",
+            "lane_count": 2,
+            "road_class": "primary",
+            "name": "죽향대로, 13, 15, 24",
+            "toll": false,
+            "tunnel": false,
+            "bridge": false,
+            "roundabout": false,
+            "rightside": true,
+            "traversability": "forward",
+            "elevation": 48,
+            "from_index": 426,
+            "to_index": 433,
+            "distance": 156,
+            "time": 10.265446327683614
+          },
+          {
+            "speed": 50,
+            "speed_limit": 50,
+            "truck_limit": 50,
+            "surface": "paved_smooth",
+            "lane_count": 2,
+            "road_class": "primary",
+            "name": "중앙로, 13, 24",
+            "toll": false,
+            "tunnel": false,
+            "bridge": false,
+            "roundabout": true,
+            "rightside": true,
+            "traversability": "forward",
+            "elevation": 48,
+            "from_index": 433,
+            "to_index": 443,
+            "distance": 70,
+            "time": 6.773,
+            "instruction": {
+              "text": "Enter the roundabout and take the 3rd exit onto 중앙로/13.",
+              "type": "Roundabout",
+              "transition_instruction": "Enter the roundabout and take the 3rd exit.",
+              "pre_transition_instruction": "Enter the roundabout and take the 3rd exit onto 중앙로, 13.",
+              "roundabout_exit": 3
+            }
+          },
+          {
+            "speed": 60,
+            "speed_limit": 60,
+            "truck_limit": 60,
+            "surface": "paved_smooth",
+            "lane_count": 1,
+            "road_class": "primary",
+            "name": "중앙로, 13",
+            "toll": false,
+            "tunnel": false,
+            "bridge": false,
+            "roundabout": false,
+            "rightside": true,
+            "traversability": "forward",
+            "elevation": 48,
+            "from_index": 443,
+            "to_index": 445,
+            "distance": 31,
+            "time": 1.8891242038216562,
+            "instruction": {
+              "text": "Exit the roundabout onto 중앙로/13.",
+              "type": "Roundabout",
+              "transition_instruction": "Exit the roundabout.",
+              "pre_transition_instruction": "Exit the roundabout onto 중앙로, 13.",
+              "post_transition_instruction": "Continue for 600 meters.",
+              "streets": [
+                "중앙로",
+                "13"
+              ]
+            }
+          },
+          {
+            "speed": 60,
+            "speed_limit": 60,
+            "truck_limit": 60,
+            "surface": "paved_smooth",
+            "lane_count": 1,
+            "road_class": "primary",
+            "name": "중앙로, 13",
+            "toll": false,
+            "tunnel": false,
+            "bridge": false,
+            "roundabout": false,
+            "rightside": true,
+            "traversability": "both",
+            "elevation": 49,
+            "from_index": 445,
+            "to_index": 461,
+            "distance": 597,
+            "time": 36.380875796178344
+          },
+          {
+            "speed": 60,
+            "speed_limit": 60,
+            "truck_limit": 60,
+            "surface": "paved_smooth",
+            "lane_count": 1,
+            "road_class": "secondary",
+            "name": "추성로",
+            "toll": false,
+            "tunnel": false,
+            "bridge": false,
+            "roundabout": false,
+            "rightside": true,
+            "traversability": "both",
+            "elevation": 49,
+            "from_index": 461,
+            "to_index": 467,
+            "distance": 241,
+            "time": 17.12583076923077,
+            "instruction": {
+              "text": "Turn right at 중파사거리.",
+              "type": "Right",
+              "transition_instruction": "Turn right at 중파사거리.",
+              "post_transition_instruction": "Continue for 500 meters.",
+              "streets": [
+                "추성로"
+              ]
+            }
+          },
+          {
+            "speed": 60,
+            "speed_limit": 60,
+            "truck_limit": 60,
+            "surface": "paved_smooth",
+            "lane_count": 1,
+            "road_class": "secondary",
+            "name": "추성로",
+            "toll": false,
+            "tunnel": false,
+            "bridge": false,
+            "roundabout": false,
+            "rightside": true,
+            "traversability": "both",
+            "elevation": 49,
+            "from_index": 467,
+            "to_index": 475,
+            "distance": 276,
+            "time": 19.612984615384615
+          },
+          {
+            "speed": 25,
+            "speed_limit": 60,
+            "truck_limit": 60,
+            "surface": "paved_smooth",
+            "lane_count": 1,
+            "road_class": "service_other",
+            "toll": false,
+            "tunnel": false,
+            "bridge": false,
+            "roundabout": false,
+            "rightside": true,
+            "traversability": "both",
+            "elevation": 50,
+            "from_index": 475,
+            "to_index": 480,
+            "distance": 80,
+            "time": 15.108571428571427,
+            "instruction": {
+              "text": "Turn left.",
+              "type": "Left",
+              "transition_instruction": "Turn left.",
+              "post_transition_instruction": "Continue for 100 meters."
+            }
+          },
+          {
+            "speed": 25,
+            "speed_limit": 60,
+            "truck_limit": 60,
+            "surface": "paved_smooth",
+            "lane_count": 1,
+            "road_class": "service_other",
+            "toll": false,
+            "tunnel": false,
+            "bridge": false,
+            "roundabout": false,
+            "rightside": true,
+            "traversability": "both",
+            "elevation": 54,
+            "from_index": 480,
+            "to_index": 488,
+            "distance": 27,
+            "time": 5.099142857142856
+          },
+          {
+            "from_index": 488,
+            "to_index": 488,
+            "distance": 0,
+            "time": 0,
+            "instruction": {
+              "text": "Your destination is on the left.",
+              "type": "DestinationReachedLeft",
+              "transition_instruction": "Your destination will be on the left.",
+              "pre_transition_instruction": "Your destination is on the left."
+            }
+          }
+        ],
+        "country_code": [
+          "kr"
+        ]
+      }
+    ],
+    "country_code": [
+      "kr"
+    ]
+  },
+  "geometry": {
+    "type": "MultiLineString",
+    "coordinates": [
+      [
+        [
+          126.898392,
+          35.181643
+        ],
+        [
+          126.898444,
+          35.182
+        ],
+        [
+          126.898584,
+          35.183007
+        ],
+        [
+          126.89867,
+          35.183888
+        ],
+        [
+          126.898731,
+          35.184301
+        ],
+        [
+          126.898704,
+          35.184649
+        ],
+        [
+          126.898665,
+          35.18488
+        ],
+        [
+          126.898622,
+          35.185058
+        ],
+        [
+          126.898537,
+          35.185402
+        ],
+        [
+          126.898517,
+          35.185483
+        ],
+        [
+          126.898466,
+          35.185688
+        ],
+        [
+          126.898377,
+          35.186051
+        ],
+        [
+          126.89834,
+          35.1862
+        ],
+        [
+          126.898329,
+          35.186262
+        ],
+        [
+          126.898305,
+          35.186543
+        ],
+        [
+          126.898304,
+          35.186642
+        ],
+        [
+          126.898307,
+          35.186677
+        ],
+        [
+          126.898323,
+          35.186768
+        ],
+        [
+          126.898331,
+          35.186817
+        ],
+        [
+          126.898371,
+          35.186941
+        ],
+        [
+          126.89853,
+          35.187297
+        ],
+        [
+          126.89873,
+          35.187726
+        ],
+        [
+          126.898848,
+          35.187984
+        ],
+        [
+          126.898932,
+          35.188241
+        ],
+        [
+          126.898972,
+          35.188409
+        ],
+        [
+          126.898978,
+          35.188452
+        ],
+        [
+          126.898985,
+          35.188505
+        ],
+        [
+          126.899014,
+          35.188716
+        ],
+        [
+          126.899034,
+          35.188873
+        ],
+        [
+          126.899095,
+          35.189448
+        ],
+        [
+          126.899157,
+          35.190099
+        ],
+        [
+          126.899159,
+          35.190116
+        ],
+        [
+          126.899187,
+          35.190539
+        ],
+        [
+          126.899196,
+          35.190689
+        ],
+        [
+          126.899204,
+          35.190842
+        ],
+        [
+          126.899198,
+          35.190931
+        ],
+        [
+          126.899188,
+          35.191024
+        ],
+        [
+          126.899157,
+          35.191139
+        ],
+        [
+          126.899126,
+          35.191242
+        ],
+        [
+          126.898828,
+          35.192022
+        ],
+        [
+          126.89882,
+          35.192046
+        ],
+        [
+          126.89877,
+          35.192185
+        ],
+        [
+          126.898732,
+          35.192314
+        ],
+        [
+          126.898689,
+          35.192449
+        ],
+        [
+          126.898654,
+          35.192606
+        ],
+        [
+          126.89865,
+          35.192649
+        ],
+        [
+          126.89865,
+          35.192695
+        ],
+        [
+          126.898653,
+          35.192789
+        ],
+        [
+          126.898682,
+          35.192949
+        ],
+        [
+          126.898704,
+          35.193057
+        ],
+        [
+          126.898735,
+          35.193168
+        ],
+        [
+          126.898791,
+          35.193291
+        ],
+        [
+          126.898877,
+          35.193435
+        ],
+        [
+          126.898942,
+          35.193512
+        ],
+        [
+          126.899033,
+          35.193599
+        ],
+        [
+          126.899241,
+          35.193812
+        ],
+        [
+          126.899256,
+          35.193828
+        ],
+        [
+          126.899306,
+          35.193878
+        ],
+        [
+          126.899392,
+          35.193964
+        ],
+        [
+          126.899473,
+          35.194061
+        ],
+        [
+          126.899537,
+          35.194148
+        ],
+        [
+          126.899692,
+          35.194414
+        ],
+        [
+          126.89973,
+          35.194505
+        ],
+        [
+          126.899755,
+          35.194586
+        ],
+        [
+          126.89985,
+          35.195144
+        ],
+        [
+          126.899888,
+          35.195447
+        ],
+        [
+          126.899918,
+          35.195723
+        ],
+        [
+          126.899945,
+          35.196
+        ],
+        [
+          126.89995,
+          35.19605
+        ],
+        [
+          126.899948,
+          35.196119
+        ],
+        [
+          126.899945,
+          35.196233
+        ],
+        [
+          126.899941,
+          35.196384
+        ],
+        [
+          126.89994,
+          35.196418
+        ],
+        [
+          126.899934,
+          35.196632
+        ],
+        [
+          126.89993,
+          35.19676
+        ],
+        [
+          126.899906,
+          35.197242
+        ],
+        [
+          126.899894,
+          35.197372
+        ],
+        [
+          126.899898,
+          35.197542
+        ],
+        [
+          126.89988,
+          35.198012
+        ],
+        [
+          126.899881,
+          35.198027
+        ],
+        [
+          126.899882,
+          35.198107
+        ],
+        [
+          126.899921,
+          35.198309
+        ],
+        [
+          126.899921,
+          35.19853
+        ],
+        [
+          126.899871,
+          35.198559
+        ],
+        [
+          126.900031,
+          35.198778
+        ],
+        [
+          126.900174,
+          35.198972
+        ],
+        [
+          126.90027,
+          35.199087
+        ],
+        [
+          126.90039,
+          35.199199
+        ],
+        [
+          126.900902,
+          35.19948
+        ],
+        [
+          126.901419,
+          35.199789
+        ],
+        [
+          126.90261,
+          35.200462
+        ],
+        [
+          126.902756,
+          35.200481
+        ],
+        [
+          126.902878,
+          35.200453
+        ],
+        [
+          126.902987,
+          35.200393
+        ],
+        [
+          126.902901,
+          35.200623
+        ],
+        [
+          126.90286,
+          35.200721
+        ],
+        [
+          126.902749,
+          35.200995
+        ],
+        [
+          126.902413,
+          35.201897
+        ],
+        [
+          126.902219,
+          35.2024
+        ],
+        [
+          126.902068,
+          35.202791
+        ],
+        [
+          126.901961,
+          35.203126
+        ],
+        [
+          126.901794,
+          35.203527
+        ],
+        [
+          126.901607,
+          35.204024
+        ],
+        [
+          126.901498,
+          35.204338
+        ],
+        [
+          126.901434,
+          35.204518
+        ],
+        [
+          126.901397,
+          35.204622
+        ],
+        [
+          126.901388,
+          35.20466
+        ],
+        [
+          126.901314,
+          35.20498
+        ],
+        [
+          126.90129,
+          35.20524
+        ],
+        [
+          126.901314,
+          35.206148
+        ],
+        [
+          126.901312,
+          35.206256
+        ],
+        [
+          126.901321,
+          35.206564
+        ],
+        [
+          126.901331,
+          35.206865
+        ],
+        [
+          126.901346,
+          35.207339
+        ],
+        [
+          126.901338,
+          35.20776
+        ],
+        [
+          126.901279,
+          35.209046
+        ],
+        [
+          126.901244,
+          35.209938
+        ],
+        [
+          126.901229,
+          35.210314
+        ],
+        [
+          126.901207,
+          35.210938
+        ],
+        [
+          126.901189,
+          35.21143
+        ],
+        [
+          126.901164,
+          35.212192
+        ],
+        [
+          126.90115,
+          35.21247
+        ],
+        [
+          126.90113,
+          35.212961
+        ],
+        [
+          126.90114,
+          35.21313
+        ],
+        [
+          126.901169,
+          35.213394
+        ],
+        [
+          126.901216,
+          35.213639
+        ],
+        [
+          126.901275,
+          35.213852
+        ],
+        [
+          126.901356,
+          35.214146
+        ],
+        [
+          126.901611,
+          35.21446
+        ],
+        [
+          126.901667,
+          35.214507
+        ],
+        [
+          126.901741,
+          35.214549
+        ],
+        [
+          126.901812,
+          35.21458
+        ],
+        [
+          126.901893,
+          35.214595
+        ],
+        [
+          126.902061,
+          35.214593
+        ],
+        [
+          126.903719,
+          35.2146
+        ],
+        [
+          126.904408,
+          35.214588
+        ],
+        [
+          126.904724,
+          35.214593
+        ],
+        [
+          126.905672,
+          35.214636
+        ],
+        [
+          126.907543,
+          35.214738
+        ],
+        [
+          126.90827,
+          35.214776
+        ],
+        [
+          126.909043,
+          35.21469
+        ],
+        [
+          126.909632,
+          35.214636
+        ],
+        [
+          126.910522,
+          35.214468
+        ],
+        [
+          126.911396,
+          35.214343
+        ],
+        [
+          126.912125,
+          35.214238
+        ],
+        [
+          126.917139,
+          35.21351
+        ],
+        [
+          126.918403,
+          35.213333
+        ],
+        [
+          126.919132,
+          35.213227
+        ],
+        [
+          126.919546,
+          35.213158
+        ],
+        [
+          126.919945,
+          35.213068
+        ],
+        [
+          126.920504,
+          35.212926
+        ],
+        [
+          126.92119,
+          35.212727
+        ],
+        [
+          126.921776,
+          35.212512
+        ],
+        [
+          126.922239,
+          35.212343
+        ],
+        [
+          126.922529,
+          35.212204
+        ],
+        [
+          126.923008,
+          35.211933
+        ],
+        [
+          126.923255,
+          35.211784
+        ],
+        [
+          126.923612,
+          35.211571
+        ],
+        [
+          126.924148,
+          35.211277
+        ],
+        [
+          126.924644,
+          35.211009
+        ],
+        [
+          126.924765,
+          35.210945
+        ],
+        [
+          126.924821,
+          35.210908
+        ],
+        [
+          126.925249,
+          35.210671
+        ],
+        [
+          126.925458,
+          35.210547
+        ],
+        [
+          126.925677,
+          35.210421
+        ],
+        [
+          126.925831,
+          35.210342
+        ],
+        [
+          126.926491,
+          35.210003
+        ],
+        [
+          126.929033,
+          35.208524
+        ],
+        [
+          126.929351,
+          35.208332
+        ],
+        [
+          126.929683,
+          35.20811
+        ],
+        [
+          126.930142,
+          35.207747
+        ],
+        [
+          126.930425,
+          35.207507
+        ],
+        [
+          126.930603,
+          35.207338
+        ],
+        [
+          126.930873,
+          35.20707
+        ],
+        [
+          126.931061,
+          35.20687
+        ],
+        [
+          126.931386,
+          35.206482
+        ],
+        [
+          126.932031,
+          35.205553
+        ],
+        [
+          126.932756,
+          35.204525
+        ],
+        [
+          126.932915,
+          35.204324
+        ],
+        [
+          126.933394,
+          35.203734
+        ],
+        [
+          126.933613,
+          35.203541
+        ],
+        [
+          126.933738,
+          35.203446
+        ],
+        [
+          126.933987,
+          35.203295
+        ],
+        [
+          126.934239,
+          35.203173
+        ],
+        [
+          126.934774,
+          35.202925
+        ],
+        [
+          126.935174,
+          35.202765
+        ],
+        [
+          126.935336,
+          35.202697
+        ],
+        [
+          126.935487,
+          35.202643
+        ],
+        [
+          126.935582,
+          35.202795
+        ],
+        [
+          126.935759,
+          35.203069
+        ],
+        [
+          126.935994,
+          35.203396
+        ],
+        [
+          126.936116,
+          35.203527
+        ],
+        [
+          126.936293,
+          35.203737
+        ],
+        [
+          126.936462,
+          35.203931
+        ],
+        [
+          126.936727,
+          35.204149
+        ],
+        [
+          126.936916,
+          35.204325
+        ],
+        [
+          126.937159,
+          35.204529
+        ],
+        [
+          126.938171,
+          35.205302
+        ],
+        [
+          126.938696,
+          35.20567
+        ],
+        [
+          126.940356,
+          35.20681
+        ],
+        [
+          126.942955,
+          35.208545
+        ],
+        [
+          126.943532,
+          35.208954
+        ],
+        [
+          126.943695,
+          35.209072
+        ],
+        [
+          126.944246,
+          35.209565
+        ],
+        [
+          126.944956,
+          35.210271
+        ],
+        [
+          126.94536,
+          35.210675
+        ],
+        [
+          126.945625,
+          35.210955
+        ],
+        [
+          126.946506,
+          35.211885
+        ],
+        [
+          126.947559,
+          35.212978
+        ],
+        [
+          126.947785,
+          35.213236
+        ],
+        [
+          126.947838,
+          35.213292
+        ],
+        [
+          126.94813,
+          35.21358
+        ],
+        [
+          126.948496,
+          35.213966
+        ],
+        [
+          126.948914,
+          35.214407
+        ],
+        [
+          126.949014,
+          35.214513
+        ],
+        [
+          126.95009,
+          35.215651
+        ],
+        [
+          126.95011,
+          35.215763
+        ],
+        [
+          126.95031,
+          35.215974
+        ],
+        [
+          126.950325,
+          35.21599
+        ],
+        [
+          126.950745,
+          35.216415
+        ],
+        [
+          126.951709,
+          35.217448
+        ],
+        [
+          126.953495,
+          35.219226
+        ],
+        [
+          126.95385,
+          35.21963
+        ],
+        [
+          126.954185,
+          35.220083
+        ],
+        [
+          126.9545,
+          35.220528
+        ],
+        [
+          126.954791,
+          35.220985
+        ],
+        [
+          126.955327,
+          35.221872
+        ],
+        [
+          126.955521,
+          35.22225
+        ],
+        [
+          126.955762,
+          35.22283
+        ],
+        [
+          126.955947,
+          35.223305
+        ],
+        [
+          126.956101,
+          35.223761
+        ],
+        [
+          126.956218,
+          35.224131
+        ],
+        [
+          126.956345,
+          35.224595
+        ],
+        [
+          126.956414,
+          35.224888
+        ],
+        [
+          126.956506,
+          35.225325
+        ],
+        [
+          126.956569,
+          35.225763
+        ],
+        [
+          126.956638,
+          35.226283
+        ],
+        [
+          126.956669,
+          35.226674
+        ],
+        [
+          126.956694,
+          35.227121
+        ],
+        [
+          126.956688,
+          35.227616
+        ],
+        [
+          126.956647,
+          35.228257
+        ],
+        [
+          126.956569,
+          35.228976
+        ],
+        [
+          126.956255,
+          35.230838
+        ],
+        [
+          126.955828,
+          35.233145
+        ],
+        [
+          126.955449,
+          35.235498
+        ],
+        [
+          126.954963,
+          35.238335
+        ],
+        [
+          126.954879,
+          35.238858
+        ],
+        [
+          126.954817,
+          35.239367
+        ],
+        [
+          126.954802,
+          35.239887
+        ],
+        [
+          126.954839,
+          35.240303
+        ],
+        [
+          126.954969,
+          35.240928
+        ],
+        [
+          126.955089,
+          35.241355
+        ],
+        [
+          126.955441,
+          35.242409
+        ],
+        [
+          126.955564,
+          35.242765
+        ],
+        [
+          126.955665,
+          35.243073
+        ],
+        [
+          126.955786,
+          35.243445
+        ],
+        [
+          126.955855,
+          35.243733
+        ],
+        [
+          126.955906,
+          35.243982
+        ],
+        [
+          126.955937,
+          35.244228
+        ],
+        [
+          126.955951,
+          35.244442
+        ],
+        [
+          126.955939,
+          35.244718
+        ],
+        [
+          126.95591,
+          35.245028
+        ],
+        [
+          126.955865,
+          35.245335
+        ],
+        [
+          126.955531,
+          35.246901
+        ],
+        [
+          126.955367,
+          35.247669
+        ],
+        [
+          126.955009,
+          35.249518
+        ],
+        [
+          126.954974,
+          35.249736
+        ],
+        [
+          126.954943,
+          35.24995
+        ],
+        [
+          126.954938,
+          35.250205
+        ],
+        [
+          126.954942,
+          35.250439
+        ],
+        [
+          126.954979,
+          35.250758
+        ],
+        [
+          126.955037,
+          35.251025
+        ],
+        [
+          126.955114,
+          35.251326
+        ],
+        [
+          126.955194,
+          35.25158
+        ],
+        [
+          126.95538,
+          35.25192
+        ],
+        [
+          126.955536,
+          35.252233
+        ],
+        [
+          126.955569,
+          35.252298
+        ],
+        [
+          126.956229,
+          35.253559
+        ],
+        [
+          126.956245,
+          35.25359
+        ],
+        [
+          126.957069,
+          35.255231
+        ],
+        [
+          126.958672,
+          35.258285
+        ],
+        [
+          126.960039,
+          35.260936
+        ],
+        [
+          126.960187,
+          35.261237
+        ],
+        [
+          126.960413,
+          35.261725
+        ],
+        [
+          126.960567,
+          35.262125
+        ],
+        [
+          126.96074,
+          35.262589
+        ],
+        [
+          126.96087,
+          35.263005
+        ],
+        [
+          126.961102,
+          35.263921
+        ],
+        [
+          126.961553,
+          35.265672
+        ],
+        [
+          126.961672,
+          35.266133
+        ],
+        [
+          126.961893,
+          35.266975
+        ],
+        [
+          126.961987,
+          35.267331
+        ],
+        [
+          126.962112,
+          35.26766
+        ],
+        [
+          126.962117,
+          35.267674
+        ],
+        [
+          126.962267,
+          35.268012
+        ],
+        [
+          126.96241,
+          35.268279
+        ],
+        [
+          126.96261,
+          35.268553
+        ],
+        [
+          126.96279,
+          35.268795
+        ],
+        [
+          126.962971,
+          35.26901
+        ],
+        [
+          126.963145,
+          35.269207
+        ],
+        [
+          126.963409,
+          35.269446
+        ],
+        [
+          126.963739,
+          35.269709
+        ],
+        [
+          126.964092,
+          35.269945
+        ],
+        [
+          126.964443,
+          35.27014
+        ],
+        [
+          126.964851,
+          35.27033
+        ],
+        [
+          126.965009,
+          35.270394
+        ],
+        [
+          126.965241,
+          35.270481
+        ],
+        [
+          126.965415,
+          35.270534
+        ],
+        [
+          126.96571,
+          35.270618
+        ],
+        [
+          126.965943,
+          35.270674
+        ],
+        [
+          126.966252,
+          35.270731
+        ],
+        [
+          126.966676,
+          35.270794
+        ],
+        [
+          126.967161,
+          35.270862
+        ],
+        [
+          126.968265,
+          35.271008
+        ],
+        [
+          126.968443,
+          35.271029
+        ],
+        [
+          126.968638,
+          35.271054
+        ],
+        [
+          126.969337,
+          35.271164
+        ],
+        [
+          126.969901,
+          35.271253
+        ],
+        [
+          126.97028,
+          35.271335
+        ],
+        [
+          126.970688,
+          35.271435
+        ],
+        [
+          126.971002,
+          35.271526
+        ],
+        [
+          126.971156,
+          35.271572
+        ],
+        [
+          126.971318,
+          35.271623
+        ],
+        [
+          126.971514,
+          35.271701
+        ],
+        [
+          126.971772,
+          35.271808
+        ],
+        [
+          126.972011,
+          35.27193
+        ],
+        [
+          126.972343,
+          35.272103
+        ],
+        [
+          126.972596,
+          35.272263
+        ],
+        [
+          126.972801,
+          35.272389
+        ],
+        [
+          126.973192,
+          35.272634
+        ],
+        [
+          126.97351,
+          35.272861
+        ],
+        [
+          126.973825,
+          35.273147
+        ],
+        [
+          126.974195,
+          35.273533
+        ],
+        [
+          126.974504,
+          35.273857
+        ],
+        [
+          126.974888,
+          35.274261
+        ],
+        [
+          126.975852,
+          35.275273
+        ],
+        [
+          126.976093,
+          35.27554
+        ],
+        [
+          126.97629,
+          35.275781
+        ],
+        [
+          126.976513,
+          35.276067
+        ],
+        [
+          126.976715,
+          35.276388
+        ],
+        [
+          126.97693,
+          35.276737
+        ],
+        [
+          126.977109,
+          35.277106
+        ],
+        [
+          126.977272,
+          35.277548
+        ],
+        [
+          126.977352,
+          35.277816
+        ],
+        [
+          126.977398,
+          35.277973
+        ],
+        [
+          126.977526,
+          35.27858
+        ],
+        [
+          126.977605,
+          35.279028
+        ],
+        [
+          126.977636,
+          35.27946
+        ],
+        [
+          126.977626,
+          35.279877
+        ],
+        [
+          126.977606,
+          35.280226
+        ],
+        [
+          126.977541,
+          35.280657
+        ],
+        [
+          126.977442,
+          35.281181
+        ],
+        [
+          126.97652,
+          35.285086
+        ],
+        [
+          126.976279,
+          35.286046
+        ],
+        [
+          126.976086,
+          35.286865
+        ],
+        [
+          126.975928,
+          35.287593
+        ],
+        [
+          126.975773,
+          35.288553
+        ],
+        [
+          126.975723,
+          35.289168
+        ],
+        [
+          126.975707,
+          35.289475
+        ],
+        [
+          126.975721,
+          35.290252
+        ],
+        [
+          126.975756,
+          35.290851
+        ],
+        [
+          126.975841,
+          35.291651
+        ],
+        [
+          126.976056,
+          35.292935
+        ],
+        [
+          126.976452,
+          35.295483
+        ],
+        [
+          126.976527,
+          35.295912
+        ],
+        [
+          126.976594,
+          35.296272
+        ],
+        [
+          126.976682,
+          35.296591
+        ],
+        [
+          126.976788,
+          35.296903
+        ],
+        [
+          126.976943,
+          35.297224
+        ],
+        [
+          126.977111,
+          35.297502
+        ],
+        [
+          126.977277,
+          35.297752
+        ],
+        [
+          126.977482,
+          35.297997
+        ],
+        [
+          126.977781,
+          35.298285
+        ],
+        [
+          126.978332,
+          35.29877
+        ],
+        [
+          126.978507,
+          35.298854
+        ],
+        [
+          126.97864,
+          35.298931
+        ],
+        [
+          126.979412,
+          35.29958
+        ],
+        [
+          126.979754,
+          35.29988
+        ],
+        [
+          126.979875,
+          35.299975
+        ],
+        [
+          126.979972,
+          35.300042
+        ],
+        [
+          126.980092,
+          35.300085
+        ],
+        [
+          126.98015,
+          35.30006
+        ],
+        [
+          126.980214,
+          35.30005
+        ],
+        [
+          126.980275,
+          35.300054
+        ],
+        [
+          126.980332,
+          35.300072
+        ],
+        [
+          126.980382,
+          35.300103
+        ],
+        [
+          126.980421,
+          35.300148
+        ],
+        [
+          126.980443,
+          35.3002
+        ],
+        [
+          126.980444,
+          35.300256
+        ],
+        [
+          126.980424,
+          35.300309
+        ],
+        [
+          126.980385,
+          35.300355
+        ],
+        [
+          126.980539,
+          35.300897
+        ],
+        [
+          126.980605,
+          35.301148
+        ],
+        [
+          126.980704,
+          35.30144
+        ],
+        [
+          126.980721,
+          35.301526
+        ],
+        [
+          126.980762,
+          35.301702
+        ],
+        [
+          126.980777,
+          35.301832
+        ],
+        [
+          126.98079,
+          35.302118
+        ],
+        [
+          126.980796,
+          35.302368
+        ],
+        [
+          126.98079,
+          35.30258
+        ],
+        [
+          126.980799,
+          35.302744
+        ],
+        [
+          126.980865,
+          35.30374
+        ],
+        [
+          126.980957,
+          35.305244
+        ],
+        [
+          126.980973,
+          35.3055
+        ],
+        [
+          126.981084,
+          35.307331
+        ],
+        [
+          126.981124,
+          35.308089
+        ],
+        [
+          126.981167,
+          35.308889
+        ],
+        [
+          126.981189,
+          35.309274
+        ],
+        [
+          126.981196,
+          35.309407
+        ],
+        [
+          126.981214,
+          35.309566
+        ],
+        [
+          126.981215,
+          35.309582
+        ],
+        [
+          126.981227,
+          35.30976
+        ],
+        [
+          126.981234,
+          35.309892
+        ],
+        [
+          126.981278,
+          35.310195
+        ],
+        [
+          126.981306,
+          35.310307
+        ],
+        [
+          126.981346,
+          35.310437
+        ],
+        [
+          126.981399,
+          35.310564
+        ],
+        [
+          126.981445,
+          35.310653
+        ],
+        [
+          126.98151,
+          35.310791
+        ],
+        [
+          126.981584,
+          35.31094
+        ],
+        [
+          126.981673,
+          35.311116
+        ],
+        [
+          126.981775,
+          35.311337
+        ],
+        [
+          126.981895,
+          35.311582
+        ],
+        [
+          126.982102,
+          35.312005
+        ],
+        [
+          126.982175,
+          35.312149
+        ],
+        [
+          126.982367,
+          35.312493
+        ],
+        [
+          126.982668,
+          35.31298
+        ],
+        [
+          126.98284,
+          35.313231
+        ],
+        [
+          126.982973,
+          35.313396
+        ],
+        [
+          126.983079,
+          35.313521
+        ],
+        [
+          126.983242,
+          35.313665
+        ],
+        [
+          126.983386,
+          35.313805
+        ],
+        [
+          126.98351,
+          35.313902
+        ],
+        [
+          126.983767,
+          35.314034
+        ],
+        [
+          126.98384,
+          35.314061
+        ],
+        [
+          126.983895,
+          35.314103
+        ],
+        [
+          126.983932,
+          35.314156
+        ],
+        [
+          126.983949,
+          35.314215
+        ],
+        [
+          126.983944,
+          35.314276
+        ],
+        [
+          126.983912,
+          35.314339
+        ],
+        [
+          126.983857,
+          35.314389
+        ],
+        [
+          126.983784,
+          35.314423
+        ],
+        [
+          126.983702,
+          35.314435
+        ],
+        [
+          126.983641,
+          35.314429
+        ],
+        [
+          126.983529,
+          35.314529
+        ],
+        [
+          126.983451,
+          35.314657
+        ],
+        [
+          126.983464,
+          35.314739
+        ],
+        [
+          126.98353,
+          35.315106
+        ],
+        [
+          126.98353,
+          35.315154
+        ],
+        [
+          126.983525,
+          35.31529
+        ],
+        [
+          126.983518,
+          35.315434
+        ],
+        [
+          126.983509,
+          35.315524
+        ],
+        [
+          126.983494,
+          35.315613
+        ],
+        [
+          126.983469,
+          35.315722
+        ],
+        [
+          126.98342,
+          35.315887
+        ],
+        [
+          126.983305,
+          35.316404
+        ],
+        [
+          126.983193,
+          35.316938
+        ],
+        [
+          126.982963,
+          35.317986
+        ],
+        [
+          126.982815,
+          35.318627
+        ],
+        [
+          126.982685,
+          35.319245
+        ],
+        [
+          126.98264,
+          35.319438
+        ],
+        [
+          126.982521,
+          35.319948
+        ],
+        [
+          126.98292,
+          35.319943
+        ],
+        [
+          126.983299,
+          35.319929
+        ],
+        [
+          126.984361,
+          35.319895
+        ],
+        [
+          126.984834,
+          35.319884
+        ],
+        [
+          126.984971,
+          35.319887
+        ],
+        [
+          126.98518,
+          35.319902
+        ],
+        [
+          126.985988,
+          35.319942
+        ],
+        [
+          126.986233,
+          35.319967
+        ],
+        [
+          126.986502,
+          35.319995
+        ],
+        [
+          126.986924,
+          35.32004
+        ],
+        [
+          126.98751,
+          35.320096
+        ],
+        [
+          126.987713,
+          35.320123
+        ],
+        [
+          126.987972,
+          35.320148
+        ],
+        [
+          126.9882,
+          35.32017
+        ],
+        [
+          126.988205,
+          35.320333
+        ],
+        [
+          126.988206,
+          35.320362
+        ],
+        [
+          126.98821,
+          35.320438
+        ],
+        [
+          126.988221,
+          35.320623
+        ],
+        [
+          126.988237,
+          35.320886
+        ],
+        [
+          126.988201,
+          35.320903
+        ],
+        [
+          126.988174,
+          35.320929
+        ],
+        [
+          126.98816,
+          35.320962
+        ],
+        [
+          126.988159,
+          35.320996
+        ],
+        [
+          126.988173,
+          35.321028
+        ],
+        [
+          126.988199,
+          35.321055
+        ],
+        [
+          126.988235,
+          35.321073
+        ],
+        [
+          126.988239,
+          35.321074
+        ]
+      ]
+    ]
+  }
+}

@@ -1,0 +1,34 @@
+<!doctype html>
+<html lang="ko">
+<head>
+  <meta charset="utf-8"><meta name="viewport" content="width=device-width, initial-scale=1">
+  <meta name="theme-color" content="#215b3c"><title>휴가중 — 김씨들의 국토 따라가는 여행</title>
+  <link rel="stylesheet" href="style.css"><script src="regions.js" defer></script><script src="app.js" defer></script>
+<script src="sound.js" defer></script></head>
+<body>
+<header class="header"><a href="#" class="brand" aria-label="휴가중 첫 화면"><svg class="brand-road" viewBox="0 0 800 380" aria-hidden="true"><path class="road-edge" d="M45 256 C158 339 309 324 303 193 S474 155 534 209 S668 269 753 151"/><path class="road-fill" d="M45 256 C158 339 309 324 303 193 S474 155 534 209 S668 269 753 151"/><path class="road-dash" d="M45 256 C158 339 309 324 303 193 S474 155 534 209 S668 269 753 151"/><path d="M726 152 L715 142 Q713 139 718 138 L768 124 Q773 123 773 129 L769 181 Q769 185 765 182 L754 171" fill="#dcebb5" stroke="#215b3c" stroke-width="4" stroke-linecap="round" stroke-linejoin="round"/><path d="M743 165 L758 144" fill="none" stroke="#94b35d" stroke-width="2" stroke-dasharray="7 6"/></svg><span class="brand-title">휴가중</span></a><span class="header-note">김씨들의 국토 따라가는 여행</span></header>
+<main>
+<section id="home" class="home">
+  <div class="logo-scene" aria-label="휴가중, 김씨들의 국토 따라가는 여행">
+    <svg class="logo-road" viewBox="0 0 800 380" aria-hidden="true"><path class="road-edge" d="M45 256 C158 339 309 324 303 193 S474 155 534 209 S668 269 753 151"/><path class="road-fill" d="M45 256 C158 339 309 324 303 193 S474 155 534 209 S668 269 753 151"/><path class="road-dash" d="M45 256 C158 339 309 324 303 193 S474 155 534 209 S668 269 753 151"/><path d="M726 152 L715 142 Q713 139 718 138 L768 124 Q773 123 773 129 L769 181 Q769 185 765 182 L754 171" fill="#dcebb5" stroke="#215b3c" stroke-width="4" stroke-linecap="round" stroke-linejoin="round"/><path d="M743 165 L758 144" fill="none" stroke="#94b35d" stroke-width="2" stroke-dasharray="7 6"/></svg>
+    
+    <h1 aria-label="휴가중"><span aria-hidden="true" data-letter="휴">휴</span><span aria-hidden="true" class="split-ga"><i class="ga-part ga-consonant" data-letter="가">가</i><i class="ga-part ga-vowel" data-letter="가">가</i></span><span aria-hidden="true" data-letter="중">중</span></h1>
+    <div class="logo-subtitle">김씨들의 국토 따라가는 여행</div>
+    <span class="spark spark-one">✳</span><span class="spark spark-two">✦</span>
+  </div>
+  <p class="hero-copy">어디로 갈지는 운명에 맡기고.<br>가는 길의 즐거움은 우리가 챙기고.</p>
+  <button class="primary start-button" id="start">출발하기</button>
+  <p class="button-note">광주에서 출발하는, 전라도 36개 시군으로의 여행</p>
+  <div class="landscape" aria-hidden="true"><svg viewBox="0 0 1440 180" preserveAspectRatio="none"><path d="M0 110 Q150 13 320 100 Q430 151 571 115 Q720 25 858 114 Q1050 180 1210 81 Q1350 21 1440 70 V180 H0Z" fill="#e4ebd9"/><path d="M0 146 Q200 81 410 139 Q700 191 910 126 Q1180 55 1440 147 V180 H0Z" fill="#cfddbd"/><path d="M560 185 Q720 142 854 160 T1170 160" fill="none" stroke="#f9f8ee" stroke-width="32"/><path d="M560 185 Q720 142 854 160 T1170 160" fill="none" stroke="#a7b293" stroke-width="2" stroke-dasharray="12 12"/></svg></div>
+</section>
+<section id="choose" class="choose" hidden>
+  <button class="back" id="back">← 처음으로</button>
+  <div class="steps"><span class="active">01 지역 고르기</span><span>02 가는 길</span><span>03 그곳의 즐거움</span></div>
+  <div class="choose-heading"><div><p class="eyebrow">다음 여행지는 어디일까요?</p><h2>발길 닿을 곳,<br><em id="destination-title">운명에 맡겨볼까요.</em></h2></div><p>가까운 담양부터 바다 건너의 풍경까지.<br>전라도의 서른여섯 가지 여행이 기다려요.</p></div>
+  <p class="sample-entry"><a href="route.html">담양 예시 지도 살펴보기 <span aria-hidden="true">↗</span></a></p><p class="pick-tip">추첨하거나, 가고 싶은 지역을 직접 눌러보세요.</p><div class="draw-layout"><div class="region-grid" id="regions" aria-label="전라도 36개 시군"></div><aside class="ticket"><div class="ticket-top"><span>김씨들의 여행 티켓</span><span>↗</span></div><p class="ticket-label">출발</p><strong>광주광역시 북구</strong><p class="address">설죽로 · 용주초교 인근</p><div class="ticket-route"><span></span><i>국도 따라, 천천히</i><span></span></div><p class="ticket-label">도착</p><strong id="result" aria-live="polite">아직 정하지 않았어요</strong><p class="address" id="office">시청 또는 군청으로 떠나요</p><button class="primary" id="draw">여행지 뽑기 <span>↗</span></button><p class="draw-note" id="draw-note">36개 시군, 모두 같은 확률로 만나요.</p></aside></div>
+  <div id="next-preview" class="next-preview" hidden><div><span class="eyebrow">우리의 다음 여정</span><h3><span id="next-name"></span> 가는 길과 그곳의 즐거움</h3><p>실제 도로 지도부터 볼거리와 먹거리까지, 오늘의 여행을 이어가세요.</p></div><a class="primary" id="route-next" href="route.html">가는 길 보기 →</a></div>
+</section>
+</main>
+<footer><span>히은밍지는 휴가중</span><span>휴가중 © <span id="year"></span></span></footer>
+</body></html>
+
