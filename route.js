@@ -47,7 +47,7 @@ async function showMap(index){current=index;const token=++renderToken,m=data.map
 }
 function selectStage(index){stage=index;instructions.replaceChildren();detailTabs.replaceChildren();
  heading.textContent=index<0?'오늘의 길, '+stages.length+'구간으로 따라가기':String(index+1).padStart(2,'0')+' '+stages[index].title;
- if(index<0){nextHint.textContent='주요 회전·분기 1~2개씩 나눴어요. 01 광주 출발부터 차례로 따라가세요.'}
+ if(index<0){nextHint.textContent='주요 갈림길과 이어지는 도로를 기준으로 나눴어요. 01 광주 출발부터 차례로 따라가세요.'}
  else{const st=stages[index];st.steps.forEach(i=>{const li=document.createElement('li');li.textContent=data.directions[i].description.replace(/분기 A 지도를 함께 보세요\./,'1번 우치로 확대를 함께 보세요.').replace(/분기 D 지도를 확인하세요\./,'1번 죽향대로 확대를 확인하세요.');instructions.append(li)});nextHint.textContent=(index===stages.length-1?'도착 · ':'다음 연결 · ')+st.next;
  [st.map,...st.details].forEach((mi,i)=>{const button=document.createElement('button');button.dataset.map=mi;if(i>0)button.className='zoom-location';button.textContent=i===0?'이 구간 전체':i+' '+data.maps[mi].title.replace(/^분기 [A-Z] · /,'')+' 확대';button.addEventListener('click',()=>showMap(mi));detailTabs.append(button)});}
  [...get('map-tabs').children].forEach((button,i)=>{button.classList.toggle('selected',i===index+1);button.setAttribute('aria-pressed',String(i===index+1))});
@@ -62,3 +62,4 @@ get('directions').replaceChildren();stages.forEach((st,i)=>{const li=document.cr
 get('download').addEventListener('click',async()=>{const button=get('download');button.disabled=true;try{const img=get('map-view').querySelector('img');await img.decode();const canvas=document.createElement('canvas');canvas.width=img.naturalWidth;canvas.height=img.naturalHeight;const context=canvas.getContext('2d');context.fillStyle='#fff';context.fillRect(0,0,canvas.width,canvas.height);context.drawImage(img,0,0);const blob=await new Promise(resolve=>canvas.toBlob(resolve,'image/png'));if(!blob)throw Error('PNG conversion failed');const url=URL.createObjectURL(blob),link=document.createElement('a');link.href=url;link.download=`휴가중_${data.region||"담양군"}_${current+1}.png`;link.click();setTimeout(()=>URL.revokeObjectURL(url),10000)}catch(e){get('map-caption').textContent='이미지 저장에 실패했습니다. 지도를 다시 선택한 후 시도해 주세요.'}finally{button.disabled=false}});
 selectStage(-1);
 })();
+

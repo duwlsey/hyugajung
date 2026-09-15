@@ -19,7 +19,7 @@ $('draw').addEventListener('click',async()=>{
      let candidate;
      do{candidate=randomIndex(REGIONS.length)}while(candidate===previous);
      cards.forEach(card=>card.classList.remove('flashing'));
-     cards[candidate].classList.add('flashing');previous=candidate;
+     cards[candidate].classList.add('flashing');previous=candidate;window.tripSound?.('draw',i);
      await new Promise(resolve=>setTimeout(resolve,240+Math.round(220*(i/12)**2)));
    }
  }

@@ -8,10 +8,15 @@ window.JEOLLA_TOUR = [
       "source": "https://korean.visitkorea.or.kr/detail/rem_detail.do?cotid=229bb68a-545b-42fe-87b1-f53a7ea7ba5c"
     },
     "food": {
-      "name": "코롬방제과점",
-      "menu": "새우바게트 · 크림치즈바게트",
-      "description": "목포에서 오래 사랑받아 온 빵집. 산책 전 간식으로 골라보세요.",
-      "source": "https://korean.visitkorea.or.kr/detail/rem_detail.do?cotid=229bb68a-545b-42fe-87b1-f53a7ea7ba5c"
+      "name": "족자카야",
+      "menu": "족발덮밥",
+      "description": "족발을 덮밥으로 즐기는 색다른 한 끼. 대기 후 입장했다는 후기가 있어요.",
+      "reviews": "1,200",
+      "rating": 4.94,
+      "checkedAt": "2026-09-15",
+      "reviewSource": "네이버 지도 검색목록",
+      "source": "https://map.naver.com/p/search/%EB%AA%A9%ED%8F%AC%20%EB%A7%9B%EC%A7%91",
+      "waiting": "대기 후 입장했다는 후기 있음 · 실시간 대기는 확인 필요"
     },
     "sights": [
       {
@@ -37,22 +42,35 @@ window.JEOLLA_TOUR = [
     ],
     "foods": [
       {
-        "name": "코롬방제과점",
-        "menu": "새우바게트 · 크림치즈바게트",
-        "description": "목포에서 오래 사랑받아 온 빵집. 산책 전 간식으로 골라보세요.",
-        "source": "https://korean.visitkorea.or.kr/detail/rem_detail.do?cotid=229bb68a-545b-42fe-87b1-f53a7ea7ba5c"
+        "name": "족자카야",
+        "menu": "족발덮밥",
+        "description": "족발을 덮밥으로 즐기는 색다른 한 끼. 대기 후 입장했다는 후기가 있어요.",
+        "reviews": "1,200",
+        "rating": 4.94,
+        "checkedAt": "2026-09-15",
+        "reviewSource": "네이버 지도 검색목록",
+        "source": "https://map.naver.com/p/search/%EB%AA%A9%ED%8F%AC%20%EB%A7%9B%EC%A7%91",
+        "waiting": "대기 후 입장했다는 후기 있음 · 실시간 대기는 확인 필요"
       },
       {
-        "name": "선경준치회집",
-        "menu": "준치회무침",
-        "description": "준치회무침 메뉴를 중심으로 골라본 식사·간식 후보예요. 아래 안내에서 사진과 방문 정보를 살펴보세요.",
-        "source": "https://korean.visitkorea.or.kr/detail/rem_detail.do?cotid=11844015-620b-4702-affe-df1c4855e427"
+        "name": "맛대맛 목포장어전문점",
+        "menu": "장어구이 · 하모회/샤브샤브",
+        "description": "장어를 제대로 먹고 싶은 날. 하모 메뉴는 계절과 당일 판매 여부를 확인해요.",
+        "reviews": "7,369",
+        "rating": 4.9,
+        "checkedAt": "2026-09-15",
+        "reviewSource": "네이버 지도 검색목록",
+        "source": "https://map.naver.com/p/search/%EB%AA%A9%ED%8F%AC%20%EB%A7%9B%EC%A7%91"
       },
       {
-        "name": "덕인집",
-        "menu": "홍어삼합",
-        "description": "홍어삼합 메뉴를 중심으로 골라본 식사·간식 후보예요. 아래 안내에서 사진과 방문 정보를 살펴보세요.",
-        "source": "https://korean.visitkorea.or.kr/detail/rem_detail.do?cotid=11844015-620b-4702-affe-df1c4855e427"
+        "name": "어락",
+        "menu": "보리굴비정식 · 모듬정식",
+        "description": "여러 남도 음식을 한 상으로 맛보고 싶을 때 고르세요.",
+        "reviews": "1,742",
+        "rating": 4.55,
+        "checkedAt": "2026-09-15",
+        "reviewSource": "네이버 지도 검색목록",
+        "source": "https://map.naver.com/p/search/%EB%AA%A9%ED%8F%AC%20%EB%A7%9B%EC%A7%91"
       }
     ]
   },
@@ -65,10 +83,14 @@ window.JEOLLA_TOUR = [
       "source": "https://korean.visitkorea.or.kr/detail/rem_detail.do?cotid=a2e48e13-78f5-4a8e-8ec9-1f887b7a3aef"
     },
     "food": {
-      "name": "좌수영바게트버거",
-      "menu": "바게트버거",
-      "description": "바삭한 바게트 안에 속을 채운 여수의 간식. 동문로 일대 산책과 함께 즐겨보세요.",
-      "source": "https://korean.visitkorea.or.kr/detail/rem_detail.do?cotid=a2e48e13-78f5-4a8e-8ec9-1f887b7a3aef"
+      "name": "꽃돌게장1번가",
+      "menu": "꽃게정식 · 갈치조림",
+      "description": "여수에서 게장을 먹고 싶다면 우선 비교해볼 곳. 표시 리뷰 규모가 큰 후보예요.",
+      "reviews": "3.8만",
+      "rating": 4.79,
+      "checkedAt": "2026-09-15",
+      "reviewSource": "네이버 지도 검색목록",
+      "source": "https://map.naver.com/p/search/%EC%97%AC%EC%88%98%20%EB%A7%9B%EC%A7%91"
     },
     "sights": [
       {
@@ -92,22 +114,34 @@ window.JEOLLA_TOUR = [
     ],
     "foods": [
       {
-        "name": "좌수영바게트버거",
-        "menu": "바게트버거",
-        "description": "바삭한 바게트 안에 속을 채운 여수의 간식. 동문로 일대 산책과 함께 즐겨보세요.",
-        "source": "https://korean.visitkorea.or.kr/detail/rem_detail.do?cotid=a2e48e13-78f5-4a8e-8ec9-1f887b7a3aef"
+        "name": "꽃돌게장1번가",
+        "menu": "꽃게정식 · 갈치조림",
+        "description": "여수에서 게장을 먹고 싶다면 우선 비교해볼 곳. 표시 리뷰 규모가 큰 후보예요.",
+        "reviews": "3.8만",
+        "rating": 4.79,
+        "checkedAt": "2026-09-15",
+        "reviewSource": "네이버 지도 검색목록",
+        "source": "https://map.naver.com/p/search/%EC%97%AC%EC%88%98%20%EB%A7%9B%EC%A7%91"
       },
       {
-        "name": "영화식당",
-        "menu": "갈치조림 · 서대회",
-        "description": "갈치조림 · 서대회 메뉴를 중심으로 골라본 식사·간식 후보예요. 아래 안내에서 사진과 방문 정보를 살펴보세요.",
-        "source": "https://www.yeosu.go.kr/tour/lodge_food/food/group_restaurant/alone"
+        "name": "국동칼국수",
+        "menu": "칼국수 · 육전김밥",
+        "description": "게장 대신 따뜻한 면과 김밥으로 한 끼를 고를 수 있어요.",
+        "reviews": "1.7만",
+        "rating": 4.81,
+        "checkedAt": "2026-09-15",
+        "reviewSource": "네이버 지도 검색목록",
+        "source": "https://map.naver.com/p/search/%EC%97%AC%EC%88%98%20%EB%A7%9B%EC%A7%91"
       },
       {
-        "name": "여수횟집 1호점",
-        "menu": "게장백반 · 물회",
-        "description": "게장백반 · 물회 메뉴를 중심으로 골라본 식사·간식 후보예요. 아래 안내에서 사진과 방문 정보를 살펴보세요.",
-        "source": "https://www.yeosu.go.kr/tour/lodge_food/food/group_restaurant/alone"
+        "name": "우스브런치 웅천점",
+        "menu": "브런치 플레이트 · 수제버거",
+        "description": "해산물 외의 선택지. 브런치와 파스타를 나눠 먹기 좋아요.",
+        "reviews": "5,754",
+        "rating": 4.85,
+        "checkedAt": "2026-09-15",
+        "reviewSource": "네이버 지도 검색목록",
+        "source": "https://map.naver.com/p/search/%EC%97%AC%EC%88%98%20%EB%A7%9B%EC%A7%91"
       }
     ]
   },
@@ -120,10 +154,14 @@ window.JEOLLA_TOUR = [
       "source": "https://korean.visitkorea.or.kr/detail/rem_detail.do?cotid=0cc2a103-b756-4ad1-bbb4-e7d4735a57d0"
     },
     "food": {
-      "name": "신화식당 · 웃장국밥골목",
-      "menu": "돼지국밥",
-      "description": "웃장 일대의 국밥 문화와 함께 즐기는 든든한 한 끼예요.",
-      "source": "https://korean.visitkorea.or.kr/detail/rem_detail.do?cotid=0cc2a103-b756-4ad1-bbb4-e7d4735a57d0"
+      "name": "코우텐동",
+      "menu": "텐동 · 카레",
+      "description": "튀김덮밥을 중심으로 고르는 일식 한 끼예요.",
+      "reviews": "4,812",
+      "rating": 4.6,
+      "checkedAt": "2026-09-15",
+      "reviewSource": "네이버 지도 검색목록",
+      "source": "https://map.naver.com/p/search/%EC%88%9C%EC%B2%9C%20%EB%A7%9B%EC%A7%91"
     },
     "sights": [
       {
@@ -149,22 +187,34 @@ window.JEOLLA_TOUR = [
     ],
     "foods": [
       {
-        "name": "신화식당 · 웃장국밥골목",
-        "menu": "돼지국밥",
-        "description": "웃장 일대의 국밥 문화와 함께 즐기는 든든한 한 끼예요.",
-        "source": "https://korean.visitkorea.or.kr/detail/rem_detail.do?cotid=0cc2a103-b756-4ad1-bbb4-e7d4735a57d0"
+        "name": "코우텐동",
+        "menu": "텐동 · 카레",
+        "description": "튀김덮밥을 중심으로 고르는 일식 한 끼예요.",
+        "reviews": "4,812",
+        "rating": 4.6,
+        "checkedAt": "2026-09-15",
+        "reviewSource": "네이버 지도 검색목록",
+        "source": "https://map.naver.com/p/search/%EC%88%9C%EC%B2%9C%20%EB%A7%9B%EC%A7%91"
       },
       {
-        "name": "건봉국밥",
-        "menu": "돼지국밥",
-        "description": "돼지국밥 메뉴를 중심으로 골라본 식사·간식 후보예요. 아래 안내에서 사진과 방문 정보를 살펴보세요.",
-        "source": "https://korean.visitkorea.or.kr/detail/rem_detail.do?cotid=d8581a0d-8e2f-48dd-b52a-72bf57a0e20c"
+        "name": "순천 한정식 명궁관",
+        "menu": "남도한정식 · 보리굴비",
+        "description": "가족끼리 차분하게 남도 한 상을 먹고 싶을 때 비교해보세요.",
+        "reviews": "2,215",
+        "rating": 4.68,
+        "checkedAt": "2026-09-15",
+        "reviewSource": "네이버 지도 검색목록",
+        "source": "https://map.naver.com/p/search/%EC%88%9C%EC%B2%9C%20%EB%A7%9B%EC%A7%91"
       },
       {
-        "name": "대원식당",
-        "menu": "한정식",
-        "description": "한정식 메뉴를 중심으로 골라본 식사·간식 후보예요. 아래 안내에서 사진과 방문 정보를 살펴보세요.",
-        "source": "https://www.korea.kr/news/issueQAView.do?newsId=148795143"
+        "name": "덕수파스타 순천 직영점",
+        "menu": "땡초크림파스타 · 필라프",
+        "description": "파스타와 볶음밥을 함께 고를 수 있는 양식 후보예요.",
+        "reviews": "9,882",
+        "rating": 4.88,
+        "checkedAt": "2026-09-15",
+        "reviewSource": "네이버 지도 검색목록",
+        "source": "https://map.naver.com/p/search/%EC%88%9C%EC%B2%9C%20%EB%A7%9B%EC%A7%91"
       }
     ]
   },
@@ -177,10 +227,14 @@ window.JEOLLA_TOUR = [
       "source": "https://korean.visitkorea.or.kr/detail/rem_detail.do?cotid=d2c2c733-63d3-4a55-96e1-5a6b003c31bd"
     },
     "food": {
-      "name": "나주곰탕 노안집",
-      "menu": "곰탕 · 수육곰탕",
-      "description": "맑은 소고기 국물과 밥을 함께 내는 나주곰탕을 맛보세요.",
-      "source": "https://korean.visitkorea.or.kr/detail/rem_detail.do?cotid=d2c2c733-63d3-4a55-96e1-5a6b003c31bd"
+      "name": "유부자",
+      "menu": "돈코츠라멘 · 유부초밥",
+      "description": "라멘과 유부초밥을 함께 고르는 가벼운 일식 한 끼예요.",
+      "reviews": "2,110",
+      "rating": null,
+      "checkedAt": "2026-09-15",
+      "reviewSource": "네이버 지도 검색목록",
+      "source": "https://map.naver.com/p/search/%EB%82%98%EC%A3%BC%20%EB%A7%9B%EC%A7%91"
     },
     "sights": [
       {
@@ -206,22 +260,34 @@ window.JEOLLA_TOUR = [
     ],
     "foods": [
       {
-        "name": "나주곰탕 노안집",
-        "menu": "곰탕 · 수육곰탕",
-        "description": "맑은 소고기 국물과 밥을 함께 내는 나주곰탕을 맛보세요.",
-        "source": "https://korean.visitkorea.or.kr/detail/rem_detail.do?cotid=d2c2c733-63d3-4a55-96e1-5a6b003c31bd"
+        "name": "유부자",
+        "menu": "돈코츠라멘 · 유부초밥",
+        "description": "라멘과 유부초밥을 함께 고르는 가벼운 일식 한 끼예요.",
+        "reviews": "2,110",
+        "rating": null,
+        "checkedAt": "2026-09-15",
+        "reviewSource": "네이버 지도 검색목록",
+        "source": "https://map.naver.com/p/search/%EB%82%98%EC%A3%BC%20%EB%A7%9B%EC%A7%91"
       },
       {
-        "name": "하얀집",
-        "menu": "나주곰탕",
-        "description": "나주곰탕 메뉴를 중심으로 골라본 식사·간식 후보예요. 아래 안내에서 사진과 방문 정보를 살펴보세요.",
-        "source": "https://www.kps.co.kr/ebook/202504/pdf/202504.pdf"
+        "name": "영산나루 by익선121 올드머그",
+        "menu": "돈까스 · 피자",
+        "description": "정원 분위기와 식사를 함께 즐기고 싶은 날의 후보예요.",
+        "reviews": "2,692",
+        "rating": null,
+        "checkedAt": "2026-09-15",
+        "reviewSource": "네이버 지도 검색목록",
+        "source": "https://map.naver.com/p/search/%EB%82%98%EC%A3%BC%20%EB%A7%9B%EC%A7%91"
       },
       {
-        "name": "대승장어",
-        "menu": "장어구이",
-        "description": "장어구이 메뉴를 중심으로 골라본 식사·간식 후보예요. 아래 안내에서 사진과 방문 정보를 살펴보세요.",
-        "source": "https://www.korea.kr/briefing/policyBriefingView.do?newsId=148833556"
+        "name": "유유샤브 나주혁신점",
+        "menu": "샤브샤브 · 편백찜",
+        "description": "여럿이 채소와 고기를 나눠 먹기 좋은 선택지예요.",
+        "reviews": "4,159",
+        "rating": 4.88,
+        "checkedAt": "2026-09-15",
+        "reviewSource": "네이버 지도 검색목록",
+        "source": "https://map.naver.com/p/search/%EB%82%98%EC%A3%BC%20%EB%A7%9B%EC%A7%91"
       }
     ]
   },
@@ -234,10 +300,14 @@ window.JEOLLA_TOUR = [
       "source": "https://korean.visitkorea.or.kr/detail/rem_detail.do?cotid=6668502d-4c22-4bb7-aca6-951722383922"
     },
     "food": {
-      "name": "삼대광양불고기집",
+      "name": "그러소 광양불고기 광양읍본점",
       "menu": "광양불고기",
-      "description": "얇게 썬 소고기를 구워 먹는 광양의 대표 음식이에요.",
-      "source": "https://korean.visitkorea.or.kr/detail/rem_detail.do?cotid=5d326a6d-f381-4004-b7ba-3eeb1637a163"
+      "description": "광양의 대표 메뉴를 먹되, 리뷰 규모와 표시 별점을 함께 보고 고른 곳이에요.",
+      "reviews": "8,109",
+      "rating": 4.86,
+      "checkedAt": "2026-09-15",
+      "reviewSource": "네이버 지도 검색목록",
+      "source": "https://map.naver.com/p/search/%EA%B4%91%EC%96%91%20%EB%A7%9B%EC%A7%91"
     },
     "sights": [
       {
@@ -263,22 +333,34 @@ window.JEOLLA_TOUR = [
     ],
     "foods": [
       {
-        "name": "삼대광양불고기집",
+        "name": "그러소 광양불고기 광양읍본점",
         "menu": "광양불고기",
-        "description": "얇게 썬 소고기를 구워 먹는 광양의 대표 음식이에요.",
-        "source": "https://korean.visitkorea.or.kr/detail/rem_detail.do?cotid=5d326a6d-f381-4004-b7ba-3eeb1637a163"
+        "description": "광양의 대표 메뉴를 먹되, 리뷰 규모와 표시 별점을 함께 보고 고른 곳이에요.",
+        "reviews": "8,109",
+        "rating": 4.86,
+        "checkedAt": "2026-09-15",
+        "reviewSource": "네이버 지도 검색목록",
+        "source": "https://map.naver.com/p/search/%EA%B4%91%EC%96%91%20%EB%A7%9B%EC%A7%91"
       },
       {
-        "name": "시내식당",
-        "menu": "광양불고기",
-        "description": "광양불고기 메뉴를 중심으로 골라본 식사·간식 후보예요. 아래 안내에서 사진과 방문 정보를 살펴보세요.",
-        "source": "https://gwangyang.go.kr/board.es?act=view&bid=0057&list_no=98763&mid=a11007000000"
+        "name": "광양정쿡 LF스퀘어 광양점",
+        "menu": "불향치킨오이스터파스타 · 샐러드",
+        "description": "불고기 외에 파스타를 원할 때 고를 수 있어요.",
+        "reviews": "6,931",
+        "rating": null,
+        "checkedAt": "2026-09-15",
+        "reviewSource": "네이버 지도 검색목록",
+        "source": "https://map.naver.com/p/search/%EA%B4%91%EC%96%91%20%EB%A7%9B%EC%A7%91"
       },
       {
-        "name": "금목서광양불고기",
-        "menu": "광양불고기",
-        "description": "광양불고기 메뉴를 중심으로 골라본 식사·간식 후보예요. 아래 안내에서 사진과 방문 정보를 살펴보세요.",
-        "source": "https://gwangyang.go.kr/board.es?act=view&bid=0057&list_no=98763&mid=a11007000000"
+        "name": "은성면옥 광양중마동본점",
+        "menu": "냉면 · 갈비탕",
+        "description": "시원한 면과 든든한 탕 중 취향에 맞춰 골라보세요.",
+        "reviews": "7,857",
+        "rating": 4.6,
+        "checkedAt": "2026-09-15",
+        "reviewSource": "네이버 지도 검색목록",
+        "source": "https://map.naver.com/p/search/%EA%B4%91%EC%96%91%20%EB%A7%9B%EC%A7%91"
       }
     ]
   },
@@ -291,10 +373,14 @@ window.JEOLLA_TOUR = [
       "source": "https://access.visitkorea.or.kr/ms/detail.do?cotId=63f4bf53-5dbb-46aa-8167-3241f2069318"
     },
     "food": {
-      "name": "한국집",
-      "menu": "전주비빔밥",
-      "description": "전주의 대표 음식을 한 그릇으로 즐기는 비빔밥 전문점이에요.",
-      "source": "https://tour.jb.go.kr/index.do?menuCd=DOM_000000109001004000"
+      "name": "카츠모리조",
+      "menu": "히레카츠 · 로스카츠",
+      "description": "돈카츠를 좋아한다면 비교해볼 후보. 여러 부위를 고를 수 있어요.",
+      "reviews": "1.6만",
+      "rating": 4.88,
+      "checkedAt": "2026-09-15",
+      "reviewSource": "네이버 지도 검색목록",
+      "source": "https://map.naver.com/p/search/%EC%A0%84%EC%A3%BC%20%EB%A7%9B%EC%A7%91"
     },
     "sights": [
       {
@@ -318,22 +404,34 @@ window.JEOLLA_TOUR = [
     ],
     "foods": [
       {
-        "name": "한국집",
-        "menu": "전주비빔밥",
-        "description": "전주의 대표 음식을 한 그릇으로 즐기는 비빔밥 전문점이에요.",
-        "source": "https://tour.jb.go.kr/index.do?menuCd=DOM_000000109001004000"
+        "name": "카츠모리조",
+        "menu": "히레카츠 · 로스카츠",
+        "description": "돈카츠를 좋아한다면 비교해볼 후보. 여러 부위를 고를 수 있어요.",
+        "reviews": "1.6만",
+        "rating": 4.88,
+        "checkedAt": "2026-09-15",
+        "reviewSource": "네이버 지도 검색목록",
+        "source": "https://map.naver.com/p/search/%EC%A0%84%EC%A3%BC%20%EB%A7%9B%EC%A7%91"
       },
       {
-        "name": "삼백집",
-        "menu": "콩나물국밥",
-        "description": "콩나물국밥 메뉴를 중심으로 골라본 식사·간식 후보예요. 아래 안내에서 사진과 방문 정보를 살펴보세요.",
-        "source": "https://tour.jb.go.kr/index.do?menuCd=DOM_000000109001004000"
+        "name": "가마",
+        "menu": "화덕피자 · 명란로제",
+        "description": "전주에서 피자와 파스타로 식사하고 싶은 날의 선택지예요.",
+        "reviews": "9,320",
+        "rating": 4.76,
+        "checkedAt": "2026-09-15",
+        "reviewSource": "네이버 지도 검색목록",
+        "source": "https://map.naver.com/p/search/%EC%A0%84%EC%A3%BC%20%EB%A7%9B%EC%A7%91"
       },
       {
-        "name": "반야돌솥밥",
-        "menu": "돌솥밥 · 더덕구이",
-        "description": "돌솥밥 · 더덕구이 메뉴를 중심으로 골라본 식사·간식 후보예요. 아래 안내에서 사진과 방문 정보를 살펴보세요.",
-        "source": "https://tour.jb.go.kr/index.do?menuCd=DOM_000000109001004000"
+        "name": "자매갈비전골",
+        "menu": "갈비전골",
+        "description": "여럿이 전골을 나눠 먹고 싶은 날. 표시 리뷰가 많은 후보예요.",
+        "reviews": "1.8만",
+        "rating": null,
+        "checkedAt": "2026-09-15",
+        "reviewSource": "네이버 지도 검색목록",
+        "source": "https://map.naver.com/p/search/%EC%A0%84%EC%A3%BC%20%EB%A7%9B%EC%A7%91"
       }
     ]
   },
@@ -346,10 +444,14 @@ window.JEOLLA_TOUR = [
       "source": "https://korean.visitkorea.or.kr/detail/rem_detail.do?cotid=cee937b6-f8f0-4993-a75b-ab2051941e8a"
     },
     "food": {
-      "name": "이성당",
-      "menu": "단팥빵 · 야채빵",
-      "description": "군산의 대표 빵집. 인기 빵의 판매·품절 상황은 현장에서 확인하세요.",
-      "source": "https://korean.visitkorea.or.kr/detail/rem_detail.do?cotid=39023e07-fe57-40c8-8de1-094c9bbf2fbd"
+      "name": "군산 버거랩 키친후가",
+      "menu": "새우폭탄버거 · 치킨버거",
+      "description": "군산에서 수제버거를 먹고 싶은 날의 후보예요.",
+      "reviews": "7,587",
+      "rating": 4.84,
+      "checkedAt": "2026-09-15",
+      "reviewSource": "네이버 지도 검색목록",
+      "source": "https://map.naver.com/p/search/%EA%B5%B0%EC%82%B0%20%EB%A7%9B%EC%A7%91"
     },
     "sights": [
       {
@@ -373,22 +475,34 @@ window.JEOLLA_TOUR = [
     ],
     "foods": [
       {
-        "name": "이성당",
-        "menu": "단팥빵 · 야채빵",
-        "description": "군산의 대표 빵집. 인기 빵의 판매·품절 상황은 현장에서 확인하세요.",
-        "source": "https://korean.visitkorea.or.kr/detail/rem_detail.do?cotid=39023e07-fe57-40c8-8de1-094c9bbf2fbd"
+        "name": "군산 버거랩 키친후가",
+        "menu": "새우폭탄버거 · 치킨버거",
+        "description": "군산에서 수제버거를 먹고 싶은 날의 후보예요.",
+        "reviews": "7,587",
+        "rating": 4.84,
+        "checkedAt": "2026-09-15",
+        "reviewSource": "네이버 지도 검색목록",
+        "source": "https://map.naver.com/p/search/%EA%B5%B0%EC%82%B0%20%EB%A7%9B%EC%A7%91"
       },
       {
-        "name": "복성루",
-        "menu": "짬뽕",
-        "description": "짬뽕 메뉴를 중심으로 골라본 식사·간식 후보예요. 아래 안내에서 사진과 방문 정보를 살펴보세요.",
-        "source": "https://korean.visitkorea.or.kr/detail/rem_detail.do?cotid=cea3cbf9-bf2a-4a3b-82b4-7973204ba309"
+        "name": "오죽",
+        "menu": "일식 정식 · 복지리",
+        "description": "여럿이 차분한 식사를 하고 싶을 때 메뉴를 비교해보세요.",
+        "reviews": "2,171",
+        "rating": 4.54,
+        "checkedAt": "2026-09-15",
+        "reviewSource": "네이버 지도 검색목록",
+        "source": "https://map.naver.com/p/search/%EA%B5%B0%EC%82%B0%20%EB%A7%9B%EC%A7%91"
       },
       {
-        "name": "계곡가든",
-        "menu": "꽃게장",
-        "description": "꽃게장 메뉴를 중심으로 골라본 식사·간식 후보예요. 아래 안내에서 사진과 방문 정보를 살펴보세요.",
-        "source": "https://korean.visitkorea.or.kr/detail/rem_detail.do?cotid=cea3cbf9-bf2a-4a3b-82b4-7973204ba309"
+        "name": "활어회담 군산역",
+        "menu": "생선회 · 제철 새우",
+        "description": "군산역 인근에서 회를 먹고 싶은 날. 제철 메뉴는 방문 전 확인해요.",
+        "reviews": "2,275",
+        "rating": null,
+        "checkedAt": "2026-09-15",
+        "reviewSource": "네이버 지도 검색목록",
+        "source": "https://map.naver.com/p/search/%EA%B5%B0%EC%82%B0%20%EB%A7%9B%EC%A7%91"
       }
     ]
   },
@@ -401,10 +515,14 @@ window.JEOLLA_TOUR = [
       "source": "https://korean.visitkorea.or.kr/detail/rem_detail.do?cotid=7f4cbd2c-d3ca-4c57-89fd-30aab01efda9"
     },
     "food": {
-      "name": "진미식당",
-      "menu": "황등비빔밥",
-      "description": "토렴한 밥과 육회가 어우러지는 황등비빔밥을 맛보세요.",
-      "source": "https://korean.visitkorea.or.kr/detail/rem_detail.do?cotid=7f4cbd2c-d3ca-4c57-89fd-30aab01efda9"
+      "name": "초미당 첫번째",
+      "menu": "스페셜초밥 · 가지초밥",
+      "description": "초밥과 가지초밥을 함께 고를 수 있는 익산의 일식 후보예요.",
+      "reviews": "6,862",
+      "rating": null,
+      "checkedAt": "2026-09-15",
+      "reviewSource": "네이버 지도 검색목록",
+      "source": "https://map.naver.com/p/search/%EC%9D%B5%EC%82%B0%20%EB%A7%9B%EC%A7%91"
     },
     "sights": [
       {
@@ -428,22 +546,34 @@ window.JEOLLA_TOUR = [
     ],
     "foods": [
       {
-        "name": "진미식당",
-        "menu": "황등비빔밥",
-        "description": "토렴한 밥과 육회가 어우러지는 황등비빔밥을 맛보세요.",
-        "source": "https://korean.visitkorea.or.kr/detail/rem_detail.do?cotid=7f4cbd2c-d3ca-4c57-89fd-30aab01efda9"
+        "name": "초미당 첫번째",
+        "menu": "스페셜초밥 · 가지초밥",
+        "description": "초밥과 가지초밥을 함께 고를 수 있는 익산의 일식 후보예요.",
+        "reviews": "6,862",
+        "rating": null,
+        "checkedAt": "2026-09-15",
+        "reviewSource": "네이버 지도 검색목록",
+        "source": "https://map.naver.com/p/search/%EC%9D%B5%EC%82%B0%20%EB%A7%9B%EC%A7%91"
       },
       {
-        "name": "시장비빔밥",
-        "menu": "황등비빔밥",
-        "description": "황등비빔밥 메뉴를 중심으로 골라본 식사·간식 후보예요. 아래 안내에서 사진과 방문 정보를 살펴보세요.",
-        "source": "https://tour.jb.go.kr/index.do?menuCd=DOM_000000110003002000"
+        "name": "토마레제면소",
+        "menu": "붓가케우동 · 치즈타마고카츠",
+        "description": "우동과 곁들임을 함께 고르고 싶을 때 추천 후보로 담았어요.",
+        "reviews": "9,144",
+        "rating": 4.85,
+        "checkedAt": "2026-09-15",
+        "reviewSource": "네이버 지도 검색목록",
+        "source": "https://map.naver.com/p/search/%EC%9D%B5%EC%82%B0%20%EB%A7%9B%EC%A7%91"
       },
       {
-        "name": "한일식당",
-        "menu": "황등비빔밥",
-        "description": "황등비빔밥 메뉴를 중심으로 골라본 식사·간식 후보예요. 아래 안내에서 사진과 방문 정보를 살펴보세요.",
-        "source": "https://tour.jb.go.kr/index.do?menuCd=DOM_000000110003002000"
+        "name": "철이네오복 본점",
+        "menu": "돌판오징어볶음",
+        "description": "매콤한 오징어볶음으로 식사하고 싶은 날의 후보예요.",
+        "reviews": "1,507",
+        "rating": 4.88,
+        "checkedAt": "2026-09-15",
+        "reviewSource": "네이버 지도 검색목록",
+        "source": "https://map.naver.com/p/search/%EC%9D%B5%EC%82%B0%20%EB%A7%9B%EC%A7%91"
       }
     ]
   },
@@ -456,10 +586,14 @@ window.JEOLLA_TOUR = [
       "source": "https://english.visitkorea.or.kr/svc/whereToGo/hdrdslt/hdrdsltView.do?crsSn=311092"
     },
     "food": {
-      "name": "정읍 쌍화차거리",
-      "menu": "쌍화차",
-      "description": "여러 찻집 중 마음에 드는 곳을 골라 따뜻한 쌍화차로 쉬어가세요. 특정 업소 추천은 아니에요.",
-      "source": "https://korean.visitkorea.or.kr/detail/rem_detail.do?cotid=7da2c9af-957d-4951-8773-2d635cfff6e2"
+      "name": "국화회관",
+      "menu": "우렁쌈밥",
+      "description": "쌈채소와 우렁쌈밥으로 든든하게 먹고 싶은 날의 후보예요.",
+      "reviews": "1,971",
+      "rating": null,
+      "checkedAt": "2026-09-15",
+      "reviewSource": "네이버 지도 검색목록",
+      "source": "https://map.naver.com/p/search/%EC%A0%95%EC%9D%8D%20%EB%A7%9B%EC%A7%91"
     },
     "sights": [
       {
@@ -485,22 +619,34 @@ window.JEOLLA_TOUR = [
     ],
     "foods": [
       {
-        "name": "정읍 쌍화차거리",
-        "menu": "쌍화차",
-        "description": "여러 찻집 중 마음에 드는 곳을 골라 따뜻한 쌍화차로 쉬어가세요. 특정 업소 추천은 아니에요.",
-        "source": "https://korean.visitkorea.or.kr/detail/rem_detail.do?cotid=7da2c9af-957d-4951-8773-2d635cfff6e2"
+        "name": "국화회관",
+        "menu": "우렁쌈밥",
+        "description": "쌈채소와 우렁쌈밥으로 든든하게 먹고 싶은 날의 후보예요.",
+        "reviews": "1,971",
+        "rating": null,
+        "checkedAt": "2026-09-15",
+        "reviewSource": "네이버 지도 검색목록",
+        "source": "https://map.naver.com/p/search/%EC%A0%95%EC%9D%8D%20%EB%A7%9B%EC%A7%91"
       },
       {
-        "name": "대일정",
-        "menu": "참게장정식 · 떡갈비정식",
-        "description": "참게장정식 · 떡갈비정식 메뉴를 중심으로 골라본 식사·간식 후보예요. 아래 안내에서 사진과 방문 정보를 살펴보세요.",
-        "source": "https://www.jeongeup.go.kr/culture/index.jeongeup?menuCd=DOM_000000605001005023"
+        "name": "달초롱 카페",
+        "menu": "치즈돈까스 · 오므라이스",
+        "description": "커피만 마시는 곳이 아니라 돈까스와 오므라이스 식사도 가능해요.",
+        "reviews": "1,353",
+        "rating": 4.81,
+        "checkedAt": "2026-09-15",
+        "reviewSource": "네이버 지도 검색목록",
+        "source": "https://map.naver.com/p/search/%EC%A0%95%EC%9D%8D%20%EB%A7%9B%EC%A7%91"
       },
       {
-        "name": "자연애산채마을",
-        "menu": "표고버섯덮밥",
-        "description": "표고버섯덮밥 메뉴를 중심으로 골라본 식사·간식 후보예요. 아래 안내에서 사진과 방문 정보를 살펴보세요.",
-        "source": "https://tour.jb.go.kr/index.do?menuCd=DOM_000000110003005000"
+        "name": "단풍돈",
+        "menu": "숯불고기 · 들기름막국수",
+        "description": "리뷰 수는 상대적으로 적지만 표시 별점이 높은 고기 식사 후보예요.",
+        "reviews": "354",
+        "rating": 4.89,
+        "checkedAt": "2026-09-15",
+        "reviewSource": "네이버 지도 검색목록",
+        "source": "https://map.naver.com/p/search/%EC%A0%95%EC%9D%8D%20%EB%A7%9B%EC%A7%91"
       }
     ]
   },
@@ -513,10 +659,14 @@ window.JEOLLA_TOUR = [
       "source": "https://korean.visitkorea.or.kr/detail/rem_detail.do?cotid=0d57d62e-1ce8-4e71-9a0d-9b833a961849"
     },
     "food": {
-      "name": "새집추어탕",
-      "menu": "추어탕",
-      "description": "남원의 대표 음식인 추어탕으로 여행 중 든든하게 식사해보세요.",
-      "source": "https://korean.visitkorea.or.kr/detail/rem_detail.do?cotid=0d57d62e-1ce8-4e71-9a0d-9b833a961849"
+      "name": "삼포가든",
+      "menu": "장어구이 · 메기매운탕",
+      "description": "추어탕 외에 장어와 매운탕을 고르고 싶을 때 비교해보세요.",
+      "reviews": "3,699",
+      "rating": 4.78,
+      "checkedAt": "2026-09-15",
+      "reviewSource": "네이버 지도 검색목록",
+      "source": "https://map.naver.com/p/search/%EB%82%A8%EC%9B%90%20%EB%A7%9B%EC%A7%91"
     },
     "sights": [
       {
@@ -542,22 +692,34 @@ window.JEOLLA_TOUR = [
     ],
     "foods": [
       {
-        "name": "새집추어탕",
-        "menu": "추어탕",
-        "description": "남원의 대표 음식인 추어탕으로 여행 중 든든하게 식사해보세요.",
-        "source": "https://korean.visitkorea.or.kr/detail/rem_detail.do?cotid=0d57d62e-1ce8-4e71-9a0d-9b833a961849"
+        "name": "삼포가든",
+        "menu": "장어구이 · 메기매운탕",
+        "description": "추어탕 외에 장어와 매운탕을 고르고 싶을 때 비교해보세요.",
+        "reviews": "3,699",
+        "rating": 4.78,
+        "checkedAt": "2026-09-15",
+        "reviewSource": "네이버 지도 검색목록",
+        "source": "https://map.naver.com/p/search/%EB%82%A8%EC%9B%90%20%EB%A7%9B%EC%A7%91"
       },
       {
-        "name": "현식당",
-        "menu": "추어탕",
-        "description": "추어탕 메뉴를 중심으로 골라본 식사·간식 후보예요. 아래 안내에서 사진과 방문 정보를 살펴보세요.",
-        "source": "https://tour.jb.go.kr/index.do?menuCd=DOM_000000110003006000"
+        "name": "서남만찬",
+        "menu": "돌솥오징어볶음",
+        "description": "불맛 나는 오징어볶음을 먹고 싶은 날의 후보예요.",
+        "reviews": "4,691",
+        "rating": null,
+        "checkedAt": "2026-09-15",
+        "reviewSource": "네이버 지도 검색목록",
+        "source": "https://map.naver.com/p/search/%EB%82%A8%EC%9B%90%20%EB%A7%9B%EC%A7%91"
       },
       {
-        "name": "지리산칡냉면",
-        "menu": "칡냉면",
-        "description": "칡냉면 메뉴를 중심으로 골라본 식사·간식 후보예요. 아래 안내에서 사진과 방문 정보를 살펴보세요.",
-        "source": "https://tour.jb.go.kr/index.do?menuCd=DOM_000000110003006000"
+        "name": "풍년칼국수",
+        "menu": "찜닭 · 칼국수",
+        "description": "여럿이 찜닭을 나누거나 따뜻한 면으로 식사하고 싶을 때 골라요.",
+        "reviews": "1,995",
+        "rating": 4.77,
+        "checkedAt": "2026-09-15",
+        "reviewSource": "네이버 지도 검색목록",
+        "source": "https://map.naver.com/p/search/%EB%82%A8%EC%9B%90%20%EB%A7%9B%EC%A7%91"
       }
     ]
   },
@@ -570,10 +732,14 @@ window.JEOLLA_TOUR = [
       "source": "https://korean.visitkorea.or.kr/detail/rem_detail.do?cotid=fc97d739-69c2-4746-b1d3-65bbe7428f9d"
     },
     "food": {
-      "name": "고각",
-      "menu": "해물짬뽕",
-      "description": "부량면에서 해물짬뽕을 맛볼 수 있는 식당이에요.",
-      "source": "https://korean.visitkorea.or.kr/detail/rem_detail.do?cotid=fc97d739-69c2-4746-b1d3-65bbe7428f9d"
+      "name": "참예우한우프라자",
+      "menu": "한우구이 · 육회비빔밥",
+      "description": "한우구이와 식사 메뉴를 함께 비교할 수 있는 후보예요.",
+      "reviews": "1,026",
+      "rating": null,
+      "checkedAt": "2026-09-15",
+      "reviewSource": "네이버 지도 검색목록",
+      "source": "https://map.naver.com/p/search/%EA%B9%80%EC%A0%9C%20%EB%A7%9B%EC%A7%91"
     },
     "sights": [
       {
@@ -598,22 +764,34 @@ window.JEOLLA_TOUR = [
     ],
     "foods": [
       {
-        "name": "고각",
-        "menu": "해물짬뽕",
-        "description": "부량면에서 해물짬뽕을 맛볼 수 있는 식당이에요.",
-        "source": "https://korean.visitkorea.or.kr/detail/rem_detail.do?cotid=fc97d739-69c2-4746-b1d3-65bbe7428f9d"
+        "name": "참예우한우프라자",
+        "menu": "한우구이 · 육회비빔밥",
+        "description": "한우구이와 식사 메뉴를 함께 비교할 수 있는 후보예요.",
+        "reviews": "1,026",
+        "rating": null,
+        "checkedAt": "2026-09-15",
+        "reviewSource": "네이버 지도 검색목록",
+        "source": "https://map.naver.com/p/search/%EA%B9%80%EC%A0%9C%20%EB%A7%9B%EC%A7%91"
       },
       {
-        "name": "원평지평선청보리한우촌",
-        "menu": "한우비빔밥",
-        "description": "한우비빔밥 메뉴를 중심으로 골라본 식사·간식 후보예요. 아래 안내에서 사진과 방문 정보를 살펴보세요.",
-        "source": "https://tour.jb.go.kr/index.do?menuCd=DOM_000000110003004000"
+        "name": "조가네갑오징어 금산사점",
+        "menu": "갑오징어볶음 · 볶음밥",
+        "description": "금산사 쪽 여행에 곁들일 매콤한 한 끼 후보예요.",
+        "reviews": "1,730",
+        "rating": 4.45,
+        "checkedAt": "2026-09-15",
+        "reviewSource": "네이버 지도 검색목록",
+        "source": "https://map.naver.com/p/search/%EA%B9%80%EC%A0%9C%20%EB%A7%9B%EC%A7%91"
       },
       {
-        "name": "원조시골집",
-        "menu": "막창순대국밥",
-        "description": "막창순대국밥 메뉴를 중심으로 골라본 식사·간식 후보예요. 아래 안내에서 사진과 방문 정보를 살펴보세요.",
-        "source": "https://tour.jb.go.kr/index.do?menuCd=DOM_000000110003004000"
+        "name": "현대옥 김제검산점",
+        "menu": "콩나물국밥 · 얼큰돼지국밥",
+        "description": "복잡한 상차림보다 국밥 한 그릇이 당길 때 골라보세요.",
+        "reviews": "809",
+        "rating": 4.88,
+        "checkedAt": "2026-09-15",
+        "reviewSource": "네이버 지도 검색목록",
+        "source": "https://map.naver.com/p/search/%EA%B9%80%EC%A0%9C%20%EB%A7%9B%EC%A7%91"
       }
     ]
   },
@@ -626,10 +804,14 @@ window.JEOLLA_TOUR = [
       "source": "https://korean.visitkorea.or.kr/detail/rem_detail.do?cotid=c44502c7-c646-46f3-b1c3-3f5845fa6651"
     },
     "food": {
-      "name": "진우네집국수",
-      "menu": "멸치국수",
-      "description": "담양 국수거리에서 간단하고 편안하게 즐기는 한 그릇이에요.",
-      "source": "https://korean.visitkorea.or.kr/detail/rem_detail.do?cotid=c44502c7-c646-46f3-b1c3-3f5845fa6651"
+      "name": "옥빈관 담양 죽녹원국수거리본점",
+      "menu": "반반대통정식 · 떡갈비",
+      "description": "담양의 대통밥과 떡갈비를 한 상으로 먹고 싶은 날의 후보예요.",
+      "reviews": "6,011",
+      "rating": 4.72,
+      "checkedAt": "2026-09-15",
+      "reviewSource": "네이버 지도 검색목록",
+      "source": "https://map.naver.com/p/search/%EB%8B%B4%EC%96%91%20%EB%A7%9B%EC%A7%91"
     },
     "sights": [
       {
@@ -653,22 +835,34 @@ window.JEOLLA_TOUR = [
     ],
     "foods": [
       {
-        "name": "진우네집국수",
-        "menu": "멸치국수",
-        "description": "담양 국수거리에서 간단하고 편안하게 즐기는 한 그릇이에요.",
-        "source": "https://korean.visitkorea.or.kr/detail/rem_detail.do?cotid=c44502c7-c646-46f3-b1c3-3f5845fa6651"
+        "name": "옥빈관 담양 죽녹원국수거리본점",
+        "menu": "반반대통정식 · 떡갈비",
+        "description": "담양의 대통밥과 떡갈비를 한 상으로 먹고 싶은 날의 후보예요.",
+        "reviews": "6,011",
+        "rating": 4.72,
+        "checkedAt": "2026-09-15",
+        "reviewSource": "네이버 지도 검색목록",
+        "source": "https://map.naver.com/p/search/%EB%8B%B4%EC%96%91%20%EB%A7%9B%EC%A7%91"
       },
       {
-        "name": "담양죽순게장",
-        "menu": "죽순게장정식",
-        "description": "죽순게장정식 메뉴를 중심으로 골라본 식사·간식 후보예요. 아래 안내에서 사진과 방문 정보를 살펴보세요.",
-        "source": "https://korean.visitkorea.or.kr/detail/ms_detail.do?cotid=0d2d6d9d-3cfe-4a31-a820-7a31cf4185de"
+        "name": "담양막둥이국수 죽녹원국수거리본점",
+        "menu": "떡갈비 비빔국수 · 멸치국수",
+        "description": "국수거리에서 면 요리를 고르고 싶을 때 비교해보세요.",
+        "reviews": "9,833",
+        "rating": null,
+        "checkedAt": "2026-09-15",
+        "reviewSource": "네이버 지도 검색목록",
+        "source": "https://map.naver.com/p/search/%EB%8B%B4%EC%96%91%20%EB%A7%9B%EC%A7%91"
       },
       {
-        "name": "덕인관",
-        "menu": "떡갈비",
-        "description": "떡갈비 메뉴를 중심으로 골라본 식사·간식 후보예요. 아래 안내에서 사진과 방문 정보를 살펴보세요.",
-        "source": "https://ilovekfood.com/kfood/content/place_view.asp?idx=33087"
+        "name": "창평국밥",
+        "menu": "막창전골 · 모둠수육",
+        "description": "국수나 떡갈비 외에 전골·수육으로 든든하게 먹고 싶을 때 골라요.",
+        "reviews": "7,558",
+        "rating": null,
+        "checkedAt": "2026-09-15",
+        "reviewSource": "네이버 지도 검색목록",
+        "source": "https://map.naver.com/p/search/%EB%8B%B4%EC%96%91%20%EB%A7%9B%EC%A7%91"
       }
     ]
   },
@@ -684,13 +878,14 @@ window.JEOLLA_TOUR = [
       "asof": "2023년 관광공사 안내"
     },
     "food": {
-      "name": "궁전회관",
-      "menu": "한정식 · 보리굴비",
-      "description": "곡성읍 중앙로의 한정식 식당. 인원별 주문 조건을 미리 확인하세요.",
-      "source": "https://access.visitkorea.or.kr/cos/detail.do?cotId=155d16eb-f1ec-41bf-9a68-f7dbb70ebc72",
-      "hours": "11:00–21:00",
-      "price": "보리굴비 25,000원 · 한정식 1인 25,000원 (3인 이상)",
-      "asof": "2023년 관광공사 안내"
+      "name": "입면메밀 곡성본점",
+      "menu": "들기름막국수 · 냉메밀",
+      "description": "메밀 면을 좋아한다면 비교해볼 후보. 표시 별점과 리뷰 규모를 함께 확인했어요.",
+      "reviews": "3,237",
+      "rating": 4.96,
+      "checkedAt": "2026-09-15",
+      "reviewSource": "네이버 지도 검색목록",
+      "source": "https://map.naver.com/p/search/%EA%B3%A1%EC%84%B1%20%EB%A7%9B%EC%A7%91"
     },
     "sights": [
       {
@@ -719,25 +914,34 @@ window.JEOLLA_TOUR = [
     ],
     "foods": [
       {
-        "name": "궁전회관",
-        "menu": "한정식 · 보리굴비",
-        "description": "곡성읍 중앙로의 한정식 식당. 인원별 주문 조건을 미리 확인하세요.",
-        "source": "https://access.visitkorea.or.kr/cos/detail.do?cotId=155d16eb-f1ec-41bf-9a68-f7dbb70ebc72",
-        "hours": "11:00–21:00",
-        "price": "보리굴비 25,000원 · 한정식 1인 25,000원 (3인 이상)",
-        "asof": "2023년 관광공사 안내"
+        "name": "입면메밀 곡성본점",
+        "menu": "들기름막국수 · 냉메밀",
+        "description": "메밀 면을 좋아한다면 비교해볼 후보. 표시 별점과 리뷰 규모를 함께 확인했어요.",
+        "reviews": "3,237",
+        "rating": 4.96,
+        "checkedAt": "2026-09-15",
+        "reviewSource": "네이버 지도 검색목록",
+        "source": "https://map.naver.com/p/search/%EA%B3%A1%EC%84%B1%20%EB%A7%9B%EC%A7%91"
       },
       {
-        "name": "별천지가든",
-        "menu": "민물매운탕",
-        "description": "민물매운탕 메뉴를 중심으로 골라본 식사·간식 후보예요. 아래 안내에서 사진과 방문 정보를 살펴보세요.",
-        "source": "https://tour.gokseong.go.kr/tour/images/tour/contents/gstour101.pdf"
+        "name": "화로담",
+        "menu": "숯불불고기정식 · 오겹살",
+        "description": "숯불고기와 밥으로 든든하게 식사하고 싶은 날의 후보예요.",
+        "reviews": "377",
+        "rating": 4.85,
+        "checkedAt": "2026-09-15",
+        "reviewSource": "네이버 지도 검색목록",
+        "source": "https://map.naver.com/p/search/%EA%B3%A1%EC%84%B1%20%EB%A7%9B%EC%A7%91"
       },
       {
-        "name": "섬진강물안개장어",
-        "menu": "장어구이",
-        "description": "장어구이 메뉴를 중심으로 골라본 식사·간식 후보예요. 아래 안내에서 사진과 방문 정보를 살펴보세요.",
-        "source": "https://tour.gokseong.go.kr/tour/images/tour/contents/gstour101.pdf"
+        "name": "진심왕돈까스 옥과점",
+        "menu": "왕돈까스",
+        "description": "옥과 쪽에서 돈까스를 먹고 싶은 날의 후보예요.",
+        "reviews": "2,462",
+        "rating": null,
+        "checkedAt": "2026-09-15",
+        "reviewSource": "네이버 지도 검색목록",
+        "source": "https://map.naver.com/p/search/%EA%B3%A1%EC%84%B1%20%EB%A7%9B%EC%A7%91"
       }
     ]
   },
@@ -750,10 +954,14 @@ window.JEOLLA_TOUR = [
       "source": "https://korean.visitkorea.or.kr/detail/rem_detail.do?cotid=6fb486cd-799c-4218-b6dc-81755efc0252"
     },
     "food": {
-      "name": "동아식당",
-      "menu": "가오리찜",
-      "description": "구례읍 봉동길에 있는 식당으로, 가오리찜이 소개된 곳이에요.",
-      "source": "https://korean.visitkorea.or.kr/detail/rem_detail.do?cotid=6fb486cd-799c-4218-b6dc-81755efc0252"
+      "name": "단테 텍사스바베큐",
+      "menu": "바비큐 플래터",
+      "description": "정식 대신 바비큐를 여럿이 나눠 먹고 싶은 날의 후보예요.",
+      "reviews": "1,785",
+      "rating": 4.78,
+      "checkedAt": "2026-09-15",
+      "reviewSource": "네이버 지도 검색목록",
+      "source": "https://map.naver.com/p/search/%EA%B5%AC%EB%A1%80%20%EB%A7%9B%EC%A7%91"
     },
     "sights": [
       {
@@ -779,22 +987,34 @@ window.JEOLLA_TOUR = [
     ],
     "foods": [
       {
-        "name": "동아식당",
-        "menu": "가오리찜",
-        "description": "구례읍 봉동길에 있는 식당으로, 가오리찜이 소개된 곳이에요.",
-        "source": "https://korean.visitkorea.or.kr/detail/rem_detail.do?cotid=6fb486cd-799c-4218-b6dc-81755efc0252"
+        "name": "단테 텍사스바베큐",
+        "menu": "바비큐 플래터",
+        "description": "정식 대신 바비큐를 여럿이 나눠 먹고 싶은 날의 후보예요.",
+        "reviews": "1,785",
+        "rating": 4.78,
+        "checkedAt": "2026-09-15",
+        "reviewSource": "네이버 지도 검색목록",
+        "source": "https://map.naver.com/p/search/%EA%B5%AC%EB%A1%80%20%EB%A7%9B%EC%A7%91"
       },
       {
-        "name": "부부식당",
-        "menu": "다슬기수제비",
-        "description": "다슬기수제비 메뉴를 중심으로 골라본 식사·간식 후보예요. 아래 안내에서 사진과 방문 정보를 살펴보세요.",
-        "source": "https://korean.visitkorea.or.kr/detail/rem_detail.do?cotid=ef58f737-9a86-42fb-800e-afd97af6a826"
+        "name": "구례역대합실",
+        "menu": "흑돼지안심돈가스 · 다슬기오일파스타",
+        "description": "돈가스와 파스타를 함께 고를 수 있는 구례의 양식 후보예요.",
+        "reviews": "2,042",
+        "rating": 4.6,
+        "checkedAt": "2026-09-15",
+        "reviewSource": "네이버 지도 검색목록",
+        "source": "https://map.naver.com/p/search/%EA%B5%AC%EB%A1%80%20%EB%A7%9B%EC%A7%91"
       },
       {
-        "name": "남촌회관",
-        "menu": "갈비 · 꽃등심",
-        "description": "갈비 · 꽃등심 메뉴를 중심으로 골라본 식사·간식 후보예요. 아래 안내에서 사진과 방문 정보를 살펴보세요.",
-        "source": "https://www.mcee.go.kr/ysg/web/meecotour/meEcoTourUserView.do?includeDeleted=N&menuId=4536&sessDupInfo=a&tour_seq=1"
+        "name": "운봉",
+        "menu": "지리산흑돼지곰탕 · 우리밀국수",
+        "description": "맑은 흑돼지곰탕과 국수로 한 끼를 고를 수 있어요.",
+        "reviews": "342",
+        "rating": 4.79,
+        "checkedAt": "2026-09-15",
+        "reviewSource": "네이버 지도 검색목록",
+        "source": "https://map.naver.com/p/search/%EA%B5%AC%EB%A1%80%20%EB%A7%9B%EC%A7%91"
       }
     ]
   },
@@ -807,12 +1027,14 @@ window.JEOLLA_TOUR = [
       "source": "https://korean.visitkorea.or.kr/detail/rem_detail.do?cotid=5274c8cb-01d3-4cd9-b3cb-2b27dd7524e2"
     },
     "food": {
-      "name": "과역기사님식당",
-      "menu": "삼겹살백반",
-      "description": "삼겹살과 반찬을 함께 즐기는 백반 한 상이에요.",
-      "source": "https://korean.visitkorea.or.kr/detail/rem_detail.do?cotid=5274c8cb-01d3-4cd9-b3cb-2b27dd7524e2",
-      "price": "삼겹살백반 12,000원",
-      "asof": "2024년 11월 관광공사 안내"
+      "name": "유자골고흥한우프라자",
+      "menu": "한우구이 · 육회비빔밥",
+      "description": "고흥에서 고기 식사를 원할 때 비교할 한우 후보예요.",
+      "reviews": "1,711",
+      "rating": null,
+      "checkedAt": "2026-09-15",
+      "reviewSource": "네이버 지도 검색목록",
+      "source": "https://map.naver.com/p/search/%EA%B3%A0%ED%9D%A5%20%EB%A7%9B%EC%A7%91"
     },
     "sights": [
       {
@@ -838,24 +1060,34 @@ window.JEOLLA_TOUR = [
     ],
     "foods": [
       {
-        "name": "과역기사님식당",
-        "menu": "삼겹살백반",
-        "description": "삼겹살과 반찬을 함께 즐기는 백반 한 상이에요.",
-        "source": "https://korean.visitkorea.or.kr/detail/rem_detail.do?cotid=5274c8cb-01d3-4cd9-b3cb-2b27dd7524e2",
-        "price": "삼겹살백반 12,000원",
-        "asof": "2024년 11월 관광공사 안내"
+        "name": "유자골고흥한우프라자",
+        "menu": "한우구이 · 육회비빔밥",
+        "description": "고흥에서 고기 식사를 원할 때 비교할 한우 후보예요.",
+        "reviews": "1,711",
+        "rating": null,
+        "checkedAt": "2026-09-15",
+        "reviewSource": "네이버 지도 검색목록",
+        "source": "https://map.naver.com/p/search/%EA%B3%A0%ED%9D%A5%20%EB%A7%9B%EC%A7%91"
       },
       {
         "name": "평화국밥",
-        "menu": "국밥",
-        "description": "국밥 메뉴를 중심으로 골라본 식사·간식 후보예요. 아래 안내에서 사진과 방문 정보를 살펴보세요.",
-        "source": "https://www.diningcode.com/list.dc?query=%EA%B3%A0%ED%9D%A5%20%ED%8F%89%ED%99%94%EA%B5%AD%EB%B0%A5"
+        "menu": "순대국밥",
+        "description": "맑은 국물의 국밥으로 가볍고 든든하게 먹고 싶은 날 골라요.",
+        "reviews": "893",
+        "rating": 4.54,
+        "checkedAt": "2026-09-15",
+        "reviewSource": "네이버 지도 검색목록",
+        "source": "https://map.naver.com/p/search/%EA%B3%A0%ED%9D%A5%20%EB%A7%9B%EC%A7%91"
       },
       {
-        "name": "서울식당 · 나로도",
-        "menu": "생선조림 · 백반",
-        "description": "생선조림 · 백반 메뉴를 중심으로 골라본 식사·간식 후보예요. 아래 안내에서 사진과 방문 정보를 살펴보세요.",
-        "source": "https://www.diningcode.com/list.dc?query=%EA%B3%A0%ED%9D%A5%20%EB%82%98%EB%A1%9C%EB%8F%84%20%EC%84%9C%EC%9A%B8%EC%8B%9D%EB%8B%B9"
+        "name": "거금팔경식당",
+        "menu": "주물럭 · 김치찌개백반",
+        "description": "거금도 여행에 곁들일 식사 후보. 읍내에서는 추가 이동이 필요해요.",
+        "reviews": "229",
+        "rating": null,
+        "checkedAt": "2026-09-15",
+        "reviewSource": "네이버 지도 검색목록",
+        "source": "https://map.naver.com/p/search/%EA%B3%A0%ED%9D%A5%20%EB%A7%9B%EC%A7%91"
       }
     ]
   },
@@ -868,10 +1100,14 @@ window.JEOLLA_TOUR = [
       "source": "https://korean.visitkorea.or.kr/detail/rem_detail.do?cotid=b8caf1ed-7609-45da-85c1-0ae4fd60ef64"
     },
     "food": {
-      "name": "춘운서옥",
-      "menu": "녹차라떼",
-      "description": "차밭 여행 뒤 한옥 공간에서 차 한 잔 쉬어가는 코스로 추천해요.",
-      "source": "https://korean.visitkorea.or.kr/detail/rem_detail.do?cotid=2e8709b0-7e34-4045-ac1a-180366335d70"
+      "name": "보성녹차떡갈비원조",
+      "menu": "녹차떡갈비",
+      "description": "보성에서 떡갈비를 먹고 싶은 날의 후보예요.",
+      "reviews": "2,292",
+      "rating": 4.5,
+      "checkedAt": "2026-09-15",
+      "reviewSource": "네이버 지도 검색목록",
+      "source": "https://map.naver.com/p/search/%EB%B3%B4%EC%84%B1%20%EB%A7%9B%EC%A7%91"
     },
     "sights": [
       {
@@ -897,22 +1133,34 @@ window.JEOLLA_TOUR = [
     ],
     "foods": [
       {
-        "name": "춘운서옥",
-        "menu": "녹차라떼",
-        "description": "차밭 여행 뒤 한옥 공간에서 차 한 잔 쉬어가는 코스로 추천해요.",
-        "source": "https://korean.visitkorea.or.kr/detail/rem_detail.do?cotid=2e8709b0-7e34-4045-ac1a-180366335d70"
-      },
-      {
-        "name": "특미관",
+        "name": "보성녹차떡갈비원조",
         "menu": "녹차떡갈비",
-        "description": "녹차떡갈비 메뉴를 중심으로 골라본 식사·간식 후보예요. 아래 안내에서 사진과 방문 정보를 살펴보세요.",
-        "source": "https://polle.com/place/2L0doe/특미관"
+        "description": "보성에서 떡갈비를 먹고 싶은 날의 후보예요.",
+        "reviews": "2,292",
+        "rating": 4.5,
+        "checkedAt": "2026-09-15",
+        "reviewSource": "네이버 지도 검색목록",
+        "source": "https://map.naver.com/p/search/%EB%B3%B4%EC%84%B1%20%EB%A7%9B%EC%A7%91"
       },
       {
-        "name": "외서댁꼬막나라 1호점",
+        "name": "정가네원조꼬막회관 본점",
         "menu": "꼬막정식",
-        "description": "꼬막정식 메뉴를 중심으로 골라본 식사·간식 후보예요. 아래 안내에서 사진과 방문 정보를 살펴보세요.",
-        "source": "https://www.diningcode.com/profile.php?rid=V4Qbf8ATR8Fz"
+        "description": "벌교 꼬막을 한 상으로 먹고 싶은 날 비교해보세요.",
+        "reviews": "2,242",
+        "rating": null,
+        "checkedAt": "2026-09-15",
+        "reviewSource": "네이버 지도 검색목록",
+        "source": "https://map.naver.com/p/search/%EB%B3%B4%EC%84%B1%20%EB%A7%9B%EC%A7%91"
+      },
+      {
+        "name": "해연",
+        "menu": "꼬막한정식",
+        "description": "꼬막을 포함한 한정식과 식사 공간을 함께 고려한 후보예요.",
+        "reviews": "1,069",
+        "rating": 4.7,
+        "checkedAt": "2026-09-15",
+        "reviewSource": "네이버 지도 검색목록",
+        "source": "https://map.naver.com/p/search/%EB%B3%B4%EC%84%B1%20%EB%A7%9B%EC%A7%91"
       }
     ]
   },
@@ -925,10 +1173,14 @@ window.JEOLLA_TOUR = [
       "source": "https://korean.visitkorea.or.kr/detail/rem_detail.do?cotid=d06e9ad7-2d11-446e-9f76-7a4c74846a15"
     },
     "food": {
-      "name": "화성식육식당",
-      "menu": "생고기비빔밥 · 소머리국밥",
-      "description": "화순의 오래된 식당에서 지역의 소고기 음식을 맛보세요.",
-      "source": "https://korean.visitkorea.or.kr/detail/ms_detail.do?cotid=815fe644-57f9-4ae9-8602-290c0e02c1c2"
+      "name": "시골돼지 담양숯불갈비 화순도곡본점",
+      "menu": "돼지숯불갈비",
+      "description": "화순 도곡 쪽에서 갈비를 먹고 싶은 날의 후보예요.",
+      "reviews": "4,579",
+      "rating": null,
+      "checkedAt": "2026-09-15",
+      "reviewSource": "네이버 지도 검색목록",
+      "source": "https://map.naver.com/p/search/%ED%99%94%EC%88%9C%20%EB%A7%9B%EC%A7%91"
     },
     "sights": [
       {
@@ -954,22 +1206,34 @@ window.JEOLLA_TOUR = [
     ],
     "foods": [
       {
-        "name": "화성식육식당",
-        "menu": "생고기비빔밥 · 소머리국밥",
-        "description": "화순의 오래된 식당에서 지역의 소고기 음식을 맛보세요.",
-        "source": "https://korean.visitkorea.or.kr/detail/ms_detail.do?cotid=815fe644-57f9-4ae9-8602-290c0e02c1c2"
+        "name": "시골돼지 담양숯불갈비 화순도곡본점",
+        "menu": "돼지숯불갈비",
+        "description": "화순 도곡 쪽에서 갈비를 먹고 싶은 날의 후보예요.",
+        "reviews": "4,579",
+        "rating": null,
+        "checkedAt": "2026-09-15",
+        "reviewSource": "네이버 지도 검색목록",
+        "source": "https://map.naver.com/p/search/%ED%99%94%EC%88%9C%20%EB%A7%9B%EC%A7%91"
       },
       {
-        "name": "색동두부",
-        "menu": "두부전골 · 포두부보쌈",
-        "description": "두부전골 · 포두부보쌈 메뉴를 중심으로 골라본 식사·간식 후보예요. 아래 안내에서 사진과 방문 정보를 살펴보세요.",
-        "source": "https://www.hwasun.go.kr/index.do?S=S09"
+        "name": "따봉시래기 전남화순점",
+        "menu": "시래기차돌쌈 · 들깨감자옹심이",
+        "description": "고기와 시래기를 함께 먹는 조금 다른 한 끼예요.",
+        "reviews": "1,506",
+        "rating": null,
+        "checkedAt": "2026-09-15",
+        "reviewSource": "네이버 지도 검색목록",
+        "source": "https://map.naver.com/p/search/%ED%99%94%EC%88%9C%20%EB%A7%9B%EC%A7%91"
       },
       {
-        "name": "둥근지붕",
-        "menu": "갈치구이 · 병어조림",
-        "description": "갈치구이 · 병어조림 메뉴를 중심으로 골라본 식사·간식 후보예요. 아래 안내에서 사진과 방문 정보를 살펴보세요.",
-        "source": "https://www.hwasun.go.kr/index.do?S=S09"
+        "name": "다올초밥",
+        "menu": "초밥",
+        "description": "한식 외에 초밥을 원할 때 비교할 수 있는 후보예요.",
+        "reviews": "4,260",
+        "rating": null,
+        "checkedAt": "2026-09-15",
+        "reviewSource": "네이버 지도 검색목록",
+        "source": "https://map.naver.com/p/search/%ED%99%94%EC%88%9C%20%EB%A7%9B%EC%A7%91"
       }
     ]
   },
@@ -982,10 +1246,14 @@ window.JEOLLA_TOUR = [
       "source": "https://korean.visitkorea.or.kr/detail/rem_detail.do?cotid=70f88c6a-c95c-4fc6-99c2-f2c2356b1825"
     },
     "food": {
-      "name": "만나숯불갈비",
-      "menu": "장흥삼합",
-      "description": "소고기·키조개·표고버섯의 조합으로 알려진 장흥삼합을 맛보세요.",
-      "source": "https://korean.visitkorea.or.kr/detail/rem_detail.do?cotid=70f88c6a-c95c-4fc6-99c2-f2c2356b1825"
+      "name": "바다하우스",
+      "menu": "소고기삼합 · 해물무침",
+      "description": "장흥에서 삼합과 해산물을 함께 먹고 싶은 날의 후보예요.",
+      "reviews": "1,421",
+      "rating": 4.53,
+      "checkedAt": "2026-09-15",
+      "reviewSource": "네이버 지도 검색목록",
+      "source": "https://map.naver.com/p/search/%EC%9E%A5%ED%9D%A5%20%EB%A7%9B%EC%A7%91"
     },
     "sights": [
       {
@@ -1011,22 +1279,34 @@ window.JEOLLA_TOUR = [
     ],
     "foods": [
       {
-        "name": "만나숯불갈비",
-        "menu": "장흥삼합",
-        "description": "소고기·키조개·표고버섯의 조합으로 알려진 장흥삼합을 맛보세요.",
-        "source": "https://korean.visitkorea.or.kr/detail/rem_detail.do?cotid=70f88c6a-c95c-4fc6-99c2-f2c2356b1825"
+        "name": "바다하우스",
+        "menu": "소고기삼합 · 해물무침",
+        "description": "장흥에서 삼합과 해산물을 함께 먹고 싶은 날의 후보예요.",
+        "reviews": "1,421",
+        "rating": 4.53,
+        "checkedAt": "2026-09-15",
+        "reviewSource": "네이버 지도 검색목록",
+        "source": "https://map.naver.com/p/search/%EC%9E%A5%ED%9D%A5%20%EB%A7%9B%EC%A7%91"
       },
       {
-        "name": "3대곰탕",
-        "menu": "곰탕",
-        "description": "곰탕 메뉴를 중심으로 골라본 식사·간식 후보예요. 아래 안내에서 사진과 방문 정보를 살펴보세요.",
-        "source": "https://campingfriend.co.kr/listing-food-detail/134495"
+        "name": "장흥 갯마을",
+        "menu": "삼합 · 제철 하모샤브샤브",
+        "description": "해산물을 중심으로 골랐어요. 하모 등 계절 메뉴는 방문 전 확인해요.",
+        "reviews": "1,403",
+        "rating": 4.62,
+        "checkedAt": "2026-09-15",
+        "reviewSource": "네이버 지도 검색목록",
+        "source": "https://map.naver.com/p/search/%EC%9E%A5%ED%9D%A5%20%EB%A7%9B%EC%A7%91"
       },
       {
-        "name": "싱싱회마을",
-        "menu": "된장물회",
-        "description": "된장물회 메뉴를 중심으로 골라본 식사·간식 후보예요. 아래 안내에서 사진과 방문 정보를 살펴보세요.",
-        "source": "https://www.huffingtonpost.kr/article/9030"
+        "name": "선학막국수",
+        "menu": "물막국수 · 들기름막국수",
+        "description": "무거운 상차림 대신 시원한 면으로 한 끼를 고를 수 있어요.",
+        "reviews": "417",
+        "rating": 4.76,
+        "checkedAt": "2026-09-15",
+        "reviewSource": "네이버 지도 검색목록",
+        "source": "https://map.naver.com/p/search/%EC%9E%A5%ED%9D%A5%20%EB%A7%9B%EC%A7%91"
       }
     ]
   },
@@ -1039,10 +1319,14 @@ window.JEOLLA_TOUR = [
       "source": "https://korean.visitkorea.or.kr/detail/rem_detail.do?cotid=57d8dca4-edcb-4c77-91eb-036e97bdad0b"
     },
     "food": {
-      "name": "다강한정식",
-      "menu": "한정식",
-      "description": "강진의 다양한 음식을 한 상으로 만나보세요. 인원별 상차림은 예약 때 확인하세요.",
-      "source": "https://korean.visitkorea.or.kr/detail/rem_detail.do?cotid=b09b829a-f790-415f-98e0-a78e47541e77"
+      "name": "부엌여행",
+      "menu": "강진모던카레라이스 · 토마토밥토리",
+      "description": "강진에서 한정식 외의 색다른 메뉴를 먹고 싶을 때 골라요.",
+      "reviews": "1,660",
+      "rating": 4.84,
+      "checkedAt": "2026-09-15",
+      "reviewSource": "네이버 지도 검색목록",
+      "source": "https://map.naver.com/p/search/%EA%B0%95%EC%A7%84%20%EB%A7%9B%EC%A7%91"
     },
     "sights": [
       {
@@ -1068,22 +1352,34 @@ window.JEOLLA_TOUR = [
     ],
     "foods": [
       {
-        "name": "다강한정식",
-        "menu": "한정식",
-        "description": "강진의 다양한 음식을 한 상으로 만나보세요. 인원별 상차림은 예약 때 확인하세요.",
-        "source": "https://korean.visitkorea.or.kr/detail/rem_detail.do?cotid=b09b829a-f790-415f-98e0-a78e47541e77"
+        "name": "부엌여행",
+        "menu": "강진모던카레라이스 · 토마토밥토리",
+        "description": "강진에서 한정식 외의 색다른 메뉴를 먹고 싶을 때 골라요.",
+        "reviews": "1,660",
+        "rating": 4.84,
+        "checkedAt": "2026-09-15",
+        "reviewSource": "네이버 지도 검색목록",
+        "source": "https://map.naver.com/p/search/%EA%B0%95%EC%A7%84%20%EB%A7%9B%EC%A7%91"
       },
       {
-        "name": "강진만갯벌탕",
-        "menu": "짱뚱어탕",
-        "description": "짱뚱어탕 메뉴를 중심으로 골라본 식사·간식 후보예요. 아래 안내에서 사진과 방문 정보를 살펴보세요.",
-        "source": "https://korean.visitkorea.or.kr/detail/ms_detail.do?cotid=b78c9fac-ce19-4d69-b042-251e07bdaa1d"
+        "name": "이피자",
+        "menu": "마르게리따 에 루꼴라 피자",
+        "description": "리뷰 수는 적지만 표시 별점이 높은 수제피자 후보예요.",
+        "reviews": "155",
+        "rating": 4.88,
+        "checkedAt": "2026-09-15",
+        "reviewSource": "네이버 지도 검색목록",
+        "source": "https://map.naver.com/p/search/%EA%B0%95%EC%A7%84%20%EB%A7%9B%EC%A7%91"
       },
       {
-        "name": "수인관",
-        "menu": "연탄불고기백반",
-        "description": "연탄불고기백반 메뉴를 중심으로 골라본 식사·간식 후보예요. 아래 안내에서 사진과 방문 정보를 살펴보세요.",
-        "source": "https://ktxmagazine.kr/wp-content/uploads/2024/12/2307.pdf"
+        "name": "황칠코리아 목삼정",
+        "menu": "갈비탕",
+        "description": "따뜻한 갈비탕으로 든든하게 식사하고 싶은 날의 후보예요.",
+        "reviews": "497",
+        "rating": null,
+        "checkedAt": "2026-09-15",
+        "reviewSource": "네이버 지도 검색목록",
+        "source": "https://map.naver.com/p/search/%EA%B0%95%EC%A7%84%20%EB%A7%9B%EC%A7%91"
       }
     ]
   },
@@ -1099,10 +1395,14 @@ window.JEOLLA_TOUR = [
       "asof": "2023년 7월 관광공사 안내"
     },
     "food": {
-      "name": "해남고구마빵 피낭시에",
-      "menu": "고구마빵",
-      "description": "해남 고구마를 떠올리게 하는 여행 간식으로 골라보세요.",
-      "source": "https://korean.visitkorea.or.kr/detail/rem_detail.do?cotid=584973eb-fec0-45ff-8ae9-5fd48658269e"
+      "name": "해남소망식당 본점",
+      "menu": "주물럭 · 해물된장국",
+      "description": "불향 나는 고기와 된장국을 함께 먹고 싶은 날의 후보예요.",
+      "reviews": "3,718",
+      "rating": 4.68,
+      "checkedAt": "2026-09-15",
+      "reviewSource": "네이버 지도 검색목록",
+      "source": "https://map.naver.com/p/search/%ED%95%B4%EB%82%A8%20%EB%A7%9B%EC%A7%91"
     },
     "sights": [
       {
@@ -1131,22 +1431,34 @@ window.JEOLLA_TOUR = [
     ],
     "foods": [
       {
-        "name": "해남고구마빵 피낭시에",
-        "menu": "고구마빵",
-        "description": "해남 고구마를 떠올리게 하는 여행 간식으로 골라보세요.",
-        "source": "https://korean.visitkorea.or.kr/detail/rem_detail.do?cotid=584973eb-fec0-45ff-8ae9-5fd48658269e"
+        "name": "해남소망식당 본점",
+        "menu": "주물럭 · 해물된장국",
+        "description": "불향 나는 고기와 된장국을 함께 먹고 싶은 날의 후보예요.",
+        "reviews": "3,718",
+        "rating": 4.68,
+        "checkedAt": "2026-09-15",
+        "reviewSource": "네이버 지도 검색목록",
+        "source": "https://map.naver.com/p/search/%ED%95%B4%EB%82%A8%20%EB%A7%9B%EC%A7%91"
       },
       {
-        "name": "천일식당",
-        "menu": "한정식",
-        "description": "한정식 메뉴를 중심으로 골라본 식사·간식 후보예요. 아래 안내에서 사진과 방문 정보를 살펴보세요.",
-        "source": "https://korean.visitkorea.or.kr/detail/rem_detail.do?cotid=5c133c81-5dda-4635-a4d3-79d06d62020a"
+        "name": "해남생갈비",
+        "menu": "한우갈비 · 육회비빔밥",
+        "description": "갈비구이와 식사 메뉴를 함께 비교해보세요.",
+        "reviews": "737",
+        "rating": 4.98,
+        "checkedAt": "2026-09-15",
+        "reviewSource": "네이버 지도 검색목록",
+        "source": "https://map.naver.com/p/search/%ED%95%B4%EB%82%A8%20%EB%A7%9B%EC%A7%91"
       },
       {
-        "name": "호산정",
-        "menu": "닭요리",
-        "description": "닭요리 메뉴를 중심으로 골라본 식사·간식 후보예요. 아래 안내에서 사진과 방문 정보를 살펴보세요.",
-        "source": "https://korean.visitkorea.or.kr/detail/rem_detail.do?cotid=5c133c81-5dda-4635-a4d3-79d06d62020a"
+        "name": "해남꽃담",
+        "menu": "생선구이한정식 · 갈치조림",
+        "description": "생선 요리와 솥밥 중심으로 먹고 싶은 날의 후보예요.",
+        "reviews": "1,202",
+        "rating": null,
+        "checkedAt": "2026-09-15",
+        "reviewSource": "네이버 지도 검색목록",
+        "source": "https://map.naver.com/p/search/%ED%95%B4%EB%82%A8%20%EB%A7%9B%EC%A7%91"
       }
     ]
   },
@@ -1159,10 +1471,14 @@ window.JEOLLA_TOUR = [
       "source": "https://korean.visitkorea.or.kr/detail/rem_detail.do?cotid=8abffa95-5a4d-4eaf-8564-9655221590be"
     },
     "food": {
-      "name": "독천식당",
-      "menu": "갈낙탕 · 연포탕",
-      "description": "낙지를 활용한 영암의 대표 음식을 맛볼 수 있어요.",
-      "source": "https://korean.visitkorea.or.kr/detail/rem_detail.do?cotid=8abffa95-5a4d-4eaf-8564-9655221590be"
+      "name": "달뜬콩두부 영암점",
+      "menu": "순두부찌개 · 콩국수",
+      "description": "콩과 두부 요리로 한 끼를 고르고 싶을 때 비교해보세요.",
+      "reviews": "1,322",
+      "rating": 4.72,
+      "checkedAt": "2026-09-15",
+      "reviewSource": "네이버 지도 검색목록",
+      "source": "https://map.naver.com/p/search/%EC%98%81%EC%95%94%20%EB%A7%9B%EC%A7%91"
     },
     "sights": [
       {
@@ -1188,22 +1504,34 @@ window.JEOLLA_TOUR = [
     ],
     "foods": [
       {
-        "name": "독천식당",
-        "menu": "갈낙탕 · 연포탕",
-        "description": "낙지를 활용한 영암의 대표 음식을 맛볼 수 있어요.",
-        "source": "https://korean.visitkorea.or.kr/detail/rem_detail.do?cotid=8abffa95-5a4d-4eaf-8564-9655221590be"
+        "name": "달뜬콩두부 영암점",
+        "menu": "순두부찌개 · 콩국수",
+        "description": "콩과 두부 요리로 한 끼를 고르고 싶을 때 비교해보세요.",
+        "reviews": "1,322",
+        "rating": 4.72,
+        "checkedAt": "2026-09-15",
+        "reviewSource": "네이버 지도 검색목록",
+        "source": "https://map.naver.com/p/search/%EC%98%81%EC%95%94%20%EB%A7%9B%EC%A7%91"
       },
       {
-        "name": "중원회관",
-        "menu": "갈낙탕",
-        "description": "갈낙탕 메뉴를 중심으로 골라본 식사·간식 후보예요. 아래 안내에서 사진과 방문 정보를 살펴보세요.",
-        "source": "https://m.menupan.com/board/board_view.asp?bt=gr&id=155949"
+        "name": "수연식당 백반",
+        "menu": "백반",
+        "description": "정식 한 상으로 식사하고 싶은 날의 후보예요.",
+        "reviews": "1,029",
+        "rating": null,
+        "checkedAt": "2026-09-15",
+        "reviewSource": "네이버 지도 검색목록",
+        "source": "https://map.naver.com/p/search/%EC%98%81%EC%95%94%20%EB%A7%9B%EC%A7%91"
       },
       {
-        "name": "영암매력한우명품관 · 삼호",
-        "menu": "한우구이",
-        "description": "한우구이 메뉴를 중심으로 골라본 식사·간식 후보예요. 아래 안내에서 사진과 방문 정보를 살펴보세요.",
-        "source": "https://www.koobig.com/633390"
+        "name": "천상현의천상 영암멋집",
+        "menu": "유린기 · 어향가지덮밥",
+        "description": "영암에서 중식으로 식사하고 싶은 날의 후보예요.",
+        "reviews": "588",
+        "rating": null,
+        "checkedAt": "2026-09-15",
+        "reviewSource": "네이버 지도 검색목록",
+        "source": "https://map.naver.com/p/search/%EC%98%81%EC%95%94%20%EB%A7%9B%EC%A7%91"
       }
     ]
   },
@@ -1216,10 +1544,14 @@ window.JEOLLA_TOUR = [
       "source": "https://korean.visitkorea.or.kr/detail/rem_detail.do?cotid=1f549e5a-e5fb-401f-804b-2586a56ae247"
     },
     "food": {
-      "name": "내고향뻘낙지",
-      "menu": "낙지 요리",
-      "description": "무안의 대표 먹거리인 낙지 요리를 즐겨보세요. 당일 메뉴·시가는 전화로 확인하세요.",
-      "source": "https://korean.visitkorea.or.kr/detail/rem_detail.do?cotid=594552ef-db92-4857-bc68-5698ae32c7b7"
+      "name": "화담",
+      "menu": "쭈꾸미볶음 · 우삼겹쭈꾸미철판",
+      "description": "매콤한 쭈꾸미와 볶음밥으로 한 끼를 고를 수 있어요.",
+      "reviews": "4,242",
+      "rating": null,
+      "checkedAt": "2026-09-15",
+      "reviewSource": "네이버 지도 검색목록",
+      "source": "https://map.naver.com/p/search/%EB%AC%B4%EC%95%88%20%EB%A7%9B%EC%A7%91"
     },
     "sights": [
       {
@@ -1243,22 +1575,34 @@ window.JEOLLA_TOUR = [
     ],
     "foods": [
       {
-        "name": "내고향뻘낙지",
-        "menu": "낙지 요리",
-        "description": "무안의 대표 먹거리인 낙지 요리를 즐겨보세요. 당일 메뉴·시가는 전화로 확인하세요.",
-        "source": "https://korean.visitkorea.or.kr/detail/rem_detail.do?cotid=594552ef-db92-4857-bc68-5698ae32c7b7"
+        "name": "화담",
+        "menu": "쭈꾸미볶음 · 우삼겹쭈꾸미철판",
+        "description": "매콤한 쭈꾸미와 볶음밥으로 한 끼를 고를 수 있어요.",
+        "reviews": "4,242",
+        "rating": null,
+        "checkedAt": "2026-09-15",
+        "reviewSource": "네이버 지도 검색목록",
+        "source": "https://map.naver.com/p/search/%EB%AC%B4%EC%95%88%20%EB%A7%9B%EC%A7%91"
       },
       {
-        "name": "동산정",
-        "menu": "낙지호롱 · 갈낙탕",
-        "description": "낙지호롱 · 갈낙탕 메뉴를 중심으로 골라본 식사·간식 후보예요. 아래 안내에서 사진과 방문 정보를 살펴보세요.",
-        "source": "https://www.diningcode.com/profile.php?rid=HdL34nwcvCBJ"
+        "name": "연어하다 남악",
+        "menu": "연어 요리",
+        "description": "남악에서 연어 중심의 일식 메뉴를 고르고 싶을 때 비교해보세요.",
+        "reviews": "2,968",
+        "rating": null,
+        "checkedAt": "2026-09-15",
+        "reviewSource": "네이버 지도 검색목록",
+        "source": "https://map.naver.com/p/search/%EB%AC%B4%EC%95%88%20%EB%A7%9B%EC%A7%91"
       },
       {
-        "name": "밥먹으러 임성가는길",
-        "menu": "돼지갈비김치찜",
-        "description": "돼지갈비김치찜 메뉴를 중심으로 골라본 식사·간식 후보예요. 아래 안내에서 사진과 방문 정보를 살펴보세요.",
-        "source": "https://korean.visitkorea.or.kr/detail/ms_detail.do?cotid=465fa46b-70d0-4cbb-864b-dc7d61c4a0d9"
+        "name": "해태관 남악점",
+        "menu": "꼬막짬뽕",
+        "description": "불향 나는 짬뽕으로 식사하고 싶은 날의 후보예요.",
+        "reviews": "2,866",
+        "rating": null,
+        "checkedAt": "2026-09-15",
+        "reviewSource": "네이버 지도 검색목록",
+        "source": "https://map.naver.com/p/search/%EB%AC%B4%EC%95%88%20%EB%A7%9B%EC%A7%91"
       }
     ]
   },
@@ -1271,10 +1615,14 @@ window.JEOLLA_TOUR = [
       "source": "https://korean.visitkorea.or.kr/detail/rem_detail.do?cotid=1ca9d114-decb-4e1b-bf6c-37e5be91d6b4"
     },
     "food": {
-      "name": "대흥식당",
-      "menu": "육회비빔밥",
-      "description": "함평의 대표 음식인 육회비빔밥을 맛볼 수 있는 식당이에요.",
-      "source": "https://korean.visitkorea.or.kr/detail/rem_detail.do?cotid=1ca9d114-decb-4e1b-bf6c-37e5be91d6b4"
+      "name": "함평애돌판",
+      "menu": "오삼불고기",
+      "description": "돌판에 볶아내는 오삼불고기로 한 끼를 고를 수 있어요.",
+      "reviews": "688",
+      "rating": 4.81,
+      "checkedAt": "2026-09-15",
+      "reviewSource": "네이버 지도 검색목록",
+      "source": "https://map.naver.com/p/search/%ED%95%A8%ED%8F%89%20%EB%A7%9B%EC%A7%91"
     },
     "sights": [
       {
@@ -1300,22 +1648,34 @@ window.JEOLLA_TOUR = [
     ],
     "foods": [
       {
-        "name": "대흥식당",
-        "menu": "육회비빔밥",
-        "description": "함평의 대표 음식인 육회비빔밥을 맛볼 수 있는 식당이에요.",
-        "source": "https://korean.visitkorea.or.kr/detail/rem_detail.do?cotid=1ca9d114-decb-4e1b-bf6c-37e5be91d6b4"
+        "name": "함평애돌판",
+        "menu": "오삼불고기",
+        "description": "돌판에 볶아내는 오삼불고기로 한 끼를 고를 수 있어요.",
+        "reviews": "688",
+        "rating": 4.81,
+        "checkedAt": "2026-09-15",
+        "reviewSource": "네이버 지도 검색목록",
+        "source": "https://map.naver.com/p/search/%ED%95%A8%ED%8F%89%20%EB%A7%9B%EC%A7%91"
       },
       {
-        "name": "목포식당 · 함평",
+        "name": "전주식당",
         "menu": "육회비빔밥",
-        "description": "육회비빔밥 메뉴를 중심으로 골라본 식사·간식 후보예요. 아래 안내에서 사진과 방문 정보를 살펴보세요.",
-        "source": "https://korean.visitkorea.or.kr/detail/rem_detail.do?cotid=1ca9d114-decb-4e1b-bf6c-37e5be91d6b4"
+        "description": "함평의 육회비빔밥을 먹고 싶을 때 비교해볼 후보예요.",
+        "reviews": "1,427",
+        "rating": 4.63,
+        "checkedAt": "2026-09-15",
+        "reviewSource": "네이버 지도 검색목록",
+        "source": "https://map.naver.com/p/search/%ED%95%A8%ED%8F%89%20%EB%A7%9B%EC%A7%91"
       },
       {
-        "name": "나비의꿈",
-        "menu": "육회비빔밥 · 낙지비빔밥",
-        "description": "육회비빔밥 · 낙지비빔밥 메뉴를 중심으로 골라본 식사·간식 후보예요. 아래 안내에서 사진과 방문 정보를 살펴보세요.",
-        "source": "https://korean.visitkorea.or.kr/detail/rem_detail.do?cotid=1ca9d114-decb-4e1b-bf6c-37e5be91d6b4"
+        "name": "초록식당",
+        "menu": "육회비빔밥",
+        "description": "육회비빔밥 식당 중 표시 리뷰 규모가 큰 후보예요.",
+        "reviews": "3,531",
+        "rating": 4.52,
+        "checkedAt": "2026-09-15",
+        "reviewSource": "네이버 지도 검색목록",
+        "source": "https://map.naver.com/p/search/%ED%95%A8%ED%8F%89%20%EB%A7%9B%EC%A7%91"
       }
     ]
   },
@@ -1328,10 +1688,14 @@ window.JEOLLA_TOUR = [
       "source": "https://korean.visitkorea.or.kr/detail/rem_detail.do?cotid=75a1d372-2b88-49b9-aa29-202d24b15958"
     },
     "food": {
-      "name": "월봉재",
-      "menu": "보리굴비",
-      "description": "법성포 일대의 대표 음식인 굴비를 한 상으로 즐겨보세요.",
-      "source": "https://korean.visitkorea.or.kr/detail/rem_detail.do?cotid=75a1d372-2b88-49b9-aa29-202d24b15958"
+      "name": "갈매기식당",
+      "menu": "굴비한정식",
+      "description": "법성포 쪽에서 굴비 한 상을 먹고 싶을 때 비교해보세요.",
+      "reviews": "1,853",
+      "rating": null,
+      "checkedAt": "2026-09-15",
+      "reviewSource": "네이버 지도 검색목록",
+      "source": "https://map.naver.com/p/search/%EC%98%81%EA%B4%91%20%EB%A7%9B%EC%A7%91"
     },
     "sights": [
       {
@@ -1357,22 +1721,34 @@ window.JEOLLA_TOUR = [
     ],
     "foods": [
       {
-        "name": "월봉재",
-        "menu": "보리굴비",
-        "description": "법성포 일대의 대표 음식인 굴비를 한 상으로 즐겨보세요.",
-        "source": "https://korean.visitkorea.or.kr/detail/rem_detail.do?cotid=75a1d372-2b88-49b9-aa29-202d24b15958"
-      },
-      {
-        "name": "동원정",
+        "name": "갈매기식당",
         "menu": "굴비한정식",
-        "description": "굴비한정식 메뉴를 중심으로 골라본 식사·간식 후보예요. 아래 안내에서 사진과 방문 정보를 살펴보세요.",
-        "source": "https://korean.visitkorea.or.kr/detail/rem_detail.do?cotid=c279097e-5647-4402-82d3-5127884fd146"
+        "description": "법성포 쪽에서 굴비 한 상을 먹고 싶을 때 비교해보세요.",
+        "reviews": "1,853",
+        "rating": null,
+        "checkedAt": "2026-09-15",
+        "reviewSource": "네이버 지도 검색목록",
+        "source": "https://map.naver.com/p/search/%EC%98%81%EA%B4%91%20%EB%A7%9B%EC%A7%91"
       },
       {
-        "name": "할매집 · 불갑사",
-        "menu": "보리밥정식",
-        "description": "보리밥정식 메뉴를 중심으로 골라본 식사·간식 후보예요. 아래 안내에서 사진과 방문 정보를 살펴보세요.",
-        "source": "https://korean.visitkorea.or.kr/detail/rem_detail.do?cotid=c279097e-5647-4402-82d3-5127884fd146"
+        "name": "영광맛집 호타루",
+        "menu": "초밥 · 돈까스 세트",
+        "description": "굴비 외에 초밥과 돈까스로 식사하고 싶을 때 골라요.",
+        "reviews": "840",
+        "rating": 4.82,
+        "checkedAt": "2026-09-15",
+        "reviewSource": "네이버 지도 검색목록",
+        "source": "https://map.naver.com/p/search/%EC%98%81%EA%B4%91%20%EB%A7%9B%EC%A7%91"
+      },
+      {
+        "name": "몽떼monte",
+        "menu": "등심돈까스 · 새우로제파스타",
+        "description": "돈까스와 파스타를 함께 고를 수 있는 양식 후보예요.",
+        "reviews": "504",
+        "rating": null,
+        "checkedAt": "2026-09-15",
+        "reviewSource": "네이버 지도 검색목록",
+        "source": "https://map.naver.com/p/search/%EC%98%81%EA%B4%91%20%EB%A7%9B%EC%A7%91"
       }
     ]
   },
@@ -1385,12 +1761,14 @@ window.JEOLLA_TOUR = [
       "source": "https://korean.visitkorea.or.kr/detail/rem_detail.do?cotid=55792f78-abaf-4329-8000-3ea8981a6c99"
     },
     "food": {
-      "name": "황룡우시장국밥집",
-      "menu": "모듬국밥",
-      "description": "장성의 국밥 한 그릇으로 여행 전후 든든하게 식사해보세요.",
-      "source": "https://korean.visitkorea.or.kr/detail/rem_detail.do?cotid=55792f78-abaf-4329-8000-3ea8981a6c99",
-      "price": "모듬국밥 10,000원",
-      "asof": "2025년 10월 관광공사 안내"
+      "name": "용매골 항아리 바베큐 손두부",
+      "menu": "항아리바비큐 · 손두부",
+      "description": "숯불구이와 두부를 함께 먹고 싶은 날의 후보예요.",
+      "reviews": "4,360",
+      "rating": 4.84,
+      "checkedAt": "2026-09-15",
+      "reviewSource": "네이버 지도 검색목록",
+      "source": "https://map.naver.com/p/search/%EC%9E%A5%EC%84%B1%20%EB%A7%9B%EC%A7%91"
     },
     "sights": [
       {
@@ -1416,24 +1794,34 @@ window.JEOLLA_TOUR = [
     ],
     "foods": [
       {
-        "name": "황룡우시장국밥집",
-        "menu": "모듬국밥",
-        "description": "장성의 국밥 한 그릇으로 여행 전후 든든하게 식사해보세요.",
-        "source": "https://korean.visitkorea.or.kr/detail/rem_detail.do?cotid=55792f78-abaf-4329-8000-3ea8981a6c99",
-        "price": "모듬국밥 10,000원",
-        "asof": "2025년 10월 관광공사 안내"
+        "name": "용매골 항아리 바베큐 손두부",
+        "menu": "항아리바비큐 · 손두부",
+        "description": "숯불구이와 두부를 함께 먹고 싶은 날의 후보예요.",
+        "reviews": "4,360",
+        "rating": 4.84,
+        "checkedAt": "2026-09-15",
+        "reviewSource": "네이버 지도 검색목록",
+        "source": "https://map.naver.com/p/search/%EC%9E%A5%EC%84%B1%20%EB%A7%9B%EC%A7%91"
       },
       {
-        "name": "단풍두부",
-        "menu": "두부전골 · 두부정식",
-        "description": "두부전골 · 두부정식 메뉴를 중심으로 골라본 식사·간식 후보예요. 아래 안내에서 사진과 방문 정보를 살펴보세요.",
-        "source": "https://blog.naver.com/yellowcity-js/223071321925"
+        "name": "남면한우마을",
+        "menu": "육회비빔밥 · 불고기백반",
+        "description": "한우구이부터 비빔밥까지 식사에 맞춰 골라보세요.",
+        "reviews": "681",
+        "rating": 4.7,
+        "checkedAt": "2026-09-15",
+        "reviewSource": "네이버 지도 검색목록",
+        "source": "https://map.naver.com/p/search/%EC%9E%A5%EC%84%B1%20%EB%A7%9B%EC%A7%91"
       },
       {
-        "name": "카페 느루",
-        "menu": "커피",
-        "description": "커피 메뉴를 중심으로 골라본 식사·간식 후보예요. 아래 안내에서 사진과 방문 정보를 살펴보세요.",
-        "source": "https://www.yeonsu.go.kr/UpFiles/board_1/%EC%A0%84%EB%82%A8%EC%82%AC%EB%9E%91%EC%95%A0_%EC%84%9C%ED%8F%AC%ED%84%B0%EC%A6%88_%ED%95%A0%EC%9D%B8%EA%B0%80%EB%A7%B9%EC%A0%90_%ED%98%84%ED%99%A9.pdf"
+        "name": "진초동순두부 장성본점",
+        "menu": "순두부",
+        "description": "두부 중심으로 든든하게 먹고 싶은 날. 표시 리뷰가 많은 후보예요.",
+        "reviews": "4,563",
+        "rating": 4.38,
+        "checkedAt": "2026-09-15",
+        "reviewSource": "네이버 지도 검색목록",
+        "source": "https://map.naver.com/p/search/%EC%9E%A5%EC%84%B1%20%EB%A7%9B%EC%A7%91"
       }
     ]
   },
@@ -1446,12 +1834,14 @@ window.JEOLLA_TOUR = [
       "source": "https://korean.visitkorea.or.kr/detail/rem_detail.do?cotid=21f2e1d2-479d-416d-bba4-2475495528d6"
     },
     "food": {
-      "name": "완도회타운",
-      "menu": "전복코스 · 전복죽",
-      "description": "완도의 대표 특산물인 전복을 다양한 방식으로 맛볼 수 있어요.",
-      "source": "https://korean.visitkorea.or.kr/detail/rem_detail.do?cotid=99a28ebf-8327-4ad2-962d-c759260d63b2",
-      "price": "전복코스 1인 55,000원 (2인 이상) · 전복죽 17,000원",
-      "asof": "2025년 10월 관광공사 안내"
+      "name": "완도어반",
+      "menu": "화덕생선구이 · 전복구이",
+      "description": "완도에서 생선과 전복을 함께 먹고 싶을 때 비교해보세요.",
+      "reviews": "3,299",
+      "rating": 4.58,
+      "checkedAt": "2026-09-15",
+      "reviewSource": "네이버 지도 검색목록",
+      "source": "https://map.naver.com/p/search/%EC%99%84%EB%8F%84%20%EB%A7%9B%EC%A7%91"
     },
     "sights": [
       {
@@ -1477,24 +1867,34 @@ window.JEOLLA_TOUR = [
     ],
     "foods": [
       {
-        "name": "완도회타운",
-        "menu": "전복코스 · 전복죽",
-        "description": "완도의 대표 특산물인 전복을 다양한 방식으로 맛볼 수 있어요.",
-        "source": "https://korean.visitkorea.or.kr/detail/rem_detail.do?cotid=99a28ebf-8327-4ad2-962d-c759260d63b2",
-        "price": "전복코스 1인 55,000원 (2인 이상) · 전복죽 17,000원",
-        "asof": "2025년 10월 관광공사 안내"
+        "name": "완도어반",
+        "menu": "화덕생선구이 · 전복구이",
+        "description": "완도에서 생선과 전복을 함께 먹고 싶을 때 비교해보세요.",
+        "reviews": "3,299",
+        "rating": 4.58,
+        "checkedAt": "2026-09-15",
+        "reviewSource": "네이버 지도 검색목록",
+        "source": "https://map.naver.com/p/search/%EC%99%84%EB%8F%84%20%EB%A7%9B%EC%A7%91"
       },
       {
-        "name": "대성회식당",
-        "menu": "전복요리 · 물회",
-        "description": "전복요리 · 물회 메뉴를 중심으로 골라본 식사·간식 후보예요. 아래 안내에서 사진과 방문 정보를 살펴보세요.",
-        "source": "https://www.ts.co.kr/webzine/2020/vol332.pdf"
+        "name": "귀빈식당",
+        "menu": "낙지비빔밥 · 전복해물미역국",
+        "description": "구이 외에 비빔밥과 따뜻한 국으로 식사하고 싶을 때 골라요.",
+        "reviews": "514",
+        "rating": 4.53,
+        "checkedAt": "2026-09-15",
+        "reviewSource": "네이버 지도 검색목록",
+        "source": "https://map.naver.com/p/search/%EC%99%84%EB%8F%84%20%EB%A7%9B%EC%A7%91"
       },
       {
         "name": "명품전복궁",
-        "menu": "전복코스",
-        "description": "전복코스 메뉴를 중심으로 골라본 식사·간식 후보예요. 아래 안내에서 사진과 방문 정보를 살펴보세요.",
-        "source": "https://www.ts.co.kr/webzine/2020/vol332.pdf"
+        "menu": "전복구이 · 전복비빔밥",
+        "description": "전복 여러 요리를 비교할 수 있는 후보. 기존 목록 중 리뷰도 확인한 곳이에요.",
+        "reviews": "1,015",
+        "rating": 4.43,
+        "checkedAt": "2026-09-15",
+        "reviewSource": "네이버 지도 검색목록",
+        "source": "https://map.naver.com/p/search/%EC%99%84%EB%8F%84%20%EB%A7%9B%EC%A7%91"
       }
     ]
   },
@@ -1507,10 +1907,14 @@ window.JEOLLA_TOUR = [
       "source": "https://korean.visitkorea.or.kr/detail/rem_detail.do?cotid=65437746-4036-4152-9e3d-952ce70a7b10"
     },
     "food": {
-      "name": "운림뜨락",
-      "menu": "표고한우전골",
-      "description": "운림산방 여행과 함께 들르기 좋은 식당으로 관광공사에 소개됐어요.",
-      "source": "https://korean.visitkorea.or.kr/detail/rem_detail.do?cotid=65437746-4036-4152-9e3d-952ce70a7b10"
+      "name": "꽃게선장낙지박사",
+      "menu": "해물전골 · 게장",
+      "description": "진도에서 해산물 식사를 고를 때 비교해볼 후보예요.",
+      "reviews": "3,844",
+      "rating": 4.85,
+      "checkedAt": "2026-09-15",
+      "reviewSource": "네이버 지도 검색목록",
+      "source": "https://map.naver.com/p/search/%EC%A7%84%EB%8F%84%20%EB%A7%9B%EC%A7%91"
     },
     "sights": [
       {
@@ -1536,22 +1940,34 @@ window.JEOLLA_TOUR = [
     ],
     "foods": [
       {
-        "name": "운림뜨락",
-        "menu": "표고한우전골",
-        "description": "운림산방 여행과 함께 들르기 좋은 식당으로 관광공사에 소개됐어요.",
-        "source": "https://korean.visitkorea.or.kr/detail/rem_detail.do?cotid=65437746-4036-4152-9e3d-952ce70a7b10"
+        "name": "꽃게선장낙지박사",
+        "menu": "해물전골 · 게장",
+        "description": "진도에서 해산물 식사를 고를 때 비교해볼 후보예요.",
+        "reviews": "3,844",
+        "rating": 4.85,
+        "checkedAt": "2026-09-15",
+        "reviewSource": "네이버 지도 검색목록",
+        "source": "https://map.naver.com/p/search/%EC%A7%84%EB%8F%84%20%EB%A7%9B%EC%A7%91"
       },
       {
-        "name": "맛나식당",
-        "menu": "전복듬북갈비탕",
-        "description": "전복듬북갈비탕 메뉴를 중심으로 골라본 식사·간식 후보예요. 아래 안내에서 사진과 방문 정보를 살펴보세요.",
-        "source": "https://www.korea.kr/briefing/policyBriefingView.do?newsId=148785789"
+        "name": "꽃피는진도 솥밥",
+        "menu": "전복솥밥 · 생선구이",
+        "description": "전복과 생선구이로 따뜻한 한 끼를 고를 수 있어요.",
+        "reviews": "1,910",
+        "rating": null,
+        "checkedAt": "2026-09-15",
+        "reviewSource": "네이버 지도 검색목록",
+        "source": "https://map.naver.com/p/search/%EC%A7%84%EB%8F%84%20%EB%A7%9B%EC%A7%91"
       },
       {
-        "name": "신호등회관",
-        "menu": "꽃게비빔밥 · 간장게장",
-        "description": "꽃게비빔밥 · 간장게장 메뉴를 중심으로 골라본 식사·간식 후보예요. 아래 안내에서 사진과 방문 정보를 살펴보세요.",
-        "source": "https://korean.visitkorea.or.kr/detail/rem_detail.do?cotid=a7e8fb39-38d3-4151-9eda-f9b6d022c51e"
+        "name": "명량화로 진도점",
+        "menu": "생마늘갈비 · 한우구이",
+        "description": "해산물 외에 고기를 먹고 싶은 날의 선택지예요.",
+        "reviews": "345",
+        "rating": 4.82,
+        "checkedAt": "2026-09-15",
+        "reviewSource": "네이버 지도 검색목록",
+        "source": "https://map.naver.com/p/search/%EC%A7%84%EB%8F%84%20%EB%A7%9B%EC%A7%91"
       }
     ]
   },
@@ -1564,10 +1980,14 @@ window.JEOLLA_TOUR = [
       "source": "https://korean.visitkorea.or.kr/detail/rem_detail.do?cotid=ddc82528-0629-4e64-8385-0fb65f3b463a"
     },
     "food": {
-      "name": "진번칼국수",
-      "menu": "바지락칼국수",
-      "description": "안좌도 여행 중 따뜻한 칼국수 한 그릇을 즐겨보세요. 군청이 있는 압해읍과는 떨어져 있어 추가 이동이 필요해요.",
-      "source": "https://korean.visitkorea.or.kr/detail/rem_detail.do?cotid=ddc82528-0629-4e64-8385-0fb65f3b463a"
+      "name": "증도 안성식당",
+      "menu": "짱뚱어탕 · 갈비탕",
+      "description": "증도에서 따뜻한 탕으로 식사할 때 비교해보세요.",
+      "reviews": "1,120",
+      "rating": null,
+      "checkedAt": "2026-09-15",
+      "reviewSource": "네이버 지도 검색목록",
+      "source": "https://map.naver.com/p/search/%EC%8B%A0%EC%95%88%20%EB%A7%9B%EC%A7%91"
     },
     "sights": [
       {
@@ -1593,22 +2013,34 @@ window.JEOLLA_TOUR = [
     ],
     "foods": [
       {
-        "name": "진번칼국수",
-        "menu": "바지락칼국수",
-        "description": "안좌도 여행 중 따뜻한 칼국수 한 그릇을 즐겨보세요. 군청이 있는 압해읍과는 떨어져 있어 추가 이동이 필요해요.",
-        "source": "https://korean.visitkorea.or.kr/detail/rem_detail.do?cotid=ddc82528-0629-4e64-8385-0fb65f3b463a"
+        "name": "증도 안성식당",
+        "menu": "짱뚱어탕 · 갈비탕",
+        "description": "증도에서 따뜻한 탕으로 식사할 때 비교해보세요.",
+        "reviews": "1,120",
+        "rating": null,
+        "checkedAt": "2026-09-15",
+        "reviewSource": "네이버 지도 검색목록",
+        "source": "https://map.naver.com/p/search/%EC%8B%A0%EC%95%88%20%EB%A7%9B%EC%A7%91"
       },
       {
-        "name": "이학식당",
-        "menu": "짱뚱어탕",
-        "description": "짱뚱어탕 메뉴를 중심으로 골라본 식사·간식 후보예요. 아래 안내에서 사진과 방문 정보를 살펴보세요.",
-        "source": "https://korean.visitkorea.or.kr/detail/rem_detail.do?cotid=ed0e7989-2eec-4c26-b27c-ff0686bab480"
+        "name": "자은도식당",
+        "menu": "갈치조림",
+        "description": "자은도 여행 중 갈치조림으로 한 끼를 고를 수 있어요.",
+        "reviews": "253",
+        "rating": null,
+        "checkedAt": "2026-09-15",
+        "reviewSource": "네이버 지도 검색목록",
+        "source": "https://map.naver.com/p/search/%EC%8B%A0%EC%95%88%20%EB%A7%9B%EC%A7%91"
       },
       {
-        "name": "고향식당 · 증도",
-        "menu": "짱뚱어탕",
-        "description": "짱뚱어탕 메뉴를 중심으로 골라본 식사·간식 후보예요. 아래 안내에서 사진과 방문 정보를 살펴보세요.",
-        "source": "https://korean.visitkorea.or.kr/detail/rem_detail.do?cotid=ed0e7989-2eec-4c26-b27c-ff0686bab480"
+        "name": "천사섬 신안 남하부엌",
+        "menu": "스테이크",
+        "description": "신안에서 양식 메뉴를 원할 때 비교해볼 후보예요. 리뷰 표본은 적은 편이에요.",
+        "reviews": "175",
+        "rating": null,
+        "checkedAt": "2026-09-15",
+        "reviewSource": "네이버 지도 검색목록",
+        "source": "https://map.naver.com/p/search/%EC%8B%A0%EC%95%88%20%EB%A7%9B%EC%A7%91"
       }
     ]
   },
@@ -1621,10 +2053,14 @@ window.JEOLLA_TOUR = [
       "source": "https://korean.visitkorea.or.kr/detail/rem_detail.do?cotid=e4976d07-0343-4d28-836e-72d03d4e3bf3"
     },
     "food": {
-      "name": "화심순두부 본점",
-      "menu": "순두부찌개",
-      "description": "완주 소양면의 대표 순두부 음식점으로 소개된 곳이에요.",
-      "source": "https://korean.visitkorea.or.kr/detail/rem_detail.do?cotid=e4976d07-0343-4d28-836e-72d03d4e3bf3"
+      "name": "지복점",
+      "menu": "숯불함박 · 크림/카레 소스",
+      "description": "숯불함박에 소스를 곁들여 먹고 싶은 날의 후보예요.",
+      "reviews": "885",
+      "rating": null,
+      "checkedAt": "2026-09-15",
+      "reviewSource": "네이버 지도 검색목록",
+      "source": "https://map.naver.com/p/search/%EC%99%84%EC%A3%BC%20%EB%A7%9B%EC%A7%91"
     },
     "sights": [
       {
@@ -1650,22 +2086,34 @@ window.JEOLLA_TOUR = [
     ],
     "foods": [
       {
-        "name": "화심순두부 본점",
-        "menu": "순두부찌개",
-        "description": "완주 소양면의 대표 순두부 음식점으로 소개된 곳이에요.",
-        "source": "https://korean.visitkorea.or.kr/detail/rem_detail.do?cotid=e4976d07-0343-4d28-836e-72d03d4e3bf3"
+        "name": "지복점",
+        "menu": "숯불함박 · 크림/카레 소스",
+        "description": "숯불함박에 소스를 곁들여 먹고 싶은 날의 후보예요.",
+        "reviews": "885",
+        "rating": null,
+        "checkedAt": "2026-09-15",
+        "reviewSource": "네이버 지도 검색목록",
+        "source": "https://map.naver.com/p/search/%EC%99%84%EC%A3%BC%20%EB%A7%9B%EC%A7%91"
       },
       {
-        "name": "송광순두부",
-        "menu": "순두부백반",
-        "description": "순두부백반 메뉴를 중심으로 골라본 식사·간식 후보예요. 아래 안내에서 사진과 방문 정보를 살펴보세요.",
-        "source": "https://tour.jb.go.kr/index.do?menuCd=DOM_000000110003007000"
+        "name": "다미 HANOI 쌀국수",
+        "menu": "쌀국수 · 반쎄오 · 분짜",
+        "description": "여럿이 베트남 메뉴를 나눠 먹고 싶은 날의 후보예요.",
+        "reviews": "1,754",
+        "rating": null,
+        "checkedAt": "2026-09-15",
+        "reviewSource": "네이버 지도 검색목록",
+        "source": "https://map.naver.com/p/search/%EC%99%84%EC%A3%BC%20%EB%A7%9B%EC%A7%91"
       },
       {
-        "name": "화산식당",
-        "menu": "참붕어찜",
-        "description": "참붕어찜 메뉴를 중심으로 골라본 식사·간식 후보예요. 아래 안내에서 사진과 방문 정보를 살펴보세요.",
-        "source": "https://tour.jb.go.kr/index.do?menuCd=DOM_000000110003007000"
+        "name": "훗스테이크 전주혁신도시점",
+        "menu": "스테이크",
+        "description": "혁신도시 쪽에서 스테이크로 식사하고 싶을 때 비교해보세요.",
+        "reviews": "3,974",
+        "rating": null,
+        "checkedAt": "2026-09-15",
+        "reviewSource": "네이버 지도 검색목록",
+        "source": "https://map.naver.com/p/search/%EC%99%84%EC%A3%BC%20%EB%A7%9B%EC%A7%91"
       }
     ]
   },
@@ -1678,10 +2126,14 @@ window.JEOLLA_TOUR = [
       "source": "https://korean.visitkorea.or.kr/detail/rem_detail.do?cotid=b638b8fa-c1ee-4a55-807b-b6c81fc838c8"
     },
     "food": {
-      "name": "마이담",
-      "menu": "홍삼시래기밥 · 홍삼떡갈비",
-      "description": "진안 홍삼을 활용한 음식을 한 상으로 만나보세요.",
-      "source": "https://korean.visitkorea.or.kr/detail/rem_detail.do?cotid=c024ee96-6fce-4a3b-90ce-4060585cbcdb"
+      "name": "초가정담",
+      "menu": "산채백반 · 돼지등갈비",
+      "description": "마이산 쪽에서 산채와 고기 메뉴를 함께 고를 수 있어요.",
+      "reviews": "3,420",
+      "rating": 4.52,
+      "checkedAt": "2026-09-15",
+      "reviewSource": "네이버 지도 검색목록",
+      "source": "https://map.naver.com/p/search/%EC%A7%84%EC%95%88%20%EB%A7%9B%EC%A7%91"
     },
     "sights": [
       {
@@ -1707,22 +2159,34 @@ window.JEOLLA_TOUR = [
     ],
     "foods": [
       {
-        "name": "마이담",
-        "menu": "홍삼시래기밥 · 홍삼떡갈비",
-        "description": "진안 홍삼을 활용한 음식을 한 상으로 만나보세요.",
-        "source": "https://korean.visitkorea.or.kr/detail/rem_detail.do?cotid=c024ee96-6fce-4a3b-90ce-4060585cbcdb"
-      },
-      {
         "name": "초가정담",
         "menu": "산채백반 · 돼지등갈비",
-        "description": "산채백반 · 돼지등갈비 메뉴를 중심으로 골라본 식사·간식 후보예요. 아래 안내에서 사진과 방문 정보를 살펴보세요.",
-        "source": "https://www.jinan.go.kr/festival/page/festival06/festival06_04.jsp"
+        "description": "마이산 쪽에서 산채와 고기 메뉴를 함께 고를 수 있어요.",
+        "reviews": "3,420",
+        "rating": 4.52,
+        "checkedAt": "2026-09-15",
+        "reviewSource": "네이버 지도 검색목록",
+        "source": "https://map.naver.com/p/search/%EC%A7%84%EC%95%88%20%EB%A7%9B%EC%A7%91"
       },
       {
-        "name": "벚꽃마을",
-        "menu": "산채백반 · 돼지등갈비",
-        "description": "산채백반 · 돼지등갈비 메뉴를 중심으로 골라본 식사·간식 후보예요. 아래 안내에서 사진과 방문 정보를 살펴보세요.",
-        "source": "https://www.jinan.go.kr/festival/page/festival06/festival06_04.jsp"
+        "name": "조대감네 전주회관",
+        "menu": "더덕구이 · 흑돼지불고기",
+        "description": "더덕과 불고기를 함께 먹고 싶은 날의 후보예요.",
+        "reviews": "1,066",
+        "rating": null,
+        "checkedAt": "2026-09-15",
+        "reviewSource": "네이버 지도 검색목록",
+        "source": "https://map.naver.com/p/search/%EC%A7%84%EC%95%88%20%EB%A7%9B%EC%A7%91"
+      },
+      {
+        "name": "모래재너머",
+        "menu": "함박스테이크",
+        "description": "산채 정식 외에 양식 한 끼를 원할 때 골라요.",
+        "reviews": "763",
+        "rating": null,
+        "checkedAt": "2026-09-15",
+        "reviewSource": "네이버 지도 검색목록",
+        "source": "https://map.naver.com/p/search/%EC%A7%84%EC%95%88%20%EB%A7%9B%EC%A7%91"
       }
     ]
   },
@@ -1735,10 +2199,14 @@ window.JEOLLA_TOUR = [
       "source": "https://korean.visitkorea.or.kr/detail/rem_detail.do?cotid=b0cca9a3-bd55-4f72-ba43-195d01586331"
     },
     "food": {
-      "name": "천지가든",
-      "menu": "버섯전골정식 · 산채비빔밥",
-      "description": "산에서 나는 재료를 활용한 식사로 쉬어가세요.",
-      "source": "https://korean.visitkorea.or.kr/detail/rem_detail.do?cotid=b0cca9a3-bd55-4f72-ba43-195d01586331"
+      "name": "무주오리",
+      "menu": "더덕오리불고기 · 한방오리백숙",
+      "description": "오리 요리로 여럿이 든든하게 식사하고 싶은 날의 후보예요.",
+      "reviews": "3,709",
+      "rating": 4.91,
+      "checkedAt": "2026-09-15",
+      "reviewSource": "네이버 지도 검색목록",
+      "source": "https://map.naver.com/p/search/%EB%AC%B4%EC%A3%BC%20%EB%A7%9B%EC%A7%91"
     },
     "sights": [
       {
@@ -1764,22 +2232,34 @@ window.JEOLLA_TOUR = [
     ],
     "foods": [
       {
-        "name": "천지가든",
-        "menu": "버섯전골정식 · 산채비빔밥",
-        "description": "산에서 나는 재료를 활용한 식사로 쉬어가세요.",
-        "source": "https://korean.visitkorea.or.kr/detail/rem_detail.do?cotid=b0cca9a3-bd55-4f72-ba43-195d01586331"
+        "name": "무주오리",
+        "menu": "더덕오리불고기 · 한방오리백숙",
+        "description": "오리 요리로 여럿이 든든하게 식사하고 싶은 날의 후보예요.",
+        "reviews": "3,709",
+        "rating": 4.91,
+        "checkedAt": "2026-09-15",
+        "reviewSource": "네이버 지도 검색목록",
+        "source": "https://map.naver.com/p/search/%EB%AC%B4%EC%A3%BC%20%EB%A7%9B%EC%A7%91"
       },
       {
-        "name": "샤브한쌈",
-        "menu": "버섯샤브샤브",
-        "description": "버섯샤브샤브 메뉴를 중심으로 골라본 식사·간식 후보예요. 아래 안내에서 사진과 방문 정보를 살펴보세요.",
-        "source": "https://access.visitkorea.or.kr/cos/detail.do?cotId=48835f81-b166-4c5b-84de-347e7e730ec5"
+        "name": "무주맛집 무주돌짜장",
+        "menu": "돌짜장 · 사과탕수육",
+        "description": "돌짜장과 탕수육을 함께 먹고 싶은 날의 후보예요.",
+        "reviews": "1,157",
+        "rating": 4.8,
+        "checkedAt": "2026-09-15",
+        "reviewSource": "네이버 지도 검색목록",
+        "source": "https://map.naver.com/p/search/%EB%AC%B4%EC%A3%BC%20%EB%A7%9B%EC%A7%91"
       },
       {
-        "name": "반딧골버섯마을",
-        "menu": "버섯탕 · 천마돈가스",
-        "description": "버섯탕 · 천마돈가스 메뉴를 중심으로 골라본 식사·간식 후보예요. 아래 안내에서 사진과 방문 정보를 살펴보세요.",
-        "source": "https://www.korea.kr/news/issueQAView.do?newsId=148808908"
+        "name": "미담 무주 본점",
+        "menu": "돼지고기 특수부위 구이",
+        "description": "무주에서 고기구이로 식사하고 싶은 날 비교해보세요.",
+        "reviews": "1,562",
+        "rating": null,
+        "checkedAt": "2026-09-15",
+        "reviewSource": "네이버 지도 검색목록",
+        "source": "https://map.naver.com/p/search/%EB%AC%B4%EC%A3%BC%20%EB%A7%9B%EC%A7%91"
       }
     ]
   },
@@ -1792,12 +2272,14 @@ window.JEOLLA_TOUR = [
       "source": "https://korean.visitkorea.or.kr/detail/rem_detail.do?cotid=a0c72e0c-034e-4bdc-9e1a-6dee1c1c238a"
     },
     "food": {
-      "name": "장수젊은한우영농조합법인",
-      "menu": "한우갈비탕 · 육회",
-      "description": "장수의 대표 먹거리 한우를 즐길 수 있어요.",
-      "source": "https://korean.visitkorea.or.kr/detail/rem_detail.do?cotid=a0c72e0c-034e-4bdc-9e1a-6dee1c1c238a",
-      "hours": "11:30–21:00 · 설·추석 당일 휴무",
-      "asof": "2021년 7월 관광공사 안내"
+      "name": "한우랑사과 식당",
+      "menu": "소불고기전골 · 육회비빔밥",
+      "description": "장수 한우를 전골이나 비빔밥으로 먹고 싶은 날의 후보예요.",
+      "reviews": "1,108",
+      "rating": 4.77,
+      "checkedAt": "2026-09-15",
+      "reviewSource": "네이버 지도 검색목록",
+      "source": "https://map.naver.com/p/search/%EC%9E%A5%EC%88%98%20%EB%A7%9B%EC%A7%91"
     },
     "sights": [
       {
@@ -1821,24 +2303,34 @@ window.JEOLLA_TOUR = [
     ],
     "foods": [
       {
-        "name": "장수젊은한우영농조합법인",
-        "menu": "한우갈비탕 · 육회",
-        "description": "장수의 대표 먹거리 한우를 즐길 수 있어요.",
-        "source": "https://korean.visitkorea.or.kr/detail/rem_detail.do?cotid=a0c72e0c-034e-4bdc-9e1a-6dee1c1c238a",
-        "hours": "11:30–21:00 · 설·추석 당일 휴무",
-        "asof": "2021년 7월 관광공사 안내"
+        "name": "한우랑사과 식당",
+        "menu": "소불고기전골 · 육회비빔밥",
+        "description": "장수 한우를 전골이나 비빔밥으로 먹고 싶은 날의 후보예요.",
+        "reviews": "1,108",
+        "rating": 4.77,
+        "checkedAt": "2026-09-15",
+        "reviewSource": "네이버 지도 검색목록",
+        "source": "https://map.naver.com/p/search/%EC%9E%A5%EC%88%98%20%EB%A7%9B%EC%A7%91"
       },
       {
-        "name": "장수한우명품관",
-        "menu": "한우구이 · 육회비빔밥",
-        "description": "한우구이 · 육회비빔밥 메뉴를 중심으로 골라본 식사·간식 후보예요. 아래 안내에서 사진과 방문 정보를 살펴보세요.",
-        "source": "https://tour.jb.go.kr/index.do?menuCd=DOM_000000110003010000"
+        "name": "토옥동송어횟집",
+        "menu": "송어회 · 매운탕",
+        "description": "고기 외에 송어회와 매운탕을 나눠 먹고 싶은 날 골라요.",
+        "reviews": "321",
+        "rating": null,
+        "checkedAt": "2026-09-15",
+        "reviewSource": "네이버 지도 검색목록",
+        "source": "https://map.naver.com/p/search/%EC%9E%A5%EC%88%98%20%EB%A7%9B%EC%A7%91"
       },
       {
-        "name": "한우랑사과식당",
-        "menu": "한우불고기전골",
-        "description": "한우불고기전골 메뉴를 중심으로 골라본 식사·간식 후보예요. 아래 안내에서 사진과 방문 정보를 살펴보세요.",
-        "source": "https://tour.jb.go.kr/index.do?menuCd=DOM_000000110003010000"
+        "name": "장수밥상",
+        "menu": "순두부찌개 · 한식",
+        "description": "차분하게 밥과 찌개를 먹고 싶을 때의 후보. 리뷰 표본은 적은 편이에요.",
+        "reviews": "194",
+        "rating": null,
+        "checkedAt": "2026-09-15",
+        "reviewSource": "네이버 지도 검색목록",
+        "source": "https://map.naver.com/p/search/%EC%9E%A5%EC%88%98%20%EB%A7%9B%EC%A7%91"
       }
     ]
   },
@@ -1851,12 +2343,14 @@ window.JEOLLA_TOUR = [
       "source": "https://korean.visitkorea.or.kr/detail/rem_detail.do?cotid=cc279ae0-d98e-49c9-836f-d6b4b8b02d2f"
     },
     "food": {
-      "name": "화덕쿡",
-      "menu": "화덕피자",
-      "description": "치즈테마파크 여행과 함께 즐기는 피자 한 판이에요.",
-      "source": "https://korean.visitkorea.or.kr/detail/rem_detail.do?cotid=039771fc-10da-48b9-b759-d1fd01ee70aa",
-      "hours": "11:00–20:00 · 월요일 휴무",
-      "asof": "2021년 12월 관광공사 안내"
+      "name": "치즈온",
+      "menu": "피자 · 파스타",
+      "description": "임실에서 치즈를 곁들인 피자로 한 끼를 고를 수 있어요.",
+      "reviews": "4,647",
+      "rating": null,
+      "checkedAt": "2026-09-15",
+      "reviewSource": "네이버 지도 검색목록",
+      "source": "https://map.naver.com/p/search/%EC%9E%84%EC%8B%A4%20%EB%A7%9B%EC%A7%91"
     },
     "sights": [
       {
@@ -1882,24 +2376,34 @@ window.JEOLLA_TOUR = [
     ],
     "foods": [
       {
-        "name": "화덕쿡",
-        "menu": "화덕피자",
-        "description": "치즈테마파크 여행과 함께 즐기는 피자 한 판이에요.",
-        "source": "https://korean.visitkorea.or.kr/detail/rem_detail.do?cotid=039771fc-10da-48b9-b759-d1fd01ee70aa",
-        "hours": "11:00–20:00 · 월요일 휴무",
-        "asof": "2021년 12월 관광공사 안내"
+        "name": "치즈온",
+        "menu": "피자 · 파스타",
+        "description": "임실에서 치즈를 곁들인 피자로 한 끼를 고를 수 있어요.",
+        "reviews": "4,647",
+        "rating": null,
+        "checkedAt": "2026-09-15",
+        "reviewSource": "네이버 지도 검색목록",
+        "source": "https://map.naver.com/p/search/%EC%9E%84%EC%8B%A4%20%EB%A7%9B%EC%A7%91"
       },
       {
-        "name": "장안집",
-        "menu": "소머리곰탕",
-        "description": "소머리곰탕 메뉴를 중심으로 골라본 식사·간식 후보예요. 아래 안내에서 사진과 방문 정보를 살펴보세요.",
-        "source": "https://tour.jb.go.kr/index.do?menuCd=DOM_000000110003011000"
+        "name": "요거트에빠진돼지요돼지",
+        "menu": "요거트숙성 삼겹살",
+        "description": "요거트로 숙성한 고기를 먹어보고 싶은 날의 후보예요.",
+        "reviews": "789",
+        "rating": 4.88,
+        "checkedAt": "2026-09-15",
+        "reviewSource": "네이버 지도 검색목록",
+        "source": "https://map.naver.com/p/search/%EC%9E%84%EC%8B%A4%20%EB%A7%9B%EC%A7%91"
       },
       {
-        "name": "섬진강다슬기마을",
-        "menu": "다슬기탕",
-        "description": "다슬기탕 메뉴를 중심으로 골라본 식사·간식 후보예요. 아래 안내에서 사진과 방문 정보를 살펴보세요.",
-        "source": "https://tour.jb.go.kr/index.do?menuCd=DOM_000000110003011000"
+        "name": "박가네숯불구이",
+        "menu": "오겹살 · 고추장삼겹살",
+        "description": "숯불고기를 중심으로 식사하고 싶은 날 비교해보세요.",
+        "reviews": "745",
+        "rating": 4.94,
+        "checkedAt": "2026-09-15",
+        "reviewSource": "네이버 지도 검색목록",
+        "source": "https://map.naver.com/p/search/%EC%9E%84%EC%8B%A4%20%EB%A7%9B%EC%A7%91"
       }
     ]
   },
@@ -1915,10 +2419,14 @@ window.JEOLLA_TOUR = [
       "asof": "2026년 4월 관광공사 안내"
     },
     "food": {
-      "name": "순창농부의부엌",
-      "menu": "산야초비빔밥",
-      "description": "지역 식재료를 담은 비빔밥으로 여행 중 한 끼를 즐겨보세요.",
-      "source": "https://korean.visitkorea.or.kr/detail/rem_detail.do?cotid=a038daca-dda3-45e3-a0fa-af3a0c2f4de8"
+      "name": "미소식당",
+      "menu": "연잎밥정식",
+      "description": "순창에서 연잎밥 한 상을 먹고 싶을 때 비교해보세요.",
+      "reviews": "1,176",
+      "rating": 4.82,
+      "checkedAt": "2026-09-15",
+      "reviewSource": "네이버 지도 검색목록",
+      "source": "https://map.naver.com/p/search/%EC%88%9C%EC%B0%BD%20%EB%A7%9B%EC%A7%91"
     },
     "sights": [
       {
@@ -1949,22 +2457,34 @@ window.JEOLLA_TOUR = [
     ],
     "foods": [
       {
-        "name": "순창농부의부엌",
-        "menu": "산야초비빔밥",
-        "description": "지역 식재료를 담은 비빔밥으로 여행 중 한 끼를 즐겨보세요.",
-        "source": "https://korean.visitkorea.or.kr/detail/rem_detail.do?cotid=a038daca-dda3-45e3-a0fa-af3a0c2f4de8"
+        "name": "미소식당",
+        "menu": "연잎밥정식",
+        "description": "순창에서 연잎밥 한 상을 먹고 싶을 때 비교해보세요.",
+        "reviews": "1,176",
+        "rating": 4.82,
+        "checkedAt": "2026-09-15",
+        "reviewSource": "네이버 지도 검색목록",
+        "source": "https://map.naver.com/p/search/%EC%88%9C%EC%B0%BD%20%EB%A7%9B%EC%A7%91"
       },
       {
-        "name": "옥천골한정식",
-        "menu": "한정식",
-        "description": "한정식 메뉴를 중심으로 골라본 식사·간식 후보예요. 아래 안내에서 사진과 방문 정보를 살펴보세요.",
-        "source": "https://tour.jb.go.kr/index.do?menuCd=DOM_000000110003012000"
+        "name": "해뜬집&불고기백반&아구찜",
+        "menu": "순창고추장불고기 · 청국장",
+        "description": "고추장불고기와 밥을 함께 먹고 싶은 날의 후보예요.",
+        "reviews": "353",
+        "rating": 4.73,
+        "checkedAt": "2026-09-15",
+        "reviewSource": "네이버 지도 검색목록",
+        "source": "https://map.naver.com/p/search/%EC%88%9C%EC%B0%BD%20%EB%A7%9B%EC%A7%91"
       },
       {
-        "name": "뜨란채",
-        "menu": "고추장불고기",
-        "description": "고추장불고기 메뉴를 중심으로 골라본 식사·간식 후보예요. 아래 안내에서 사진과 방문 정보를 살펴보세요.",
-        "source": "https://tour.jb.go.kr/index.do?menuCd=DOM_000000110003012000"
+        "name": "카페가온",
+        "menu": "찹스테이크 · 양송이크림파스타",
+        "description": "리뷰 표본은 적지만 표시 별점이 높은 브런치 식사 후보예요.",
+        "reviews": "176",
+        "rating": 4.97,
+        "checkedAt": "2026-09-15",
+        "reviewSource": "네이버 지도 검색목록",
+        "source": "https://map.naver.com/p/search/%EC%88%9C%EC%B0%BD%20%EB%A7%9B%EC%A7%91"
       }
     ]
   },
@@ -1980,12 +2500,14 @@ window.JEOLLA_TOUR = [
       "asof": "2023년 12월 관광공사 안내"
     },
     "food": {
-      "name": "우리풍천장어",
-      "menu": "풍천장어구이",
-      "description": "고창의 대표 먹거리인 장어구이를 즐겨보세요.",
-      "source": "https://korean.visitkorea.or.kr/detail/rem_detail.do?cotid=7108a862-2542-463a-97c5-077752711062",
-      "hours": "11:00–21:30 · 쉬는 시간 15:00–17:00",
-      "asof": "2023년 12월 관광공사 안내"
+      "name": "장어파는부부",
+      "menu": "장어구이 · 장어탕",
+      "description": "고창에서 장어를 먹을 때 비교해볼 후보예요.",
+      "reviews": "1,448",
+      "rating": 4.76,
+      "checkedAt": "2026-09-15",
+      "reviewSource": "네이버 지도 검색목록",
+      "source": "https://map.naver.com/p/search/%EA%B3%A0%EC%B0%BD%20%EB%A7%9B%EC%A7%91"
     },
     "sights": [
       {
@@ -2014,24 +2536,34 @@ window.JEOLLA_TOUR = [
     ],
     "foods": [
       {
-        "name": "우리풍천장어",
-        "menu": "풍천장어구이",
-        "description": "고창의 대표 먹거리인 장어구이를 즐겨보세요.",
-        "source": "https://korean.visitkorea.or.kr/detail/rem_detail.do?cotid=7108a862-2542-463a-97c5-077752711062",
-        "hours": "11:00–21:30 · 쉬는 시간 15:00–17:00",
-        "asof": "2023년 12월 관광공사 안내"
+        "name": "장어파는부부",
+        "menu": "장어구이 · 장어탕",
+        "description": "고창에서 장어를 먹을 때 비교해볼 후보예요.",
+        "reviews": "1,448",
+        "rating": 4.76,
+        "checkedAt": "2026-09-15",
+        "reviewSource": "네이버 지도 검색목록",
+        "source": "https://map.naver.com/p/search/%EA%B3%A0%EC%B0%BD%20%EB%A7%9B%EC%A7%91"
       },
       {
-        "name": "금단양만",
-        "menu": "풍천장어구이",
-        "description": "풍천장어구이 메뉴를 중심으로 골라본 식사·간식 후보예요. 아래 안내에서 사진과 방문 정보를 살펴보세요.",
-        "source": "https://tour.jb.go.kr/index.do?menuCd=DOM_000000110003013000"
+        "name": "텍사스바베큐 파이어우드 고창본점",
+        "menu": "텍사스바비큐",
+        "description": "장어 외에 바비큐로 여럿이 식사하고 싶을 때 골라요. 예약 우선 안내가 있어요.",
+        "reviews": "2,113",
+        "rating": null,
+        "checkedAt": "2026-09-15",
+        "reviewSource": "네이버 지도 검색목록",
+        "source": "https://map.naver.com/p/search/%EA%B3%A0%EC%B0%BD%20%EB%A7%9B%EC%A7%91"
       },
       {
-        "name": "청림정금자할매집",
-        "menu": "풍천장어구이",
-        "description": "풍천장어구이 메뉴를 중심으로 골라본 식사·간식 후보예요. 아래 안내에서 사진과 방문 정보를 살펴보세요.",
-        "source": "https://tour.jb.go.kr/index.do?menuCd=DOM_000000110003013000"
+        "name": "본가",
+        "menu": "바지락전골 · 아구찜",
+        "description": "장어구이 외에 해산물 전골을 먹고 싶은 날의 후보예요.",
+        "reviews": "1,951",
+        "rating": 4.41,
+        "checkedAt": "2026-09-15",
+        "reviewSource": "네이버 지도 검색목록",
+        "source": "https://map.naver.com/p/search/%EA%B3%A0%EC%B0%BD%20%EB%A7%9B%EC%A7%91"
       }
     ]
   },
@@ -2044,10 +2576,14 @@ window.JEOLLA_TOUR = [
       "source": "https://korean.visitkorea.or.kr/detail/rem_detail.do?cotid=092945d1-5d50-42b1-97be-4d7548e55561"
     },
     "food": {
-      "name": "변산온천산장",
-      "menu": "바지락죽",
-      "description": "부안의 바지락을 활용한 따뜻한 한 그릇을 맛보세요.",
-      "source": "https://korean.visitkorea.or.kr/detail/rem_detail.do?cotid=092945d1-5d50-42b1-97be-4d7548e55561"
+      "name": "다해꽃게장",
+      "menu": "꽃게장 · 박대구이정식",
+      "description": "부안에서 게장과 생선구이를 비교해볼 수 있는 후보예요.",
+      "reviews": "5,427",
+      "rating": 4.81,
+      "checkedAt": "2026-09-15",
+      "reviewSource": "네이버 지도 검색목록",
+      "source": "https://map.naver.com/p/search/%EB%B6%80%EC%95%88%20%EB%A7%9B%EC%A7%91"
     },
     "sights": [
       {
@@ -2073,22 +2609,34 @@ window.JEOLLA_TOUR = [
     ],
     "foods": [
       {
-        "name": "변산온천산장",
-        "menu": "바지락죽",
-        "description": "부안의 바지락을 활용한 따뜻한 한 그릇을 맛보세요.",
-        "source": "https://korean.visitkorea.or.kr/detail/rem_detail.do?cotid=092945d1-5d50-42b1-97be-4d7548e55561"
+        "name": "다해꽃게장",
+        "menu": "꽃게장 · 박대구이정식",
+        "description": "부안에서 게장과 생선구이를 비교해볼 수 있는 후보예요.",
+        "reviews": "5,427",
+        "rating": 4.81,
+        "checkedAt": "2026-09-15",
+        "reviewSource": "네이버 지도 검색목록",
+        "source": "https://map.naver.com/p/search/%EB%B6%80%EC%95%88%20%EB%A7%9B%EC%A7%91"
       },
       {
-        "name": "바다마을식당",
-        "menu": "백합죽 · 바지락죽",
-        "description": "백합죽 · 바지락죽 메뉴를 중심으로 골라본 식사·간식 후보예요. 아래 안내에서 사진과 방문 정보를 살펴보세요.",
-        "source": "https://tour.jb.go.kr/index.do?menuCd=DOM_000000110003014000"
+        "name": "한바다 연가",
+        "menu": "피자 · 봉골레파스타",
+        "description": "바닷가 여행에 양식 한 끼를 더하고 싶을 때 골라요.",
+        "reviews": "1,839",
+        "rating": 4.73,
+        "checkedAt": "2026-09-15",
+        "reviewSource": "네이버 지도 검색목록",
+        "source": "https://map.naver.com/p/search/%EB%B6%80%EC%95%88%20%EB%A7%9B%EC%A7%91"
       },
       {
-        "name": "형제식당",
-        "menu": "물메기탕",
-        "description": "물메기탕 메뉴를 중심으로 골라본 식사·간식 후보예요. 아래 안내에서 사진과 방문 정보를 살펴보세요.",
-        "source": "https://tour.jb.go.kr/index.do?menuCd=DOM_000000110003014000"
+        "name": "신변산반도횟집",
+        "menu": "생선회 · 게장",
+        "description": "변산 쪽에서 회와 해산물을 먹고 싶을 때 비교해보세요.",
+        "reviews": "6,882",
+        "rating": 4.61,
+        "checkedAt": "2026-09-15",
+        "reviewSource": "네이버 지도 검색목록",
+        "source": "https://map.naver.com/p/search/%EB%B6%80%EC%95%88%20%EB%A7%9B%EC%A7%91"
       }
     ]
   }
